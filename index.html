@@ -38,7 +38,7 @@ permalink: "/"
           </div>
           <div class="col-lg-8">
             <h6 class="fst-italic text-muted">
-              {{ client.header_text }}
+              {{ client.header_text  | markdownify }}
             </h6>
           </div>
         </div>
@@ -76,7 +76,7 @@ permalink: "/"
                     </h6>
                   {% endif %}
                   <small class="text-muted fw-lighter">
-                    {{ client.consent }}
+                    {{ client.consent | markdownify }}
                   </small>
                 </div>
               </div>
@@ -85,7 +85,7 @@ permalink: "/"
         </div>
       </section>
       <section class="container-lg py-5 text-center">
-        <h4 style="color: #213068">{{ client.faqs_header }}</h4>
+        <h4 style="color: #213068">{{ client.faqs_header  | markdownify }}</h4>
         <h3>Frequently Asked Questions</h3>
       </section>
       <section class="py-5" style="background-image: url(/public/people.webp); background-repeat: no-repeat; background-position: center center; background-size: cover;">
@@ -117,7 +117,7 @@ permalink: "/"
         <p>
           <a href="{{ client.privacy_policy_url }}" target="_blank">Privacy Policy</a> | <a href="{{ client.licensing_url }}" target="_blank">Licensing</a>
         </p>
-        {{ client.managers }}
+        {{ client.managers | markdownify }}
         <p>
           <img src="/public/equal-house.webp" alt="equal-house" style="width: 50px; height: auto">
         </p>

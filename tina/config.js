@@ -58,6 +58,21 @@ export default defineConfig({
                   },
                   {
                     type: "string",
+                    name: "google_analytics_id",
+                    label: "Google Analytics ID",
+                  },
+                  {
+                    type: "string",
+                    name: "google_conversion_label",
+                    label: "Google Conversion Label",
+                  },
+                  {
+                    type: "string",
+                    name: "google_conversion_id",
+                    label: "Google Conversion ID",
+                  },
+                  {
+                    type: "string",
                     name: "head_title",
                     label: "Head Title",
                   },
