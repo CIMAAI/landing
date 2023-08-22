@@ -10,36 +10,141 @@ export default defineConfig({
 
   build: {
     outputFolder: "admin",
-    publicFolder: "public",
+    publicFolder: "./",
   },
   media: {
     tina: {
-      mediaRoot: "",
-      publicFolder: "public",
+      mediaRoot: "uploads",
+      publicFolder: "./",
     },
   },
   schema: {
     collections: [
       {
-        name: "post",
-        label: "Posts",
-        path: "content/posts",
-        fields: [
+        name: 'settings',
+        label: 'Settings',
+        path: '',
+        format: 'md',
+        templates: [
           {
-            type: "string",
-            name: "title",
-            label: "Title",
-            isTitle: true,
-            required: true,
-          },
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body",
-            isBody: true,
+            name: 'settings',
+            label: 'Settings',
+            fields: [
+              {
+                type: "string",
+                name: "typeform_form_id",
+                label: "Typeform Form ID",
+              },
+              {
+                type: "object",
+                name: "clients",
+                label: "Clients",
+                ui: {
+                  itemProps: (item) => {
+                    return { label: item?.url }
+                  }
+                },
+                list: true,
+                fields: [
+                  {
+                    type: "string",
+                    name: "client_key",
+                    label: "Client Key",
+                  },
+                  {
+                    type: "string",
+                    name: "url",
+                    label: "URL",
+                  },
+                  {
+                    type: "string",
+                    name: "head_title",
+                    label: "Head Title",
+                  },
+                  {
+                    type: "string",
+                    name: "head_description",
+                    label: "Head Description",
+                  },
+                  {
+                    type: "image",
+                    name: "logo",
+                    label: "Logo",
+                  },
+                  {
+                    type: "rich-text",
+                    name: "header_text",
+                    label: "Header Text",
+                  },
+                  {
+                    type: "string",
+                    name: "video_embed_url",
+                    label: "Video Embed URL",
+                  },
+                  {
+                    type: "string",
+                    name: "phone",
+                    label: "Phone",
+                  },
+                  {
+                    type: "rich-text",
+                    name: "consent",
+                    label: "Consent",
+                  },
+                  {
+                    type: "rich-text",
+                    name: "faqs_header",
+                    label: "FAQs Header",
+                  },
+                  {
+                    type: "object",
+                    name: "faqs",
+                    label: "FAQs",
+                    ui: {
+                      itemProps: (item) => {
+                        return { label: item?.question }
+                      }
+                    },
+                    list: true,
+                    fields: [
+                      {
+                        type: "string",
+                        name: "question",
+                        label: "Question",
+                      },
+                      {
+                        type: "rich-text",
+                        name: "answer",
+                        label: "Answer",
+                      },
+                    ],
+                  },
+                  {
+                    type: "rich-text",
+                    name: "disclaimer",
+                    label: "Disclaimer",
+                  },
+                  {
+                    type: "string",
+                    name: "privacy_policy_url",
+                    label: "Privacy Policy URL",
+                  },
+                  {
+                    type: "string",
+                    name: "licensing_url",
+                    label: "Licensing URL",
+                  },
+                  {
+                    type: "rich-text",
+                    name: "managers",
+                    label: "Managers",
+                  },
+                ],
+              },
+            ],
           },
         ],
       },
-    ],
+    ]
   },
 });

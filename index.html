@@ -2,7 +2,7 @@
 permalink: "/"
 ---
 {% for _page in site.pages %}
-  {% if _page.settings %}
+  {% if _page._template == 'settings' %}
     {% assign settings = _page %}
     {% for _client in settings.clients %}
       {% if _client.client_key == site.client_key %}
@@ -52,7 +52,7 @@ permalink: "/"
                   <h1 class="card-title fs-3">Do You Have Credit Issues?</h1>
                   <h2 class="card-subtitle mb-2 text-body-secondary fs-4">Don't Be Discouraged.</h2>
                   <h6>Press Play To Learn More Below!</h6>
-                  <iframe src="{{ client.video }}"frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="width: 100%; max-width: 100%; height: 360px;"></iframe>
+                  <iframe src="{{ client.video_embed_url }}"frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="width: 100%; max-width: 100%; height: 360px;"></iframe>
                 </div>
               </div>
             </div>
@@ -94,7 +94,7 @@ permalink: "/"
             {% for faq in client.faqs %}
               <div class="accordion-item">
                 <h2 class="accordion-header">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{ forloop.index }}" aria-expanded="false" aria-controls="collapse{{ {{ forloop.index }} }}">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{ forloop.index }}" aria-expanded="false" aria-controls="collapse{{ forloop.index }}">
                     {{ faq.question }}
                   </button>
                 </h2>
@@ -111,33 +111,13 @@ permalink: "/"
       <section class="container-lg text-center py-5">
         <p>
           <small>
-            CORP NMLS# 237341. American Financial Network, Inc. is licensed by the California Department of Business
-            Oversight under the California Financing Law License (6038771) and holds a CA Bureau of Real Estate, Real
-            Estate Broker's License (01317581) under Nationwide Mortgage Licensing System (NMLS), unique identifier of
-            237341. Broker is performing acts for which a license is required. Loans made or arranged pursuant to
-            California Financing Law. Refer to www.nmlsconsumeraccess.org and input NMLS #237341 to see where American
-            Financial Network, Inc. is a licensed lender. In all states, the principal licensed office of American
-            Financial Network, Inc. is 10 Pointe Drive, Suite 330, Brea, CA 92821; Phone: (714) 831-4000 (NMLS ID#237341).
-            This is not an offer for extension of credit or commitment to lend. All loans must satisfy company underwriting
-            guidelines. Not all applicants qualify. Information and pricing are subject to change at any time and without
-            notice. The content in this advertisement is for informational purposes only. Products not available in all
-            areas. As prohibited by federal law, we do not engage in business practices that discriminate on the basis of
-            race, color, religion, national origin, sex, marital status, age (provided you have the capacity to enter into
-            a binding contract), because all or part of your income may be derived from any public assistance program, or
-            because you have, in good faith, exercised any right under the Consumer Credit Protection Act. The federal
-            agency that administers our compliance with these federal laws is the Federal Trade Commission, Equal Credit
-            Opportunity, Washington, DC, 20580. American Financial Network, Inc. is an Equal Housing Lender.
+            {{ client.disclaimer }}
           </small>
         </p>
         <p>
-          <a href="https://www.afncorp.com/web/afncorp/privacy-policy" target="_blank">Privacy Policy</a> | <a href="https://www.afncorp.com/web/afncorp/license" target="_blank">Licensing</a>
+          <a href="{{ client.privacy_policy_url }}" target="_blank">Privacy Policy</a> | <a href="{{ client.licensing_url }}" target="_blank">Licensing</a>
         </p>
-        <p>
-          Todd McDougall | Producing Branch Manager  | NMLS# 302005
-        </p>
-        <p>
-          Samuel Dude | Producing Branch Manager | NMLS # 299345
-        </p>
+        {{ client.managers }}
         <p>
           <img src="/public/equal-house.webp" alt="equal-house" style="width: 50px; height: auto">
         </p>
