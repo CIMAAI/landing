@@ -1,0 +1,26 @@
+baseurl: ""
+markdown: kramdown
+theme: minima
+plugins: []
+  # - jekyll-redirect-from
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - faviconData.json
+  - package.json
+  - package-lock.json
+  - README.md
+  - '*.orig'
+  - '*.log'
+  - install-dependencies.sh
+
+include:
+  - .nojekyll
+
+permalink: /blog/:categories/:title/
+categories: []

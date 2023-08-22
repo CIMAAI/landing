@@ -1,10 +1,24 @@
+---
+permalink: "/"
+---
+{% for _page in site.pages %}
+  {% if _page.settings %}
+    {% assign settings = _page %}
+    {% for _client in settings.clients %}
+      {% if _client.client_key == site.client_key %}
+        {% assign client = _client %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+
 <!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>California FHA Loans – Easiest Mortgage Loan With Low Down Payments</title>
-    <meta name="description" content="Get FHA Loans from trained FHA Mortgage Lenders. FHA Mortgage are available down to a 580 credit score. Florida FHA mortgage loans offers mortgages available for homebuyers having low credit scores in all of California.">
+    <title>{{ client.head_title }}</title>
+    <meta name="description" content="{{ client.head_description }}">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
     <style>
       .background-pattern {
@@ -20,14 +34,11 @@
       <section class="container-lg">
         <div class="row py-4 d-flex align-items-center">
           <div class="col-lg-4">
-            <img src="images/mortgageguruca.jpg" class="img-fluid" alt="logo">
+            <img src=".{{ client.logo }}" class="img-fluid" alt="logo">
           </div>
           <div class="col-lg-8">
             <h6 class="fst-italic text-muted">
-              California FHA Loans are one of the easiest mortgage loans to qualify for. 
-              The FHA program now allows credit scores at 580 and below. FHA requires a
-              low down payment at 3.5% down. If you're in the market for a home, you owe
-              it to yourself to research California FHA loan options! 
+              {{ client.header_text }}
             </h6>
           </div>
         </div>
@@ -41,7 +52,7 @@
                   <h1 class="card-title fs-3">Do You Have Credit Issues?</h1>
                   <h2 class="card-subtitle mb-2 text-body-secondary fs-4">Don't Be Discouraged.</h2>
                   <h6>Press Play To Learn More Below!</h6>
-                  <iframe title="FHA New.mov" src="https://player.vimeo.com/video/714991332?h=69b0a17f1c&amp;dnt=1&amp;app_id=122963"frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="width: 100%; max-width: 100%; height: 360px; "></iframe>
+                  <iframe src="{{ client.video }}"frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="width: 100%; max-width: 100%; height: 360px;"></iframe>
                 </div>
               </div>
             </div>
@@ -49,7 +60,7 @@
               <div class="card shadow-lg h-100">
                 <div class="card-body text-center">
                   <h3 class="card-title">Let's Get Started!</h1>
-                  <div data-tf-live="01H83H6VAJM685J0J19S1V0TCK" data-tf-hubspot></div><script src="https://embed.typeform.com/next/embed.js"></script>
+                  <div data-tf-live="{{ settings.typeform_form_id }}" data-tf-hubspot></div><script src="https://embed.typeform.com/next/embed.js"></script>
                 </div>
               </div>
             </div>
@@ -58,18 +69,14 @@
             <div class="col">
               <div class="card">
                 <div class="card-body lh-1">
-                  <h6 class="text-center">
-                    We are also available anytime at<br/>
-                    <a href="tel:+18886206681">(888) 620-6681</a>
-                  </h6>
+                  {% if client.phone != '' and client.phone != nil %}
+                    <h6 class="text-center">
+                      We are also available anytime at<br/>
+                      <a href="tel:{{ client.phone }}">{{ client.phone | phone_number }}</a>
+                    </h6>
+                  {% endif %}
                   <small class="text-muted fw-lighter">
-                    By submitting your contact information you agree to our Licensing Disclaimer, Terms of Use and Privacy Policy.
-                    You also expressly consent to having American Financial Network dba Mortgage Guru (“Guru”) contact you about
-                    your inquiry by text message or phone (including automatic telephone dialing system or an artificial or
-                    prerecorded voice) to the residential or cellular telephone number you have provided, even if that telephone
-                    number is on a corporate, state, or national Do Not Call Registry. You do not have to agree to receive such
-                    calls or messages as a condition of getting any services from Guru or its affiliates. By communicating with
-                    us by phone, you consent to calls being recorded and monitored.
+                    {{ client.consent }}
                   </small>
                 </div>
               </div>
@@ -78,92 +85,26 @@
         </div>
       </section>
       <section class="container-lg py-5 text-center">
-        <h4 style="color: #213068">We're here to answer all of your questions about FHA loans!</h4>
+        <h4 style="color: #213068">{{ client.faqs_header }}</h4>
         <h3>Frequently Asked Questions</h3>
       </section>
-      <section class="py-5" style="background-image: url(images/people.webp); background-repeat: no-repeat; background-position: center center; background-size: cover;">
+      <section class="py-5" style="background-image: url(./assets/uploads/people.webp); background-repeat: no-repeat; background-position: center center; background-size: cover;">
         <div class="container-lg">
           <div class="accordion" id="accordion" data-bs-theme="dark">
-            <div class="accordion-item">
-              <h2 class="accordion-header">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                  I can come up with the 3.5% down payment but I don't have the funds for the closing cost?
-                </button>
-              </h2>
-              <div id="collapseOne" class="accordion-collapse collapse text-dark bg-light text-center" data-bs-parent="#accordion">
-                <div class="accordion-body">
-                  <p>
-                    That is ok! Many times the sellers can pay all of your closing costs. This way you will only be
-                    responsible for the 3.5% down payment.
-                  </p>
-                  <p>
-                    Don't forget you can receive the 3.5% as a gift from a family member or you can receive the 3.5%
-                    down payment from your 401k.
-                  </p>
+            {% for faq in client.faqs %}
+              <div class="accordion-item">
+                <h2 class="accordion-header">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{ forloop.index }}" aria-expanded="false" aria-controls="collapse{{ {{ forloop.index }} }}">
+                    {{ faq.question }}
+                  </button>
+                </h2>
+                <div id="collapse{{ forloop.index }}" class="accordion-collapse collapse text-dark bg-light text-center" data-bs-parent="#accordion">
+                  <div class="accordion-body">
+                    {{ faq.answer | markdownify }}
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="accordion-item">
-              <h2 class="accordion-header">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                  I know I have a 550 FICO and I feel discouraged. What do I do?
-                </button>
-              </h2>
-              <div id="collapseTwo" class="accordion-collapse collapse text-dark bg-light text-center" data-bs-parent="#accordion">
-                <div class="accordion-body">
-                  <p>
-                    Please move forward with the application and let our team give you guidance on what needs to be
-                    done to improve your scores. In some cases you could possibly be pre-qualified with scores below
-                    580 if you put more than 3.5% down. Our team will take the time with every single applicant to
-                    make sure a long term plan is put in place so you can own a home.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="accordion-item">
-              <h2 class="accordion-header">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                  I filed for bankruptcy 2 years ago so I probably can't get pre approved?
-                </button>
-              </h2>
-              <div id="collapseThree" class="accordion-collapse collapse text-dark bg-light text-center" data-bs-parent="#accordion">
-                <div class="accordion-body">
-                  <p>
-                    That isn't true. You may be approved 2 years after the discharge date of a Chapter 7 or Chapter 11
-                    bankruptcy. For a Chapter 13 bankruptcy, you may still be approved while you are in repayment.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="accordion-item">
-              <h2 class="accordion-header">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                  I had a foreclosure 2 years ago as well?
-                </button>
-              </h2>
-              <div id="collapseFour" class="accordion-collapse collapse text-dark bg-light text-center" data-bs-parent="#accordion">
-                <div class="accordion-body">
-                  <p>
-                    You will need to wait 3 years from the foreclosure date before you can qualify for a FHA mortgage.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="accordion-item">
-              <h2 class="accordion-header">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                  Where is this program available?
-                </button>
-              </h2>
-              <div id="collapseFive" class="accordion-collapse collapse text-dark bg-light text-center" data-bs-parent="#accordion">
-                <div class="accordion-body">
-                  <p>
-                    This program is available in every area of California! And the good news is we have a team of
-                    people available to help, no matter the area!
-                  </p>
-                </div>
-              </div>
-            </div>
+            {% endfor %}
           </div>
         </div>
       </section>
@@ -172,7 +113,7 @@
           <small>
             CORP NMLS# 237341. American Financial Network, Inc. is licensed by the California Department of Business
             Oversight under the California Financing Law License (6038771) and holds a CA Bureau of Real Estate, Real
-            Estate Broker’s License (01317581) under Nationwide Mortgage Licensing System (NMLS), unique identifier of
+            Estate Broker's License (01317581) under Nationwide Mortgage Licensing System (NMLS), unique identifier of
             237341. Broker is performing acts for which a license is required. Loans made or arranged pursuant to
             California Financing Law. Refer to www.nmlsconsumeraccess.org and input NMLS #237341 to see where American
             Financial Network, Inc. is a licensed lender. In all states, the principal licensed office of American
@@ -198,7 +139,7 @@
           Samuel Dude | Producing Branch Manager | NMLS # 299345
         </p>
         <p>
-          <img src="images/equal-house.webp" alt="equal-house" style="width: 50px; height: auto">
+          <img src="./assets/uploads/equal-house.webp" alt="equal-house" style="width: 50px; height: auto">
         </p>
       </section>
     </main>
