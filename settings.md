@@ -200,11 +200,12 @@ clients:
     privacy_policy_url: 'https://www.afncorp.com/web/afncorp/privacy-policy'
     licensing_url: 'https://www.afncorp.com/web/afncorp/license'
     managers: |
-      Todd McDougall | Producing Branch Manager | NMLS# 302005
+      Todd McDougall - Producing Branch Manager - NMLS# 302005
 
-      Samuel Dude | Producing Branch Manager | NMLS # 299345
+      Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
