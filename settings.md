@@ -39,7 +39,6 @@ clients:
           This way you will only be responsible for the 3.5% down payment.
 
 
-
           Don't forget you can receive the 3.5% as a gift from a family member
           or you can receive the 3.5% down payment from your 401k.
       - question: I know I have a 620 FICO and I feel discouraged. What do I do?
@@ -100,9 +99,9 @@ clients:
     privacy_policy_url: 'https://www.afncorp.com/web/afncorp/privacy-policy'
     licensing_url: 'https://www.afncorp.com/web/afncorp/license'
     managers: |
-      Todd McDougall | Producing Branch Manager | NMLS# 302005
+      Todd McDougall - Producing Branch Manager - NMLS# 302005
 
-      Samuel Dude | Producing Branch Manager | NMLS # 299345
+      Samuel Dude - Producing Branch Manager - NMLS # 299345
   - client_key: fhamortgageguru_mortgageguruca
     url: 'https://fhamortgageguru.com/mortgageguruca/'
     head_title: California FHA Loans
@@ -201,11 +200,13 @@ clients:
     privacy_policy_url: 'https://www.afncorp.com/web/afncorp/privacy-policy'
     licensing_url: 'https://www.afncorp.com/web/afncorp/license'
     managers: |
-      Todd McDougall | Producing Branch Manager | NMLS# 302005
+      Todd McDougall - Producing Branch Manager - NMLS# 302005
 
-      Samuel Dude | Producing Branch Manager | NMLS # 299345
+      Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
+
 
 
 
