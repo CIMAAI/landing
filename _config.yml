@@ -21,6 +21,7 @@ exclude:
 
 include:
   - .nojekyll
+  - CNAME
 
 permalink: /blog/:categories/:title/
 categories: []
