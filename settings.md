@@ -1,6 +1,64 @@
 ---
 typeform_form_id: 01H83H6VAJM685J0J19S1V0TCK
 clients:
+  - client_key: texasjumbomortgageguru.com
+    url: 'https://texasjumbomortgageguru.com'
+    head_title: Texas Jumbo Mortgages - 5% Down Jumbo Mortgages
+    head_description: >-
+      5% Down Texas Jumbo Mortgages.  No Taxes Needed.  Bank Statement Mortgage.
+      10% Down Jumbo Mortgage To $2,200,000. 
+    logo: /uploads/mgg-prmg-landscape.jpg
+    header_text: ''
+    video_embed_url: 'https://vimeo.com/466242774'
+    consent: |
+      By submitting your contact information you agree to our Licensing
+      Disclaimer, Terms of Use and Privacy Policy. You also expressly consent to
+      having American Financial Network dba Mortgage Guru (“Guru”) contact you
+      about your inquiry by text message or phone (including automatic telephone
+      dialing system or an artificial or prerecorded voice) to the residential
+      or cellular telephone number you have provided, even if that telephone
+      number is on a corporate, state, or national Do Not Call Registry. You do
+      not have to agree to receive such calls or messages as a condition of
+      getting any services from Guru or its affiliates. By communicating with us
+      by phone, you consent to calls being recorded and monitored.
+    faqs_header: ''
+    faqs:
+      - question: What is a jumbo mortgage?
+        answer: >
+          A jumbo mortgage is a home loan for an amount that exceeds conforming
+          loan limits established by the federal housing finance agency. The
+          conventional loan limit is $726,200 in Texas.
+    disclaimer: |
+      CORP NMLS# 237341. American Financial Network, Inc. is licensed by the
+      California Department of Business Oversight under the California Financing
+      Law License (6038771) and holds a CA Bureau of Real Estate, Real Estate
+      Broker’s License (01317581) under Nationwide Mortgage Licensing System
+      (NMLS), unique identifier of 237341. Broker is performing acts for which a
+      license is required. Loans made or arranged pursuant to California
+      Financing Law. Refer to www.nmlsconsumeraccess.org and input NMLS #237341
+      to see where American Financial Network, Inc. is a licensed lender. In all
+      states, the principal licensed office of American Financial Network, Inc.
+      is 10 Pointe Drive, Suite 330, Brea, CA 92821; Phone: (714) 831-4000 (NMLS
+      ID#237341). This is not an offer for extension of credit or commitment to
+      lend. All loans must satisfy company underwriting guidelines. Not all
+      applicants qualify. Information and pricing are subject to change at any
+      time and without notice. The content in this advertisement is for
+      informational purposes only. Products not available in all areas. As
+      prohibited by federal law, we do not engage in business practices that
+      discriminate on the basis of race, color, religion, national origin, sex,
+      marital status, age (provided you have the capacity to enter into a
+      binding contract), because all or part of your income may be derived from
+      any public assistance program, or because you have, in good faith,
+      exercised any right under the Consumer Credit Protection Act. The federal
+      agency that administers our compliance with these federal laws is the
+      Federal Trade Commission, Equal Credit Opportunity, Washington, DC, 20580.
+      American Financial Network, Inc. is an Equal Housing Lender.
+    privacy_policy_url: 'https://www.afncorp.com/web/afncorp/privacy-policy'
+    licensing_url: 'https://www.afncorp.com/web/afncorp/license'
+    managers: |
+      Todd McDougall - Producing Branch Manager - NMLS# 302005
+
+      Samuel Dude - Producing Branch Manager - NMLS # 299345
   - client_key: fhamortgageguru
     url: 'https://fhamortgageguru.com'
     head_title: Texas FHA Loans - Easiest Mortgage Loan With Low Down Payments In Texas
@@ -205,6 +263,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
