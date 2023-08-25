@@ -23,6 +23,13 @@ clients:
       by phone, you consent to calls being recorded and monitored.
     faqs_header: ''
     faqs:
+      - question: Why use our services?
+        answer: >
+          We specialize in jumbo mortgages in Texas (meaning loan amounts over
+          $726,200). Most conventional lenders require a 20% – 25% down payment
+          on these loans. We will work with your situation so you can keep more
+          money in your pocket (for example, with smaller down payments as low
+          as 5%).
       - question: How much do I need to put down?
         answer: >
           * Borrowers can now put as little as 5% down up to a $1,027,000
@@ -276,6 +283,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
