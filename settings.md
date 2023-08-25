@@ -8,7 +8,8 @@ clients:
       5% Down Texas Jumbo Mortgages.  No Taxes Needed.  Bank Statement Mortgage.
       10% Down Jumbo Mortgage To $2,200,000. 
     logo: /uploads/mgg-prmg-landscape.jpg
-    header_text: ''
+    header_text: |
+      We're here to answer all of your questions about Jumbo loans!
     video_embed_url: 'https://vimeo.com/466242774'
     consent: |
       By submitting your contact information you agree to our Licensing
@@ -305,6 +306,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
