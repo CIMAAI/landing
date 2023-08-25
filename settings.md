@@ -21,7 +21,8 @@ clients:
       not have to agree to receive such calls or messages as a condition of
       getting any services from Guru or its affiliates. By communicating with us
       by phone, you consent to calls being recorded and monitored.
-    faqs_header: ''
+    faqs_header: |
+      Texas Jumbo Mortgage Guru - 5% Down Jumbo Mortgages
     faqs:
       - question: Are jumbo cash out refinances available?
         answer: >
@@ -304,6 +305,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
