@@ -23,6 +23,11 @@ clients:
       by phone, you consent to calls being recorded and monitored.
     faqs_header: ''
     faqs:
+      - question: Where are these programs available?
+        answer: |+
+          These programs are available in all of Texas.
+
+
       - question: Why use our services?
         answer: >
           We specialize in jumbo mortgages in Texas (meaning loan amounts over
@@ -283,6 +288,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
