@@ -23,6 +23,11 @@ clients:
       by phone, you consent to calls being recorded and monitored.
     faqs_header: ''
     faqs:
+      - question: Are jumbo cash out refinances available?
+        answer: >
+          Yes! We also have no documentation investment jumbo cash out options
+          up 75% LTV. This means the underwriting approval is based on the
+          property and not your income. No tax returns are needed.
       - question: What credit score is required?
         answer: >
           We now have jumbo mortgage options for buyers with credit scores down
@@ -299,6 +304,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
