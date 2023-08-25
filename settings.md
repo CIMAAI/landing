@@ -23,6 +23,19 @@ clients:
       by phone, you consent to calls being recorded and monitored.
     faqs_header: ''
     faqs:
+      - question: How much do I need to put down?
+        answer: >
+          * Borrowers can now put as little as 5% down up to a $1,027,000
+          purchase price.
+
+          * Borrowers can now put as little as 10% down up to a $2,200,000
+          purchase price
+
+          * Borrowers can now put 20% down up to a $3,750,000 purchase price.
+
+          * Other products available on a case by case basis
+
+          * Minimum credit scores of 660 are eligible on some jumbo products.
       - question: What is a jumbo mortgage?
         answer: >
           A jumbo mortgage is a home loan for an amount that exceeds conforming
@@ -263,6 +276,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
