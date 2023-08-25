@@ -23,6 +23,12 @@ clients:
       by phone, you consent to calls being recorded and monitored.
     faqs_header: ''
     faqs:
+      - question: What credit score is required?
+        answer: >
+          We now have jumbo mortgage options for buyers with credit scores down
+          to 620! The lower your credit score the more you will need to put
+          down. Purchase, refinance and cash out options are also available for
+          scores down to 620.
       - question: Can you get a jumbo mortgage with no tax returns?
         answer: >
           Yes! We do have programs that don't require any tax returns.  If you
@@ -293,6 +299,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
