@@ -46,7 +46,10 @@ clients:
       - question: 'What mortgage program can I use with this program? '
         answer: |
           You can use this grant with the FHA & USDA programs.
-      - {}
+      - question: 'Is the grant forgivable? '
+        answer: >
+          Second mortgage is due and payable upon sale, refinance or payoff of
+          First mortgage if balance is not paid off.
     disclaimer: |
       CORP NMLS# 237341. American Financial Network, Inc. is licensed by the
       California Department of Business Oversight under the California Financing
@@ -481,6 +484,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
