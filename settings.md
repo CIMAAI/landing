@@ -1,6 +1,45 @@
 ---
 typeform_form_id: 01H83H6VAJM685J0J19S1V0TCK
 clients:
+  - {}
+  - client_key: hypersmartjumbomortgages.com/
+    url: 'https://hypersmartjumbomortgages.com/'
+    head_title: Texas Jumbo Mortgages - 5% Down Jumbo Mortgages
+    head_description: >-
+      5% Down Texas Jumbo Mortgages. Hyper Smart Mortgages.  No Taxes Needed. 
+      Bank Statement Mortgage. 10% Down Jumbo Mortgage To $2,200,000. 
+    logo: /uploads/Hypersmart-Logo-500x500-1-e1687536276429.jpeg
+    header_text: |
+      We're here to answer all of your questions about Jumbo loans!
+    consent: "NMLS #46375 3838 Camino del Rio N Suite 305, San Diego, CA 92108.\_CalCon Mutual Mortgage LLC, dba HyperSmart Home Loans is an Equal Housing Lender NMLS #46375; 3838 Camino del Rio N Suite 305, San Diego, CA 92108. Corporate phone (888) 488-3807. For more licensing information visit:\_[https://onetrusthomeloans.com/licensing-information/](https://onetrusthomeloans.com/licensing-information/). All products are not available in all states. All options are not available on all programs. All programs are subject to borrower and property qualifications. Rates, terms and conditions are subject to change without notice. This is an Advertisement.\n"
+    faqs_header: >
+      Texas Jumbo Mortgage Guru - 5% Down Jumbo Mortgages.  Hyper Smart Home
+      Loans.
+    faqs:
+      - question: How much do I need to put down?
+        answer: >
+          * Borrowers can now put as little as 5% down up to a $1,027,000
+          purchase price.
+
+          * Borrowers can now put as little as 10% down up to a $2,200,000
+          purchase price
+
+          * Borrowers can now put 20% down up to a $3,750,000 purchase price.
+
+          * Other products available on a case by case basis
+
+          * Minimum credit scores of 660 are eligible on some jumbo products.
+      - {}
+      - {}
+      - {}
+      - {}
+    disclaimer: "NMLS #46375 3838 Camino del Rio N Suite 305, San Diego, CA 92108.\_CalCon Mutual Mortgage LLC, dba HyperSmart Home Loans is an Equal Housing Lender NMLS #46375; 3838 Camino del Rio N Suite 305, San Diego, CA 92108. Corporate phone (888) 488-3807. For more licensing information visit:\_[https://onetrusthomeloans.com/licensing-information/](https://onetrusthomeloans.com/licensing-information/). All products are not available in all states. All options are not available on all programs. All programs are subject to borrower and property qualifications. Rates, terms and conditions are subject to change without notice. This is an Advertisement.\n"
+    privacy_policy_url: 'https://www.hypersmarthomeloans.com/privacy-policy/'
+    licensing_url: 'https://onetrusthomeloans.com/licensing-information/'
+    managers: |+
+      Ali Hedayatifar Divisional MANAGER/SENIOR LOAN OFFICER, NMLS# 1817352
+
+
   - client_key: dpaguru.com/mortgagegurugroup/
     url: 'https://dpaguru.com/mortgagegurugroup/'
     head_title: 3.5%-5% Down Payment Assistance To Purchase A Home in 48+ States
@@ -496,6 +535,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
