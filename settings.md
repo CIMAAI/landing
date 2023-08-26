@@ -39,7 +39,11 @@ clients:
           * Other products available on a case by case basis
 
           * Minimum credit scores of 660 are eligible on some jumbo products.
-      - {}
+      - question: What is a jumbo mortgage?
+        answer: >
+          A jumbo mortgage is a home loan for an amount that exceeds conforming
+          loan limits established by the federal housing finance agency. The
+          conventional loan limit is $726,200 in Texas.
       - question: Are jumbo cash out refinances available?
         answer: >
           Yes! We also have no documentation investment jumbo cash out options
@@ -369,6 +373,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
