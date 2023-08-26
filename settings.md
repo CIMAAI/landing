@@ -26,6 +26,20 @@ clients:
       Texas Jumbo Mortgage Guru - 5% Down Jumbo Mortgages.  Mortgage Guru
       Group. 
     faqs:
+      - question: How much do I need to put down?
+        answer: >
+          * Borrowers can now put as little as 5% down up to a $1,027,000
+          purchase price.
+
+          * Borrowers can now put as little as 10% down up to a $2,200,000
+          purchase price
+
+          * Borrowers can now put 20% down up to a $3,750,000 purchase price.
+
+          * Other products available on a case by case basis
+
+          * Minimum credit scores of 660 are eligible on some jumbo products.
+      - {}
       - question: Are jumbo cash out refinances available?
         answer: >
           Yes! We also have no documentation investment jumbo cash out options
@@ -355,6 +369,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
