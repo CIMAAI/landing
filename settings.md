@@ -37,7 +37,11 @@ clients:
           are below that number. Our licensed loan officers can work with you on
           your score. Our loan officers are well versed in working with many
           homeowners regarding their credit scores.
-      - {}
+      - question: 'Do I have to be a first time home buyer? '
+        answer: >
+          You do NOT have to be a first-time homebuyer in order to be approved
+          for down payment assistance. It is only required that the home you are
+          purchasing will be your primary residence.
       - {}
       - {}
     disclaimer: "NMLS #46375 3838 Camino del Rio N Suite 305, San Diego, CA 92108.\_CalCon Mutual Mortgage LLC, dba HyperSmart Home Loans is an Equal Housing Lender NMLS #46375; 3838 Camino del Rio N Suite 305, San Diego, CA 92108. Corporate phone (888) 488-3807. For more licensing information visit:\_[https://onetrusthomeloans.com/licensing-information/](https://onetrusthomeloans.com/licensing-information/). All products are not available in all states. All options are not available on all programs. All programs are subject to borrower and property qualifications. Rates, terms and conditions are subject to change without notice. This is an Advertisement.\n"
@@ -540,6 +544,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
