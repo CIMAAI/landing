@@ -20,6 +20,10 @@ clients:
 
       ###### Frequently Asked Questions
     faqs:
+      - question: 'Is the grant forgivable? '
+        answer: >
+          Second mortgage is due and payable upon sale, refinance or payoff of
+          First mortgage if balance is not paid off.
       - question: What are the monthly payments for grants?
         answer: >
           * 10 year term.
@@ -547,6 +551,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
