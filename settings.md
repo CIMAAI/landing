@@ -7,6 +7,7 @@ clients:
     head_description: >-
       5% Down Texas Jumbo Mortgages. Mortgage Guru Group.  No Taxes Needed. 
       Bank Statement Mortgage. 10% Down Jumbo Mortgage To $2,200,000. 
+    logo: /uploads/mortgageguruca.jpg
     header_text: |
       We're here to answer all of your questions about Jumbo loans!
     video_embed_url: 'https://vimeo.com/466242774'
@@ -22,9 +23,8 @@ clients:
       not have to agree to receive such calls or messages as a condition of
       getting any services from Guru or its affiliates. By communicating with us
       by phone, you consent to calls being recorded and monitored.
-    faqs_header: >
-      Texas Jumbo Mortgage Guru - 5% Down Jumbo Mortgages.  Mortgage Guru
-      Group. 
+    faqs_header: |
+      Texas Jumbo Mortgage Guru - 5% Down Jumbo Mortgages.  Mortgage Guru Group.
     faqs:
       - question: How much do I need to put down?
         answer: >
@@ -404,6 +404,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
