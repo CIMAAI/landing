@@ -1,7 +1,7 @@
 ---
 typeform_form_id: 01H83H6VAJM685J0J19S1V0TCK
 clients:
-  - client_key: hypersmartgrants.com/
+  - client_key: hypersmartgrants
     url: 'https://hypersmartgrants.com/'
     head_title: 3.5%-5% Down Payment Assistance To Purchase A Home in 48+ States
     head_description: >-
@@ -551,6 +551,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
