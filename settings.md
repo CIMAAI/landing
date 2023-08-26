@@ -1,6 +1,73 @@
 ---
 typeform_form_id: 01H83H6VAJM685J0J19S1V0TCK
 clients:
+  - {}
+  - client_key: hypersmartjumbomortgages.com/
+    url: 'https://hypersmartjumbomortgages.com/'
+    head_title: Texas Jumbo Mortgages - 5% Down Jumbo Mortgages
+    head_description: >-
+      5% Down Texas Jumbo Mortgages. Hyper Smart Mortgages.  No Taxes Needed. 
+      Bank Statement Mortgage. 10% Down Jumbo Mortgage To $2,200,000. 
+    logo: /uploads/Hypersmart-Logo-500x500-1-e1687536276429.jpeg
+    header_text: |
+      We're here to answer all of your questions about Jumbo loans!
+    video_embed_url: 'https://youtu.be/6wzIlmz0JRU'
+    consent: "NMLS #46375 3838 Camino del Rio N Suite 305, San Diego, CA 92108.\_CalCon Mutual Mortgage LLC, dba HyperSmart Home Loans is an Equal Housing Lender NMLS #46375; 3838 Camino del Rio N Suite 305, San Diego, CA 92108. Corporate phone (888) 488-3807. For more licensing information visit:\_[https://onetrusthomeloans.com/licensing-information/](https://onetrusthomeloans.com/licensing-information/). All products are not available in all states. All options are not available on all programs. All programs are subject to borrower and property qualifications. Rates, terms and conditions are subject to change without notice. This is an Advertisement.\n"
+    faqs_header: >
+      Texas Jumbo Mortgage Guru - 5% Down Jumbo Mortgages.  Hyper Smart Home
+      Loans.
+    faqs:
+      - question: Why use our services?
+        answer: >
+          We specialize in jumbo mortgages in Texas (meaning loan amounts over
+          $726,200). Most conventional lenders require a 20% – 25% down payment
+          on these loans. We will work with your situation so you can keep more
+          money in your pocket (for example, with smaller down payments as low
+          as 5%).
+      - question: Where are these programs available?
+        answer: |
+          These programs are available in all of Texas.
+      - question: How much do I need to put down?
+        answer: >
+          * Borrowers can now put as little as 5% down up to a $1,027,000
+          purchase price.
+
+          * Borrowers can now put as little as 10% down up to a $2,200,000
+          purchase price
+
+          * Borrowers can now put 20% down up to a $3,750,000 purchase price.
+
+          * Other products available on a case by case basis
+
+          * Minimum credit scores of 660 are eligible on some jumbo products.
+      - question: What is a jumbo mortgage?
+        answer: >
+          A jumbo mortgage is a home loan for an amount that exceeds conforming
+          loan limits established by the federal housing finance agency. The
+          conventional loan limit is $726,200 in Texas.
+      - question: Are jumbo cash out refinances available?
+        answer: >
+          Yes! We also have no documentation investment jumbo cash out options
+          up 75% LTV. This means the underwriting approval is based on the
+          property and not your income. No tax returns are needed.
+      - question: What credit score is required?
+        answer: >
+          We now have jumbo mortgage options for buyers with credit scores down
+          to 620! The lower your credit score the more you will need to put
+          down. Purchase, refinance and cash out options are also available for
+          scores down to 620.
+      - question: Can you get a jumbo mortgage with no tax returns?
+        answer: >
+          Yes! We do have programs that don't require any tax returns.  If you
+          take the max write offs we have a solution for you.  If you have not
+          filed in a year or two, we also have options for you.
+    disclaimer: "NMLS #46375 3838 Camino del Rio N Suite 305, San Diego, CA 92108.\_CalCon Mutual Mortgage LLC, dba HyperSmart Home Loans is an Equal Housing Lender NMLS #46375; 3838 Camino del Rio N Suite 305, San Diego, CA 92108. Corporate phone (888) 488-3807. For more licensing information visit:\_[https://onetrusthomeloans.com/licensing-information/](https://onetrusthomeloans.com/licensing-information/). All products are not available in all states. All options are not available on all programs. All programs are subject to borrower and property qualifications. Rates, terms and conditions are subject to change without notice. This is an Advertisement.\n"
+    privacy_policy_url: 'https://www.hypersmarthomeloans.com/privacy-policy/'
+    licensing_url: 'https://onetrusthomeloans.com/licensing-information/'
+    managers: |+
+      Ali Hedayatifar Divisional MANAGER/SENIOR LOAN OFFICER, NMLS# 1817352
+
+
   - client_key: dpaguru.com/mortgagegurugroup/
     url: 'https://dpaguru.com/mortgagegurugroup/'
     head_title: 3.5%-5% Down Payment Assistance To Purchase A Home in 48+ States
@@ -10,7 +77,7 @@ clients:
     logo: /uploads/mgg-prmg-landscape.jpg
     header_text: >
       Are you Looking for down payment assistance to purchase your home? Get
-      first time homeowners grant funds with exclusive payment assistance.
+      first time homeowners grant funds with exclusive payment assistance. 
     video_embed_url: 'https://vimeo.com/760814474'
     phone: 888-620-6681
     consent: |
@@ -102,7 +169,7 @@ clients:
     logo: /uploads/mortgageguruca.jpg
     header_text: |
       We're here to answer all of your questions about Jumbo loans!
-    video_embed_url: 'https://youtu.be/SzY0AcPxymg'
+    video_embed_url: 'https://vimeo.com/466242774'
     phone: 888-620-6681
     consent: |
       By submitting your contact information you agree to our Licensing
@@ -496,6 +563,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
