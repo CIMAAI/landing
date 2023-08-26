@@ -13,8 +13,24 @@ clients:
       first time homeowners grant funds with exclusive payment assistance.
     video_embed_url: 'https://youtu.be/S6i2M4_EVVA'
     consent: "NMLS #46375 3838 Camino del Rio N Suite 305, San Diego, CA 92108.\_CalCon Mutual Mortgage LLC, dba HyperSmart Home Loans is an Equal Housing Lender NMLS #46375; 3838 Camino del Rio N Suite 305, San Diego, CA 92108. Corporate phone (888) 488-3807. For more licensing information visit:\_[https://onetrusthomeloans.com/licensing-information/](https://onetrusthomeloans.com/licensing-information/). All products are not available in all states. All options are not available on all programs. All programs are subject to borrower and property qualifications. Rates, terms and conditions are subject to change without notice. This is an Advertisement.\n"
+    faqs_header: >
+      ###### WE'RE HERE TO ANSWER ALL OF YOUR QUESTIONS ABOUT DOWN PAYMENT
+      ASSISTANCE!
+
+
+      ###### Frequently Asked Questions
     faqs:
-      - {}
+      - question: What are the monthly payments for grants?
+        answer: >
+          * 10 year term.
+
+          * Note rate of the grant is 2% above the first lien rate amortized
+          over 10 years!
+
+          * 10 year amortizing loan with monthly payments.
+
+          * 300k FHA, 3.5% down payment is $10,500 with current rate of 6%.
+          ($10,500 grant payment will be 8% or $127/month over 10 years.
       - {}
       - {}
       - {}
@@ -519,6 +535,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
