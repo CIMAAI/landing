@@ -37,7 +37,11 @@ clients:
           to 620! The lower your credit score the more you will need to put
           down. Purchase, refinance and cash out options are also available for
           scores down to 620.
-      - {}
+      - question: Can you get a jumbo mortgage with no tax returns?
+        answer: >
+          Yes! We do have programs that don't require any tax returns.  If you
+          take the max write offs we have a solution for you.  If you have not
+          filed in a year or two, we also have options for you.
       - {}
       - {}
   - client_key: texasjumbomortgageguru.com
@@ -343,6 +347,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
