@@ -42,7 +42,9 @@ clients:
           Yes! We do have programs that don't require any tax returns.  If you
           take the max write offs we have a solution for you.  If you have not
           filed in a year or two, we also have options for you.
-      - {}
+      - question: Where are these programs available?
+        answer: |
+          These programs are available in all of Texas.
       - {}
   - client_key: texasjumbomortgageguru.com
     url: 'https://texasjumbomortgageguru.com'
@@ -347,6 +349,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
