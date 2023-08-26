@@ -148,7 +148,7 @@ clients:
       Todd McDougall - Producing Branch Manager - NMLS# 302005
 
       Samuel Dude - Producing Branch Manager - NMLS # 299345
-  - client_key: texasjumbomortgageguru.com/mortgagegurugroup/
+  - client_key: texasjumbomortgageguru_mortgagegurugroup
     url: 'https://texasjumbomortgageguru.com/mortgagegurugroup/'
     head_title: Texas Jumbo Mortgages - 5% Down Jumbo Mortgages
     head_description: >-
@@ -551,6 +551,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
