@@ -44,7 +44,9 @@ clients:
           purchasing will be your primary residence.
       - question: 'How do I know if I make too much? '
         answer: "Your income must be less than 160% of your area median income. Our licensed loan officers can check the limits for the are you are purchasing in extremely fast.\_ We can give exceptions if you make over the 160% of the area median income.\_\n"
-      - {}
+      - question: 'What mortgage program can I use with this program? '
+        answer: |
+          You can use this grant with the FHA & USDA programs.
     disclaimer: "NMLS #46375 3838 Camino del Rio N Suite 305, San Diego, CA 92108.\_CalCon Mutual Mortgage LLC, dba HyperSmart Home Loans is an Equal Housing Lender NMLS #46375; 3838 Camino del Rio N Suite 305, San Diego, CA 92108. Corporate phone (888) 488-3807. For more licensing information visit:\_[https://onetrusthomeloans.com/licensing-information/](https://onetrusthomeloans.com/licensing-information/). All products are not available in all states. All options are not available on all programs. All programs are subject to borrower and property qualifications. Rates, terms and conditions are subject to change without notice. This is an Advertisement.\n"
     privacy_policy_url: 'https://www.hypersmarthomeloans.com/privacy-policy/'
     licensing_url: 'https://onetrusthomeloans.com/licensing-information/'
@@ -545,6 +547,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
