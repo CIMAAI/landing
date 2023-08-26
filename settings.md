@@ -45,7 +45,13 @@ clients:
       - question: Where are these programs available?
         answer: |
           These programs are available in all of Texas.
-      - {}
+      - question: Why use our services?
+        answer: >
+          We specialize in jumbo mortgages in Texas (meaning loan amounts over
+          $726,200). Most conventional lenders require a 20% – 25% down payment
+          on these loans. We will work with your situation so you can keep more
+          money in your pocket (for example, with smaller down payments as low
+          as 5%).
   - client_key: texasjumbomortgageguru.com
     url: 'https://texasjumbomortgageguru.com'
     head_title: Texas Jumbo Mortgages - 5% Down Jumbo Mortgages
@@ -349,6 +355,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
