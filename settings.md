@@ -16,6 +16,10 @@ clients:
       Texas Jumbo Mortgage Guru - 5% Down Jumbo Mortgages.  Hyper Smart Home
       Loans.
     faqs:
+      - {}
+      - question: Where are these programs available?
+        answer: |
+          These programs are available in all of Texas.
       - question: How much do I need to put down?
         answer: >
           * Borrowers can now put as little as 5% down up to a $1,027,000
@@ -552,6 +556,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
