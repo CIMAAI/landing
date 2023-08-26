@@ -1,6 +1,40 @@
 ---
 typeform_form_id: 01H83H6VAJM685J0J19S1V0TCK
 clients:
+  - client_key: texasjumbomortgageguru.com/mortgagegurugroup/
+    url: 'https://texasjumbomortgageguru.com/mortgagegurugroup/'
+    head_title: Texas Jumbo Mortgages - 5% Down Jumbo Mortgages
+    head_description: >-
+      5% Down Texas Jumbo Mortgages. Mortgage Guru Group.  No Taxes Needed. 
+      Bank Statement Mortgage. 10% Down Jumbo Mortgage To $2,200,000. 
+    header_text: |
+      We're here to answer all of your questions about Jumbo loans!
+    video_embed_url: 'https://vimeo.com/466242774'
+    phone: 888-620-6681
+    consent: |
+      By submitting your contact information you agree to our Licensing
+      Disclaimer, Terms of Use and Privacy Policy. You also expressly consent to
+      having American Financial Network dba Mortgage Guru (“Guru”) contact you
+      about your inquiry by text message or phone (including automatic telephone
+      dialing system or an artificial or prerecorded voice) to the residential
+      or cellular telephone number you have provided, even if that telephone
+      number is on a corporate, state, or national Do Not Call Registry. You do
+      not have to agree to receive such calls or messages as a condition of
+      getting any services from Guru or its affiliates. By communicating with us
+      by phone, you consent to calls being recorded and monitored.
+    faqs_header: >
+      Texas Jumbo Mortgage Guru - 5% Down Jumbo Mortgages.  Mortgage Guru
+      Group. 
+    faqs:
+      - question: Are jumbo cash out refinances available?
+        answer: >
+          Yes! We also have no documentation investment jumbo cash out options
+          up 75% LTV. This means the underwriting approval is based on the
+          property and not your income. No tax returns are needed.
+      - {}
+      - {}
+      - {}
+      - {}
   - client_key: texasjumbomortgageguru.com
     url: 'https://texasjumbomortgageguru.com'
     head_title: Texas Jumbo Mortgages - 5% Down Jumbo Mortgages
@@ -40,12 +74,10 @@ clients:
         answer: >
           Yes! We do have programs that don't require any tax returns.  If you
           take the max write offs we have a solution for you.  If you have not
-          filed in a year or two, we also have options for you.  
+          filed in a year or two, we also have options for you.
       - question: Where are these programs available?
-        answer: |+
+        answer: |
           These programs are available in all of Texas.
-
-
       - question: Why use our services?
         answer: >
           We specialize in jumbo mortgages in Texas (meaning loan amounts over
@@ -306,6 +338,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
