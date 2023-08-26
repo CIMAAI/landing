@@ -34,7 +34,11 @@ clients:
           A jumbo mortgage is a home loan for an amount that exceeds conforming
           loan limits established by the federal housing finance agency. The
           conventional loan limit is $726,200 in Texas.
-      - {}
+      - question: Are jumbo cash out refinances available?
+        answer: >
+          Yes! We also have no documentation investment jumbo cash out options
+          up 75% LTV. This means the underwriting approval is based on the
+          property and not your income. No tax returns are needed.
       - {}
       - {}
     disclaimer: "NMLS #46375 3838 Camino del Rio N Suite 305, San Diego, CA 92108.\_CalCon Mutual Mortgage LLC, dba HyperSmart Home Loans is an Equal Housing Lender NMLS #46375; 3838 Camino del Rio N Suite 305, San Diego, CA 92108. Corporate phone (888) 488-3807. For more licensing information visit:\_[https://onetrusthomeloans.com/licensing-information/](https://onetrusthomeloans.com/licensing-information/). All products are not available in all states. All options are not available on all programs. All programs are subject to borrower and property qualifications. Rates, terms and conditions are subject to change without notice. This is an Advertisement.\n"
@@ -539,6 +543,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
