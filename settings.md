@@ -43,7 +43,9 @@ clients:
           purchasing will be your primary residence.
       - question: 'How do I know if I make too much? '
         answer: "Your income must be less than 160% of your area median income. Our licensed loan officers can check the limits for the are you are purchasing in extremely fast.\_ We can give exceptions if you make over the 160% of the area median income.\_\n"
-      - {}
+      - question: 'What mortgage program can I use with this program? '
+        answer: |
+          You can use this grant with the FHA & USDA programs.
       - {}
     disclaimer: |
       CORP NMLS# 237341. American Financial Network, Inc. is licensed by the
@@ -479,6 +481,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
