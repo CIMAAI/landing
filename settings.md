@@ -36,7 +36,11 @@ clients:
           are below that number. Our licensed loan officers can work with you on
           your score. Our loan officers are well versed in working with many
           homeowners regarding their credit scores.
-      - {}
+      - question: 'Do I have to be a first time home buyer? '
+        answer: >
+          You do NOT have to be a first-time homebuyer in order to be approved
+          for down payment assistance. It is only required that the home you are
+          purchasing will be your primary residence.
       - {}
       - {}
       - {}
@@ -474,6 +478,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
