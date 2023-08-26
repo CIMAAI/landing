@@ -16,7 +16,13 @@ clients:
       Texas Jumbo Mortgage Guru - 5% Down Jumbo Mortgages.  Hyper Smart Home
       Loans.
     faqs:
-      - {}
+      - question: Why use our services?
+        answer: >
+          We specialize in jumbo mortgages in Texas (meaning loan amounts over
+          $726,200). Most conventional lenders require a 20% – 25% down payment
+          on these loans. We will work with your situation so you can keep more
+          money in your pocket (for example, with smaller down payments as low
+          as 5%).
       - question: Where are these programs available?
         answer: |
           These programs are available in all of Texas.
@@ -556,6 +562,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
