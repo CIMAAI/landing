@@ -1,6 +1,76 @@
 ---
 typeform_form_id: 01H83H6VAJM685J0J19S1V0TCK
 clients:
+  - client_key: dpaguru.com/mortgagegurugroup/
+    url: 'https://dpaguru.com/mortgagegurugroup/'
+    head_title: 3.5%-5% Down Payment Assistance To Purchase A Home in 48+ States
+    head_description: >-
+      3.5%-5% Down Payment Assistance To Purchase A Home in 48+ States. No Money
+      Down Mortgage
+    header_text: >
+      Are you Looking for down payment assistance to purchase your home? Get
+      first time homeowners grant funds with exclusive payment assistance. 
+    video_embed_url: 'https://vimeo.com/760814474'
+    phone: 888-620-6681
+    consent: |
+      By submitting your contact information you agree to our Licensing
+      Disclaimer, Terms of Use and Privacy Policy. You also expressly consent to
+      having American Financial Network dba Mortgage Guru (“Guru”) contact you
+      about your inquiry by text message or phone (including automatic telephone
+      dialing system or an artificial or prerecorded voice) to the residential
+      or cellular telephone number you have provided, even if that telephone
+      number is on a corporate, state, or national Do Not Call Registry. You do
+      not have to agree to receive such calls or messages as a condition of
+      getting any services from Guru or its affiliates. By communicating with us
+      by phone, you consent to calls being recorded and monitored.
+    faqs_header: >
+      ###### WE'RE HERE TO ANSWER ALL OF YOUR QUESTIONS ABOUT DOWN PAYMENT
+      ASSISTANCE!
+
+
+      ###### Frequently Asked Questions
+    faqs:
+      - question: 'What if I have poor credit? '
+        answer: >
+          You may be eligible with credit scores down to 580! Don’t worry if you
+          are below that number. Our licensed loan officers can work with you on
+          your score. Our loan officers are well versed in working with many
+          homeowners regarding their credit scores.
+      - {}
+      - {}
+      - {}
+      - {}
+    disclaimer: |
+      CORP NMLS# 237341. American Financial Network, Inc. is licensed by the
+      California Department of Business Oversight under the California Financing
+      Law License (6038771) and holds a CA Bureau of Real Estate, Real Estate
+      Broker’s License (01317581) under Nationwide Mortgage Licensing System
+      (NMLS), unique identifier of 237341. Broker is performing acts for which a
+      license is required. Loans made or arranged pursuant to California
+      Financing Law. Refer to www.nmlsconsumeraccess.org and input NMLS #237341
+      to see where American Financial Network, Inc. is a licensed lender. In all
+      states, the principal licensed office of American Financial Network, Inc.
+      is 10 Pointe Drive, Suite 330, Brea, CA 92821; Phone: (714) 831-4000 (NMLS
+      ID#237341). This is not an offer for extension of credit or commitment to
+      lend. All loans must satisfy company underwriting guidelines. Not all
+      applicants qualify. Information and pricing are subject to change at any
+      time and without notice. The content in this advertisement is for
+      informational purposes only. Products not available in all areas. As
+      prohibited by federal law, we do not engage in business practices that
+      discriminate on the basis of race, color, religion, national origin, sex,
+      marital status, age (provided you have the capacity to enter into a
+      binding contract), because all or part of your income may be derived from
+      any public assistance program, or because you have, in good faith,
+      exercised any right under the Consumer Credit Protection Act. The federal
+      agency that administers our compliance with these federal laws is the
+      Federal Trade Commission, Equal Credit Opportunity, Washington, DC, 20580.
+      American Financial Network, Inc. is an Equal Housing Lender.
+    privacy_policy_url: 'https://www.afncorp.com/web/afncorp/privacy-policy'
+    licensing_url: 'https://www.afncorp.com/web/afncorp/license'
+    managers: |
+      Todd McDougall - Producing Branch Manager - NMLS# 302005
+
+      Samuel Dude - Producing Branch Manager - NMLS # 299345
   - client_key: texasjumbomortgageguru.com/mortgagegurugroup/
     url: 'https://texasjumbomortgageguru.com/mortgagegurugroup/'
     head_title: Texas Jumbo Mortgages - 5% Down Jumbo Mortgages
@@ -404,6 +474,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
