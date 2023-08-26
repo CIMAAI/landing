@@ -31,7 +31,12 @@ clients:
           Yes! We also have no documentation investment jumbo cash out options
           up 75% LTV. This means the underwriting approval is based on the
           property and not your income. No tax returns are needed.
-      - {}
+      - question: What credit score is required?
+        answer: >
+          We now have jumbo mortgage options for buyers with credit scores down
+          to 620! The lower your credit score the more you will need to put
+          down. Purchase, refinance and cash out options are also available for
+          scores down to 620.
       - {}
       - {}
       - {}
@@ -338,6 +343,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
