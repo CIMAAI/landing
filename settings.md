@@ -45,7 +45,11 @@ clients:
           to 620! The lower your credit score the more you will need to put
           down. Purchase, refinance and cash out options are also available for
           scores down to 620.
-      - {}
+      - question: Can you get a jumbo mortgage with no tax returns?
+        answer: >
+          Yes! We do have programs that don't require any tax returns.  If you
+          take the max write offs we have a solution for you.  If you have not
+          filed in a year or two, we also have options for you.
     disclaimer: "NMLS #46375 3838 Camino del Rio N Suite 305, San Diego, CA 92108.\_CalCon Mutual Mortgage LLC, dba HyperSmart Home Loans is an Equal Housing Lender NMLS #46375; 3838 Camino del Rio N Suite 305, San Diego, CA 92108. Corporate phone (888) 488-3807. For more licensing information visit:\_[https://onetrusthomeloans.com/licensing-information/](https://onetrusthomeloans.com/licensing-information/). All products are not available in all states. All options are not available on all programs. All programs are subject to borrower and property qualifications. Rates, terms and conditions are subject to change without notice. This is an Advertisement.\n"
     privacy_policy_url: 'https://www.hypersmarthomeloans.com/privacy-policy/'
     licensing_url: 'https://onetrusthomeloans.com/licensing-information/'
@@ -548,6 +552,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
