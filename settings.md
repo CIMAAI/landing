@@ -30,6 +30,17 @@ clients:
 
       ###### Frequently Asked Questions
     faqs:
+      - question: What are the monthly payments for grants?
+        answer: >
+          * 10 year term.
+
+          * Note rate of the grant is 2% above the first lien rate amortized
+          over 10 years!
+
+          * 10 year amortizing loan with monthly payments.
+
+          * 300k FHA, 3.5% down payment is $10,500 with current rate of 6%.
+          ($10,500 grant payment will be 8% or $127/month over 10 years.
       - question: 'What if I have poor credit? '
         answer: >
           You may be eligible with credit scores down to 580! Don’t worry if you
@@ -484,6 +495,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
