@@ -7,6 +7,7 @@ clients:
     head_description: >-
       3.5%-5% Down Payment Assistance To Purchase A Home in 48+ States. No Money
       Down Mortgage
+    logo: /uploads/mgg-prmg-landscape.jpg
     header_text: >
       Are you Looking for down payment assistance to purchase your home? Get
       first time homeowners grant funds with exclusive payment assistance. 
@@ -495,6 +496,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
