@@ -58,6 +58,9 @@ clients:
       Ali Hedayatifar Divisional MANAGER/SENIOR LOAN OFFICER, NMLS# 1817352
   - client_key: dpaguru.com/mortgagegurugroup/
     url: 'https://dpaguru.com/mortgagegurugroup/'
+    google_analytics_id: G-95L080JBSE
+    google_conversion_label: K9vtCJLBkbUYEPKQ35kp
+    google_conversion_id: '11059841138'
     head_title: 3.5%-5% Down Payment Assistance To Purchase A Home in 48+ States
     head_description: >-
       3.5%-5% Down Payment Assistance To Purchase A Home in 48+ States. No Money
@@ -554,6 +557,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
