@@ -1,7 +1,7 @@
 ---
 typeform_form_id: 01H83H6VAJM685J0J19S1V0TCK
 clients:
-  - client_key: hypersmartgrants
+  - client_key: hypersmartgrants.com/
     url: 'https://hypersmartgrants.com/'
     head_title: 3.5%-5% Down Payment Assistance To Purchase A Home in 48+ States
     head_description: >-
@@ -148,8 +148,11 @@ clients:
       Todd McDougall - Producing Branch Manager - NMLS# 302005
 
       Samuel Dude - Producing Branch Manager - NMLS # 299345
-  - client_key: texasjumbomortgageguru_mortgagegurugroup
+  - client_key: texasjumbomortgageguru.com/mortgagegurugroup/
     url: 'https://texasjumbomortgageguru.com/mortgagegurugroup/'
+    google_analytics_id: G-R1BZKQ91NB
+    google_conversion_label: DpOtCI24kLUYEPKQ35kp
+    google_conversion_id: '11059841138'
     head_title: Texas Jumbo Mortgages - 5% Down Jumbo Mortgages
     head_description: >-
       5% Down Texas Jumbo Mortgages. Mortgage Guru Group.  No Taxes Needed. 
@@ -551,6 +554,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
