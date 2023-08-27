@@ -150,7 +150,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
   - client_key: texasjumbomortgageguru.com/mortgagegurugroup/
     url: 'https://texasjumbomortgageguru.com/mortgagegurugroup/'
-    google_analytics_id: G-R1BZKQ91NB
+    google_analytics_id: G-HSLG8L5V3M
     google_conversion_label: DpOtCI24kLUYEPKQ35kp
     google_conversion_id: '11059841138'
     head_title: Texas Jumbo Mortgages - 5% Down Jumbo Mortgages
@@ -554,6 +554,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
