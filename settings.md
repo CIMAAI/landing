@@ -156,17 +156,22 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
   - client_key: dpaguru
     url: 'https://dpaguru.com/'
-    google_analytics_id: 
-    google_conversion_label: 
-    google_conversion_id:
-    head_title: Programs For Down Payment Assistance Texas | Florida | California | Colorado | DpaGuru.com
+    google_analytics_id: null
+    google_conversion_label: null
+    google_conversion_id: null
+    head_title: >-
+      Programs For Down Payment Assistance Texas | Florida | California |
+      Colorado | DpaGuru.com
     head_description: >-
-      Are you Looking for down payment assistance to purchase your home? Get first time homeowners grant money with exclusive payment assistance & home owner buyer’s details.
+      Are you Looking for down payment assistance to purchase your home? Get
+      first time homeowners grant money with exclusive payment assistance & home
+      owner buyer’s details.
     logo: /uploads/mortgageguruca.jpg
     header_text: >
-      3.5% grant available for your down payment & closing cost.  Purchase your new home with nothing down!
+      3.5% grant available for your down payment & closing cost.  Purchase your
+      new home with nothing down!
     video_embed_url: 'https://player.vimeo.com/video/760814474?h=787369e3c1&dnt=1&app_id=122963'
-    phone:
+    phone: null
     consent: |
       By submitting your contact information you agree to our Licensing
       Disclaimer, Terms of Use and Privacy Policy. You also expressly consent to
@@ -178,21 +183,30 @@ clients:
       not have to agree to receive such calls or messages as a condition of
       getting any services from Guru or its affiliates. By communicating with us
       by phone, you consent to calls being recorded and monitored.
-    faqs_header: >
+    faqs_header: |
       We're here to answer all of your questions about down payment assistance!
     faqs:
       - question: What if I have poor credit?
         answer: >
-          You may be eligible with credit scores down to 600! Don’t worry if you are below that number. Our licensed loan officers can work with you on your score. Our loan officers are well versed in working with many homeowners regarding their credit scores.
+          You may be eligible with credit scores down to 600! Don’t worry if you
+          are below that number. Our licensed loan officers can work with you on
+          your score. Our loan officers are well versed in working with many
+          homeowners regarding their credit scores.
       - question: What if I have poor credit?
         answer: >
-          You do NOT have to be a first-time homebuyer in order to be approved for down payment assistance. It is only required that the home you are purchasing will be your primary residence.
+          You do NOT have to be a first-time homebuyer in order to be approved
+          for down payment assistance. It is only required that the home you are
+          purchasing will be your primary residence.
       - question: How do I know if I make too much?
         answer: >
-          Your income must be less than 160% of your area median income. Our licensed loan officers can check the limits for the are you are purchasing in extremely fast.  We can give exceptions if you make over the 160% of the area median income. 
+          Your income must be less than 160% of your area median income. Our
+          licensed loan officers can check the limits for the are you are
+          purchasing in extremely fast.  We can give exceptions if you make over
+          the 160% of the area median income.
       - question: Where is this program available?
-        answer: This program is available in 48 states! Not available in Washington or New York.
-
+        answer: >
+          This program is available in 48 states! Not available in Washington or
+          New York.
       - question: What mortgage program can you use with this grant?
         answer: |
           You can use this grant with the FHA & USDA programs.
@@ -204,13 +218,38 @@ clients:
         answer: >
           * 10 year term.
 
-          * Note rate of the grant is 2% above the first lien rate amortized over 10 years!
+          * Note rate of the grant is 2% above the first lien rate amortized
+          over 10 years!
 
           * 10 year amortizing loan with monthly payments.
 
-          * 300k FHA, 3.5% down payment is $10,500 with current rate of 6%. ($10,500 grant payment will be 8% or $127/month over 10 years.
-    disclaimer: |
-      CORP NMLS# 237341. American Financial Network, Inc. is licensed by the California Department of Business Oversight under the California Financing Law License (6038771) and holds a CA Bureau of Real Estate, Real Estate Broker’s License (01317581) under Nationwide Mortgage Licensing System (NMLS), unique identifier of 237341. Broker is performing acts for which a license is required. Loans made or arranged pursuant to California Financing Law. Refer to www.nmlsconsumeraccess.org and input NMLS #237341 to see where American Financial Network, Inc. is a licensed lender. In all states, the principal licensed office of American Financial Network, Inc. is 10 Pointe Drive, Suite 330, Brea, CA 92821; Phone: (714) 831-4000 (NMLS ID#237341). This is not an offer for extension of credit or commitment to lend. All loans must satisfy company underwriting guidelines. Not all applicants qualify. Information and pricing are subject to change at any time and without notice. The content in this advertisement is for informational purposes only. Products not available in all areas. As prohibited by federal law, we do not engage in business practices that discriminate on the basis of race, color, religion, national origin, sex, marital status, age (provided you have the capacity to enter into a binding contract), because all or part of your income may be derived from any public assistance program, or because you have, in good faith, exercised any right under the Consumer Credit Protection Act. The federal agency that administers our compliance with these federal laws is the Federal Trade Commission, Equal Credit Opportunity, Washington, DC, 20580. American Financial Network, Inc. is an Equal Housing Lender.
+          * 300k FHA, 3.5% down payment is $10,500 with current rate of 6%.
+          ($10,500 grant payment will be 8% or $127/month over 10 years.
+    disclaimer: >
+      CORP NMLS# 237341. American Financial Network, Inc. is licensed by the
+      California Department of Business Oversight under the California Financing
+      Law License (6038771) and holds a CA Bureau of Real Estate, Real Estate
+      Broker’s License (01317581) under Nationwide Mortgage Licensing System
+      (NMLS), unique identifier of 237341. Broker is performing acts for which a
+      license is required. Loans made or arranged pursuant to California
+      Financing Law. Refer to www.nmlsconsumeraccess.org and input NMLS #237341
+      to see where American Financial Network, Inc. is a licensed lender. In all
+      states, the principal licensed office of American Financial Network, Inc.
+      is 10 Pointe Drive, Suite 330, Brea, CA 92821; Phone: (714) 831-4000 (NMLS
+      ID#237341). This is not an offer for extension of credit or commitment to
+      lend. All loans must satisfy company underwriting guidelines. Not all
+      applicants qualify. Information and pricing are subject to change at any
+      time and without notice. The content in this advertisement is for
+      informational purposes only. Products not available in all areas. As
+      prohibited by federal law, we do not engage in business practices that
+      discriminate on the basis of race, color, religion, national origin, sex,
+      marital status, age (provided you have the capacity to enter into a
+      binding contract), because all or part of your income may be derived from
+      any public assistance program, or because you have, in good faith,
+      exercised any right under the Consumer Credit Protection Act. The federal
+      agency that administers our compliance with these federal laws is the
+      Federal Trade Commission, Equal Credit Opportunity, Washington, DC, 20580.
+      American Financial Network, Inc. is an Equal Housing Lender.
     privacy_policy_url: 'https://www.afncorp.com/web/afncorp/privacy-policy'
     licensing_url: 'https://www.afncorp.com/web/afncorp/license'
     managers: |
@@ -623,6 +662,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
