@@ -1,7 +1,7 @@
 ---
 typeform_form_id: 01H83H6VAJM685J0J19S1V0TCK
 clients:
-  - client_key: hypersmartgrants.com/
+  - client_key: hypersmartgrants
     url: 'https://hypersmartgrants.com/'
     google_analytics_id: G-NJ7L49XV5W
     google_conversion_label: Hen5CIra6NcYEOi225kp
@@ -59,7 +59,7 @@ clients:
     licensing_url: 'https://onetrusthomeloans.com/licensing-information/'
     managers: |
       Ali Hedayatifar Divisional MANAGER/SENIOR LOAN OFFICER, NMLS# 1817352
-  - client_key: dpaguru.com/mortgagegurugroup/
+  - client_key: dpaguru_mortgagegurugroup
     url: 'https://dpaguru.com/mortgagegurugroup/'
     google_analytics_id: G-95L080JBSE
     google_conversion_label: K9vtCJLBkbUYEPKQ35kp
@@ -154,7 +154,7 @@ clients:
       Todd McDougall - Producing Branch Manager - NMLS# 302005
 
       Samuel Dude - Producing Branch Manager - NMLS # 299345
-  - client_key: texasjumbomortgageguru.com/mortgagegurugroup/
+  - client_key: texasjumbomortgageguru_mortgagegurugroup
     url: 'https://texasjumbomortgageguru.com/mortgagegurugroup/'
     google_analytics_id: G-HSLG8L5V3M
     google_conversion_label: DpOtCI24kLUYEPKQ35kp
@@ -257,7 +257,7 @@ clients:
       Todd McDougall - Producing Branch Manager - NMLS# 302005
 
       Samuel Dude - Producing Branch Manager - NMLS # 299345
-  - client_key: texasjumbomortgageguru.com
+  - client_key: texasjumbomortgageguru
     url: 'https://texasjumbomortgageguru.com'
     head_title: Texas Jumbo Mortgages - 5% Down Jumbo Mortgages
     head_description: >-
