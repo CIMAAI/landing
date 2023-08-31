@@ -15,6 +15,16 @@ permalink: "/"
 <!doctype html>
 <html lang="en">
   <head>
+    <meta id="google-analytics" content="{{ client.google_analytics }}">
+    <meta id="google-ads-conversion-id" content="{{ client.google_ads_conversion_id }}">
+    <meta id="google-ads-conversion-label" content="{{ client.google_ads_conversion_label }}">
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-NR7Q28CR');</script>
+    <!-- End Google Tag Manager -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ client.head_title }}</title>
@@ -30,6 +40,10 @@ permalink: "/"
     </style>
   </head>
   <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NR7Q28CR"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <main>
       <section class="container-lg">
         <div class="row py-4 d-flex align-items-center">
@@ -88,7 +102,7 @@ permalink: "/"
         <h4 style="color: #213068">{{ client.faqs_header  | markdownify }}</h4>
         <h3>Frequently Asked Questions</h3>
       </section>
-      <section class="py-5" style="background-image: url(/uploads/people.webp); background-repeat: no-repeat; background-position: center center; background-size: cover;">
+      <section class="py-5" style="background-image: url(./uploads/people.webp); background-repeat: no-repeat; background-position: center center; background-size: cover;">
         <div class="container-lg">
           <div class="accordion" id="accordion" data-bs-theme="dark">
             {% for faq in client.faqs %}
@@ -119,14 +133,10 @@ permalink: "/"
         </p>
         {{ client.managers | markdownify }}
         <p>
-          <img src="/uploads/equal-house.webp" alt="equal-house" style="width: 50px; height: auto">
+          <img src="./uploads/equal-house.webp" alt="equal-house" style="width: 50px; height: auto">
         </p>
       </section>
     </main>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
-    <!-- Start of HubSpot Embed Code -->
-    <script type="text/javascript" id="hs-script-loader" async defer src="https://js.hs-scripts.com/43565699.js"></script>
-    <!-- End of HubSpot Embed Code -->
-    <script type="text/javascript" src="https://cdn.callrail.com/companies/765953326/2a37eb0b1c83031da914/12/swap.js"></script> 
   </body>
 </html>
