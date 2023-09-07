@@ -72,8 +72,8 @@ clients:
     header_text: >
       Are you Looking for down payment assistance to purchase your home? Get
       first time homeowners grant funds with exclusive payment assistance.
-    video_embed_url: 'https://vimeo.com/760814474'
-    phone: 888-620-6681
+    video_embed_url: 'https://player.vimeo.com/video/760814474?h=787369e3c1&dnt=1&app_id=122963'
+    phone: '+18886206681'
     consent: |
       By submitting your contact information you agree to our Licensing
       Disclaimer, Terms of Use and Privacy Policy. You also expressly consent to
@@ -268,8 +268,8 @@ clients:
     logo: /uploads/mortgageguruca.jpg
     header_text: |
       We're here to answer all of your questions about Jumbo loans!
-    video_embed_url: 'https://youtu.be/SzY0AcPxymg'
-    phone: 888-620-6681
+    video_embed_url: 'https://youtube.com/embed/SzY0AcPxymg?si=DqZTUNtOFSdwl9yQ'
+    phone: '+18886206681'
     consent: |
       By submitting your contact information you agree to our Licensing
       Disclaimer, Terms of Use and Privacy Policy. You also expressly consent to
@@ -368,8 +368,8 @@ clients:
     logo: /uploads/mgg-prmg-landscape.jpg
     header_text: |
       We're here to answer all of your questions about Jumbo loans!
-    video_embed_url: 'https://vimeo.com/466242774'
     phone: (888) 620-6681
+    video_embed_url: 'https://player.vimeo.com/video/466242774?h=787369e3c1&dnt=1&app_id=122963'
     consent: |
       By submitting your contact information you agree to our Licensing
       Disclaimer, Terms of Use and Privacy Policy. You also expressly consent to
