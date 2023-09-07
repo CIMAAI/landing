@@ -1,6 +1,6 @@
 baseurl: ""
 markdown: kramdown
-theme: minima
+# theme: minima
 plugins: []
   # - jekyll-redirect-from
 exclude:
@@ -18,10 +18,11 @@ exclude:
   - '*.orig'
   - '*.log'
   - install-dependencies.sh
+  - admin
+  - tina
 
 include:
   - .nojekyll
-  - CNAME
 
 permalink: /blog/:categories/:title/
 categories: []

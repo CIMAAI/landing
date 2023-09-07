@@ -66,15 +66,35 @@ permalink: "/"
                   <h1 class="card-title fs-3">Do You Have Credit Issues?</h1>
                   <h2 class="card-subtitle mb-2 text-body-secondary fs-4">Don't Be Discouraged.</h2>
                   <h6>Press Play To Learn More Below!</h6>
-                  <iframe src="{{ client.video_embed_url }}"frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="width: 100%; max-width: 100%; height: 360px;"></iframe>
+                  <iframe src="{{ client.video_embed_url }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="width: 100%; max-width: 100%; height: 360px;"></iframe>
                 </div>
               </div>
             </div>
             <div class="col-md-6 col-lg-5">
               <div class="card shadow-lg h-100">
                 <div class="card-body text-center">
-                  <h3 class="card-title">Let's Get Started!</h1>
-                  <div data-tf-live="{{ settings.typeform_form_id }}" data-tf-hubspot></div><script src="https://embed.typeform.com/next/embed.js"></script>
+                  <div
+                    data-tf-widget="gjTPeHMU"
+                    data-tf-hubspot
+                    data-tf-hidden="cima_client_key={{ client.client_key }},hubspot_utk=xxxxx,hubspot_page_name=xxxxx,hubspot_page_url=xxxxx,utm_source=xxxxx,utm_medium=xxxxx,utm_campaign=xxxxx,utm_term=xxxxx,utm_content=xxxxx"
+                    data-tf-on-submit="submit"
+                    data-tf-hide-headers
+                    data-tf-hide-footer
+                    data-tf-opacity="0"
+                    data-tf-auto-resize="450, 800"
+                    shareGaInstance="{{ client.google_analytics }}"
+                    inlineOnMobile="true"
+                  ></div>
+                  <script src="https://embed.typeform.com/next/embed.js"></script>
+                  <script>
+                    function submit({ formId, responseId }) {
+                      setTimeout(() => {
+                        if (__hsUserToken) {
+                          fetch(`https://hbip.austindevs.workers.dev/?pageName=${encodeURIComponent(document.title)}&pageUri=${encodeURIComponent(window.location.href)}&hutk=${encodeURIComponent(__hsUserToken)}`);
+                        }
+                      }, 2000);
+                    }
+                  </script>
                 </div>
               </div>
             </div>

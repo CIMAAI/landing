@@ -1,6 +1,7 @@
 const fm = require('front-matter');
 const { readFileSync, writeFileSync, existsSync, mkdirSync } = require('fs');
-const { execSync, exec } = require('child_process');
+const { execSync } = require('child_process');
+const ghpages = require('gh-pages');
 
 (() => {
   const clientKeys = fm(readFileSync('./settings.md', 'utf-8')).attributes.clients
@@ -10,8 +11,9 @@ const { execSync, exec } = require('child_process');
   clientKeys.forEach(clientKey => {
     writeFileSync(`./_configs/${clientKey}.yml`, `client_key: ${clientKey}`)
       const clientKeyParts = clientKey.split('_');
-      console.log(`jekyll build --config _configs/${clientKey}.yml _config.yml --destination _site/${clientKeyParts[0]}/${clientKeyParts[1] || ''}`);
-      execSync(`jekyll build --config _configs/${clientKey}.yml _config.yml --destination _site/${clientKeyParts[0]}/${clientKeyParts[1] || ''}`);
+      const command = `jekyll build --config _config.yml,_configs/${clientKey}.yml --destination _site/${clientKeyParts[0]}/${clientKeyParts[1] || ''}`
+      console.log(command);
+      execSync(command);
       writeFileSync(`_site/${clientKeyParts[0]}/CNAME`, `${clientKeyParts[0]}.com`);
   })
 })();
