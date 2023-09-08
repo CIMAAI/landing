@@ -1,0 +1,29 @@
+name: Deploy
+on:
+  push:
+    branches: [ main ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 3.2
+    
+    - name: Install Ruby dependencies
+      run: bundle install
+        
+    - uses: actions/setup-node@v3
+      with:
+        node-version: 20
+
+    - name: Install Node.js dependencies
+      run: npm install
+
+    - name: Deploy
+      run: node _scripts/deploy.js
+      env:
+        GH_API_KEY: ${{ secrets.GH_API_KEY }}
