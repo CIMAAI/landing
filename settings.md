@@ -69,9 +69,7 @@ clients:
       3.5%-5% Down Payment Assistance To Purchase A Home in 48+ States. No Money
       Down Mortgage
     logo: /uploads/mgg-prmg-landscape.jpg
-    header_text: >
-      Are you Looking for down payment assistance to purchase your home? Get
-      first time homeowners grant funds with exclusive payment assistance.
+    header_text: "The No Money Down Mortgage Has Finally Arrived! Our Grant Is Available To Be Applied To Your Down Payment & Closing Cost.\_ Purchase Your New Home With Nothing Down!\_ Get Up To 3.5% Of The Sales Price.\n"
     video_embed_url: 'https://player.vimeo.com/video/760814474?h=787369e3c1&dnt=1&app_id=122963'
     phone: '+18886206681'
     consent: |
@@ -368,8 +366,8 @@ clients:
     logo: /uploads/mgg-prmg-landscape.jpg
     header_text: |
       We're here to answer all of your questions about Jumbo loans!
-    phone: (888) 620-6681
     video_embed_url: 'https://player.vimeo.com/video/466242774?h=787369e3c1&dnt=1&app_id=122963'
+    phone: (888) 620-6681
     consent: |
       By submitting your contact information you agree to our Licensing
       Disclaimer, Terms of Use and Privacy Policy. You also expressly consent to
@@ -663,6 +661,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
