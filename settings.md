@@ -77,7 +77,12 @@ clients:
     header_text: >
       Are you Looking for down payment assistance to purchase your home? Get
       first time homeowners grant funds with exclusive payment assistance.
-    video_header_text: ''
+    video_header_text: |
+      ### Do You Have Credit Issues?
+
+      #### Don't Be Discouraged.
+
+      ##### Press Play To Learn More Below!
     video_embed_url: 'https://youtube.com/shorts/3Y_kxsiLWJw'
     phone: '+18886206681'
     consent: |
@@ -674,6 +679,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
