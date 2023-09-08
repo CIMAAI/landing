@@ -31,11 +31,6 @@ export default defineConfig({
             label: 'Settings',
             fields: [
               {
-                type: "string",
-                name: "typeform_form_id",
-                label: "Typeform Form ID",
-              },
-              {
                 type: "object",
                 name: "clients",
                 label: "Clients",
