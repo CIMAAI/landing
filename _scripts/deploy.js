@@ -11,6 +11,7 @@ const { execSync } = require('child_process');
     writeFileSync(`./_configs/${clientKey}.yml`, `client_key: ${clientKey}`);
     const clientKeyParts = clientKey.split('_');
     const command = `jekyll build --config _config.yml,_configs/${clientKey}.yml --destination _site/${clientKeyParts[0]}/${clientKeyParts[1] || ''}`;
+    execSync('rm -rf _site/admin');
     console.log(command);
     execSync(command);
   })
@@ -18,4 +19,8 @@ const { execSync } = require('child_process');
     writeFileSync(`_site/${clientKey}/CNAME`, `${clientKey}.com`);
     execSync(`git config --local user.email "action@github.com" && git config --local user.name "GitHub Action" && npx gh-pages --repo https://git:${process.env.GH_API_KEY}@github.com/CIMAAI/${clientKey}.com.git --dist _site/${clientKey} -t`);
   });
+  execSync('rm -rf _site');
+  execSync('npx tinacms build');
+  execSync('jekyll build');
+  execSync('npx gh-pages --dist _site -t');
 })();

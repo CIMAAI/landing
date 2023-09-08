@@ -18,7 +18,6 @@ exclude:
   - '*.orig'
   - '*.log'
   - install-dependencies.sh
-  - admin
   - tina
 
 include:
