@@ -21,5 +21,6 @@ const { execSync } = require('child_process');
   execSync('rm -rf _site');
   execSync('npx tinacms build');
   execSync('jekyll build');
+  writeFileSync(`_site/CNAME`, `landing.cima.ai`);
   execSync(`git config --local user.email "action@github.com" && git config --local user.name "GitHub Action" && npx gh-pages --repo https://git:${process.env.GH_API_KEY}@github.com/CIMAAI/landing.git --dist _site -t`);
 })();
