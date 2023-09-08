@@ -609,7 +609,12 @@ clients:
       The FHA program now allows credit scores at 580 and below. FHA requires a
       low down payment at 3.5% down. If you're in the market for a home, you owe
       it to yourself to research California FHA loan options!
-    video_header_text: ''
+    video_header_text: |
+      ### Do You Have Credit Issues?
+
+      #### Don't Be Discouraged.
+
+      ##### Press Play To Learn More Below!
     video_embed_url: 'https://player.vimeo.com/video/714991332?h=69b0a17f1c&dnt=1&app_id=122963'
     phone: '+18886206681'
     consent: >
@@ -699,6 +704,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
