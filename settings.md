@@ -13,6 +13,12 @@ clients:
     header_text: >
       Are you Looking for down payment assistance to purchase your home? Get
       first time homeowners grant funds with exclusive payment assistance.
+    video_header_text: |
+      ### Do You Have Credit Issues?
+
+      #### Don't Be Discouraged.
+
+      ##### Press Play To Learn More Below!
     video_embed_url: 'https://youtube.com/embed/S6i2M4_EVVA?si=DqZTUNtOFSdwl9yQ'
     consent: "NMLS #46375 3838 Camino del Rio N Suite 305, San Diego, CA 92108.\_CalCon Mutual Mortgage LLC, dba HyperSmart Home Loans is an Equal Housing Lender NMLS #46375; 3838 Camino del Rio N Suite 305, San Diego, CA 92108. Corporate phone (888) 488-3807. For more licensing information visit:\_[https://onetrusthomeloans.com/licensing-information/](https://onetrusthomeloans.com/licensing-information/). All products are not available in all states. All options are not available on all programs. All programs are subject to borrower and property qualifications. Rates, terms and conditions are subject to change without notice. This is an Advertisement.\n"
     faqs_header: >
@@ -71,6 +77,7 @@ clients:
     header_text: >
       Are you Looking for down payment assistance to purchase your home? Get
       first time homeowners grant funds with exclusive payment assistance.
+    video_header_text: ''
     video_embed_url: 'https://youtube.com/shorts/3Y_kxsiLWJw'
     phone: '+18886206681'
     consent: |
@@ -169,6 +176,7 @@ clients:
     header_text: >
       3.5% grant available for your down payment & closing cost.  Purchase your
       new home with nothing down!
+    video_header_text: ''
     video_embed_url: 'https://player.vimeo.com/video/760814474?h=787369e3c1&dnt=1&app_id=122963'
     phone: (888) 620-6681
     consent: |
@@ -267,6 +275,7 @@ clients:
     logo: /uploads/mortgageguruca.jpg
     header_text: |
       We're here to answer all of your questions about Jumbo loans!
+    video_header_text: ''
     video_embed_url: 'https://youtube.com/embed/SzY0AcPxymg?si=DqZTUNtOFSdwl9yQ'
     phone: '+18886206681'
     consent: |
@@ -367,6 +376,7 @@ clients:
     logo: /uploads/mgg-prmg-landscape.jpg
     header_text: |
       We're here to answer all of your questions about Jumbo loans!
+    video_header_text: ''
     video_embed_url: 'https://player.vimeo.com/video/466242774?h=787369e3c1&dnt=1&app_id=122963'
     phone: (888) 620-6681
     consent: |
@@ -472,6 +482,7 @@ clients:
       a low down payment and are available to homebuyers with less than perfect
       credit down to a 580 score! If you're in the market for a home, you owe it
       to yourself to research FHA loan options.
+    video_header_text: ''
     video_embed_url: 'https://player.vimeo.com/video/364301417?h=aee7cf54b1&dnt=1&app_id=122963'
     phone: (888) 620-6681
     consent: |
@@ -573,6 +584,7 @@ clients:
       The FHA program now allows credit scores at 580 and below. FHA requires a
       low down payment at 3.5% down. If you're in the market for a home, you owe
       it to yourself to research California FHA loan options!
+    video_header_text: ''
     video_embed_url: 'https://player.vimeo.com/video/714991332?h=69b0a17f1c&dnt=1&app_id=122963'
     phone: '+18886206681'
     consent: >
@@ -662,6 +674,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
