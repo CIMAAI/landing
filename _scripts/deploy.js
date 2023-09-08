@@ -16,6 +16,6 @@ const { execSync } = require('child_process');
   })
   clientKeys.filter(clientKey => !clientKey.includes('_')).forEach(clientKey => {
     writeFileSync(`_site/${clientKey}/CNAME`, `${clientKey}.com`);
-    execSync(`git config --local user.email "action@github.com" && git config --local user.name "GitHub Action" && npx gh-pages --repo https://git:$(echo $GH_API_KEY)@github.com:CIMAAI/${clientKey}.com.git --dist _site/${clientKey} -t`);
+    execSync(`git config --local user.email "action@github.com" && git config --local user.name "GitHub Action" && npx gh-pages --repo https://git:${process.env.GH_API_KEY}@github.com:CIMAAI/${clientKey}.com.git --dist _site/${clientKey} -t`);
   });
 })();
