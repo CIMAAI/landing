@@ -1,8 +1,12 @@
 module Jekyll
     module CustomTagFilter
       def phone_number(phone)
-        phone = phone.to_s
+        phone = phone.delete("^0-9").chars.last(10).join
         "(#{phone[2, 3]}) #{phone[5, 3]}-#{phone[8, 4]}"
+      end
+
+      def e164_phone_number(phone)
+        "+1#{phone.delete("^0-9").chars.last(10).join}"
       end
   
       def liquify(input)

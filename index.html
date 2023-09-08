@@ -87,9 +87,7 @@ permalink: "/"
                   <script>
                     function submit({ formId, responseId }) {
                       setTimeout(() => {
-                        if (__hsUserToken) {
-                          fetch(`https://hbip.austindevs.workers.dev/?pageName=${encodeURIComponent(document.title)}&pageUri=${encodeURIComponent(window.location.href)}&hutk=${encodeURIComponent(__hsUserToken)}`);
-                        }
+                        fetch(`https://hbip.austindevs.workers.dev/?pageName=${encodeURIComponent(document.title)}&pageUri=${encodeURIComponent(window.location.href)}&hutk=${encodeURIComponent(__hsUserToken || '')}&formId=${encodeURIComponent(formId)}&responseId=${encodeURIComponent(responseId)}`);
                       }, 2000);
                     }
                   </script>
@@ -104,7 +102,7 @@ permalink: "/"
                   {% if client.phone != '' and client.phone != nil %}
                     <h6 class="text-center">
                       We are also available anytime at<br/>
-                      <a href="tel:{{ client.phone }}">{{ client.phone | phone_number }}</a>
+                      <a href="tel:{{ client.phone | e164_phone_number }}">{{ client.phone | phone_number }}</a>
                     </h6>
                   {% endif %}
                   <small class="text-muted fw-lighter">
