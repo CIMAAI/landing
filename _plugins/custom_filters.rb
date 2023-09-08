@@ -2,7 +2,7 @@ module Jekyll
     module CustomTagFilter
       def phone_number(phone)
         phone = phone.delete("^0-9").chars.last(10).join
-        "(#{phone[2, 3]}) #{phone[5, 3]}-#{phone[8, 4]}"
+        "(#{phone[0, 3]}) #{phone[3, 3]}-#{phone[6, 4]}"
       end
 
       def e164_phone_number(phone)
