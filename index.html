@@ -77,7 +77,7 @@
                   <script>
                     function submit({ formId, responseId }) {
                       setTimeout(() => {
-                        fetch(`https://hbip.austindevs.workers.dev/?pageName=${encodeURIComponent(document.title)}&pageUri=${encodeURIComponent(window.location.href)}&hutk=${encodeURIComponent(__hsUserToken || '')}&formId=${encodeURIComponent(formId)}&responseId=${encodeURIComponent(responseId)}`);
+                        fetch(`https://hbip.austindevs.workers.dev/?pageName=${encodeURIComponent(document.title)}&pageUri=${encodeURIComponent(window.location.href)}&hutk=${encodeURIComponent(window.__hsUserToken || '')}&formId=${encodeURIComponent(formId)}&responseId=${encodeURIComponent(responseId)}`);
                       }, 2000);
                     }
                   </script>
