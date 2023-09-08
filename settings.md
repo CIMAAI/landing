@@ -71,7 +71,7 @@ clients:
     header_text: >
       Are you Looking for down payment assistance to purchase your home? Get
       first time homeowners grant funds with exclusive payment assistance.
-    video_embed_url: 'https://player.vimeo.com/video/760814474?h=787369e3c1&dnt=1&app_id=122963'
+    video_embed_url: 'https://youtube.com/shorts/3Y_kxsiLWJw'
     phone: '+18886206681'
     consent: |
       By submitting your contact information you agree to our Licensing
@@ -367,8 +367,8 @@ clients:
     logo: /uploads/mgg-prmg-landscape.jpg
     header_text: |
       We're here to answer all of your questions about Jumbo loans!
-    phone: (888) 620-6681
     video_embed_url: 'https://player.vimeo.com/video/466242774?h=787369e3c1&dnt=1&app_id=122963'
+    phone: (888) 620-6681
     consent: |
       By submitting your contact information you agree to our Licensing
       Disclaimer, Terms of Use and Privacy Policy. You also expressly consent to
@@ -662,6 +662,9 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
+
+
 
 
 
