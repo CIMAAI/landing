@@ -92,6 +92,11 @@ export default defineConfig({
                     label: "Header Text",
                   },
                   {
+                    type: "rich-text",
+                    name: "video_header_text",
+                    label: "Video Header Text",
+                  },
+                  {
                     type: "string",
                     name: "video_embed_url",
                     label: "Video Embed URL",
