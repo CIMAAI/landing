@@ -285,7 +285,12 @@ clients:
     logo: /uploads/mortgageguruca.jpg
     header_text: |
       We're here to answer all of your questions about Jumbo loans!
-    video_header_text: ''
+    video_header_text: |
+      ### Do You Have Credit Issues?
+
+      #### Don't Be Discouraged.
+
+      ##### Press Play To Learn More Below!
     video_embed_url: 'https://youtube.com/embed/SzY0AcPxymg?si=DqZTUNtOFSdwl9yQ'
     phone: '+18886206681'
     consent: |
@@ -684,6 +689,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
