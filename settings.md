@@ -1,170 +1,5 @@
 ---
 clients:
-  - client_key: hypersmartgrants
-    url: 'https://hypersmartgrants.com/'
-    google_analytics_id: G-NJ7L49XV5W
-    google_conversion_label: Hen5CIra6NcYEOi225kp
-    google_conversion_id: '11059780456'
-    head_title: 3.5%-5% Down Payment Assistance To Purchase A Home in 48+ States
-    head_description: >-
-      3.5%-5% Down Payment Assistance To Purchase A Home in 48+ States. No Money
-      Down Mortgage
-    logo: /uploads/Hypersmart-Logo-500x500-1-e1687536276429.jpeg
-    header_text: >
-      Are you Looking for down payment assistance to purchase your home? Get
-      first time homeowners grant funds with exclusive payment assistance.
-    video_header_text: |
-      ### Do You Have Credit Issues?
-
-      #### Don't Be Discouraged.
-
-      ##### Press Play To Learn More Below!
-    video_embed_url: 'https://youtube.com/embed/S6i2M4_EVVA?si=DqZTUNtOFSdwl9yQ'
-    consent: "NMLS #46375 3838 Camino del Rio N Suite 305, San Diego, CA 92108.\_CalCon Mutual Mortgage LLC, dba HyperSmart Home Loans is an Equal Housing Lender NMLS #46375; 3838 Camino del Rio N Suite 305, San Diego, CA 92108. Corporate phone (888) 488-3807. For more licensing information visit:\_[https://onetrusthomeloans.com/licensing-information/](https://onetrusthomeloans.com/licensing-information/). All products are not available in all states. All options are not available on all programs. All programs are subject to borrower and property qualifications. Rates, terms and conditions are subject to change without notice. This is an Advertisement.\n"
-    faqs_header: >
-      ###### WE'RE HERE TO ANSWER ALL OF YOUR QUESTIONS ABOUT DOWN PAYMENT
-      ASSISTANCE!
-
-
-      ###### Frequently Asked Questions
-    faqs:
-      - question: 'Is the grant forgivable? '
-        answer: >
-          Second mortgage is due and payable upon sale, refinance or payoff of
-          First mortgage if balance is not paid off.
-      - question: What are the monthly payments for grants?
-        answer: >
-          * 10 year term.
-
-          * Note rate of the grant is 2% above the first lien rate amortized
-          over 10 years!
-
-          * 10 year amortizing loan with monthly payments.
-
-          * 300k FHA, 3.5% down payment is $10,500 with current rate of 6%.
-          ($10,500 grant payment will be 8% or $127/month over 10 years.
-      - question: 'What if I have poor credit? '
-        answer: >
-          You may be eligible with credit scores down to 580! Don’t worry if you
-          are below that number. Our licensed loan officers can work with you on
-          your score. Our loan officers are well versed in working with many
-          homeowners regarding their credit scores.
-      - question: 'Do I have to be a first time home buyer? '
-        answer: >
-          You do NOT have to be a first-time homebuyer in order to be approved
-          for down payment assistance. It is only required that the home you are
-          purchasing will be your primary residence.
-      - question: 'How do I know if I make too much? '
-        answer: "Your income must be less than 160% of your area median income. Our licensed loan officers can check the limits for the are you are purchasing in extremely fast.\_ We can give exceptions if you make over the 160% of the area median income.\_\n"
-      - question: 'What mortgage program can I use with this program? '
-        answer: |
-          You can use this grant with the FHA & USDA programs.
-    disclaimer: "NMLS #46375 3838 Camino del Rio N Suite 305, San Diego, CA 92108.\_CalCon Mutual Mortgage LLC, dba HyperSmart Home Loans is an Equal Housing Lender NMLS #46375; 3838 Camino del Rio N Suite 305, San Diego, CA 92108. Corporate phone (888) 488-3807. For more licensing information visit:\_[https://onetrusthomeloans.com/licensing-information/](https://onetrusthomeloans.com/licensing-information/). All products are not available in all states. All options are not available on all programs. All programs are subject to borrower and property qualifications. Rates, terms and conditions are subject to change without notice. This is an Advertisement.\n"
-    privacy_policy_url: 'https://www.hypersmarthomeloans.com/privacy-policy/'
-    licensing_url: 'https://onetrusthomeloans.com/licensing-information/'
-    managers: |
-      Ali Hedayatifar Divisional MANAGER/SENIOR LOAN OFFICER, NMLS# 1817352
-  - client_key: dpaguru_mortgagegurugroup
-    url: 'https://dpaguru.com/mortgagegurugroup/'
-    google_analytics_id: G-95L080JBSE
-    google_conversion_label: K9vtCJLBkbUYEPKQ35kp
-    google_conversion_id: '11059841138'
-    head_title: 3.5%-5% Down Payment Assistance To Purchase A Home in 48+ States
-    head_description: >-
-      3.5%-5% Down Payment Assistance To Purchase A Home in 48+ States. No Money
-      Down Mortgage
-    logo: /uploads/mgg-prmg-landscape.jpg
-    header_text: >
-      Are you Looking for down payment assistance to purchase your home? Get
-      first time homeowners grant funds with exclusive payment assistance.
-    video_header_text: |
-      ### Do You Have Credit Issues?
-
-      #### Don't Be Discouraged.
-
-      ##### Press Play To Learn More Below!
-    video_embed_url: 'https://youtube.com/shorts/3Y_kxsiLWJw'
-    phone: '+18886206681'
-    consent: |
-      By submitting your contact information you agree to our Licensing
-      Disclaimer, Terms of Use and Privacy Policy. You also expressly consent to
-      having American Financial Network dba Mortgage Guru (“Guru”) contact you
-      about your inquiry by text message or phone (including automatic telephone
-      dialing system or an artificial or prerecorded voice) to the residential
-      or cellular telephone number you have provided, even if that telephone
-      number is on a corporate, state, or national Do Not Call Registry. You do
-      not have to agree to receive such calls or messages as a condition of
-      getting any services from Guru or its affiliates. By communicating with us
-      by phone, you consent to calls being recorded and monitored.
-    faqs_header: >
-      ###### WE'RE HERE TO ANSWER ALL OF YOUR QUESTIONS ABOUT DOWN PAYMENT
-      ASSISTANCE!
-
-
-      ###### Frequently Asked Questions
-    faqs:
-      - question: What are the monthly payments for grants?
-        answer: >
-          * 10 year term.
-
-          * Note rate of the grant is 2% above the first lien rate amortized
-          over 10 years!
-
-          * 10 year amortizing loan with monthly payments.
-
-          * 300k FHA, 3.5% down payment is $10,500 with current rate of 6%.
-          ($10,500 grant payment will be 8% or $127/month over 10 years.
-      - question: 'What if I have poor credit? '
-        answer: >
-          You may be eligible with credit scores down to 580! Don’t worry if you
-          are below that number. Our licensed loan officers can work with you on
-          your score. Our loan officers are well versed in working with many
-          homeowners regarding their credit scores.
-      - question: 'Do I have to be a first time home buyer? '
-        answer: >
-          You do NOT have to be a first-time homebuyer in order to be approved
-          for down payment assistance. It is only required that the home you are
-          purchasing will be your primary residence.
-      - question: 'How do I know if I make too much? '
-        answer: "Your income must be less than 160% of your area median income. Our licensed loan officers can check the limits for the are you are purchasing in extremely fast.\_ We can give exceptions if you make over the 160% of the area median income.\_\n"
-      - question: 'What mortgage program can I use with this program? '
-        answer: |
-          You can use this grant with the FHA & USDA programs.
-      - question: 'Is the grant forgivable? '
-        answer: >
-          Second mortgage is due and payable upon sale, refinance or payoff of
-          First mortgage if balance is not paid off.
-    disclaimer: |
-      CORP NMLS# 237341. American Financial Network, Inc. is licensed by the
-      California Department of Business Oversight under the California Financing
-      Law License (6038771) and holds a CA Bureau of Real Estate, Real Estate
-      Broker’s License (01317581) under Nationwide Mortgage Licensing System
-      (NMLS), unique identifier of 237341. Broker is performing acts for which a
-      license is required. Loans made or arranged pursuant to California
-      Financing Law. Refer to www.nmlsconsumeraccess.org and input NMLS #237341
-      to see where American Financial Network, Inc. is a licensed lender. In all
-      states, the principal licensed office of American Financial Network, Inc.
-      is 10 Pointe Drive, Suite 330, Brea, CA 92821; Phone: (714) 831-4000 (NMLS
-      ID#237341). This is not an offer for extension of credit or commitment to
-      lend. All loans must satisfy company underwriting guidelines. Not all
-      applicants qualify. Information and pricing are subject to change at any
-      time and without notice. The content in this advertisement is for
-      informational purposes only. Products not available in all areas. As
-      prohibited by federal law, we do not engage in business practices that
-      discriminate on the basis of race, color, religion, national origin, sex,
-      marital status, age (provided you have the capacity to enter into a
-      binding contract), because all or part of your income may be derived from
-      any public assistance program, or because you have, in good faith,
-      exercised any right under the Consumer Credit Protection Act. The federal
-      agency that administers our compliance with these federal laws is the
-      Federal Trade Commission, Equal Credit Opportunity, Washington, DC, 20580.
-      American Financial Network, Inc. is an Equal Housing Lender.
-    privacy_policy_url: 'https://www.afncorp.com/web/afncorp/privacy-policy'
-    licensing_url: 'https://www.afncorp.com/web/afncorp/license'
-    managers: |
-      Todd McDougall - Producing Branch Manager - NMLS# 302005
-
-      Samuel Dude - Producing Branch Manager - NMLS # 299345
   - client_key: dpaguru
     url: 'https://dpaguru.com/'
     google_analytics_id: null
@@ -273,25 +108,26 @@ clients:
       Todd McDougall - Producing Branch Manager - NMLS# 302005
 
       Samuel Dude - Producing Branch Manager - NMLS # 299345
-  - client_key: texasjumbomortgageguru_mortgagegurugroup
-    url: 'https://texasjumbomortgageguru.com/mortgagegurugroup/'
-    google_analytics_id: G-HSLG8L5V3M
-    google_conversion_label: DpOtCI24kLUYEPKQ35kp
+  - client_key: dpaguru_mortgagegurugroup
+    url: 'https://dpaguru.com/mortgagegurugroup/'
+    google_analytics_id: G-95L080JBSE
+    google_conversion_label: K9vtCJLBkbUYEPKQ35kp
     google_conversion_id: '11059841138'
-    head_title: Texas Jumbo Mortgages - 5% Down Jumbo Mortgages
+    head_title: 3.5%-5% Down Payment Assistance To Purchase A Home in 48+ States
     head_description: >-
-      5% Down Texas Jumbo Mortgages. Mortgage Guru Group.  No Taxes Needed. 
-      Bank Statement Mortgage. 10% Down Jumbo Mortgage To $2,200,000. 
-    logo: /uploads/mortgageguruca.jpg
-    header_text: |
-      We're here to answer all of your questions about Jumbo loans!
+      3.5%-5% Down Payment Assistance To Purchase A Home in 48+ States. No Money
+      Down Mortgage
+    logo: /uploads/mgg-prmg-landscape.jpg
+    header_text: >
+      Are you Looking for down payment assistance to purchase your home? Get
+      first time homeowners grant funds with exclusive payment assistance.
     video_header_text: |
       ### Do You Have Credit Issues?
 
       #### Don't Be Discouraged.
 
       ##### Press Play To Learn More Below!
-    video_embed_url: 'https://youtube.com/embed/SzY0AcPxymg?si=DqZTUNtOFSdwl9yQ'
+    video_embed_url: 'https://youtube.com/shorts/3Y_kxsiLWJw'
     phone: '+18886206681'
     consent: |
       By submitting your contact information you agree to our Licensing
@@ -304,53 +140,44 @@ clients:
       not have to agree to receive such calls or messages as a condition of
       getting any services from Guru or its affiliates. By communicating with us
       by phone, you consent to calls being recorded and monitored.
-    faqs_header: |
-      Texas Jumbo Mortgage Guru - 5% Down Jumbo Mortgages.  Mortgage Guru Group.
+    faqs_header: >
+      ###### WE'RE HERE TO ANSWER ALL OF YOUR QUESTIONS ABOUT DOWN PAYMENT
+      ASSISTANCE!
+
+
+      ###### Frequently Asked Questions
     faqs:
-      - question: How much do I need to put down?
+      - question: What are the monthly payments for grants?
         answer: >
-          * Borrowers can now put as little as 5% down up to a $1,027,000
-          purchase price.
+          * 10 year term.
 
-          * Borrowers can now put as little as 10% down up to a $2,200,000
-          purchase price
+          * Note rate of the grant is 2% above the first lien rate amortized
+          over 10 years!
 
-          * Borrowers can now put 20% down up to a $3,750,000 purchase price.
+          * 10 year amortizing loan with monthly payments.
 
-          * Other products available on a case by case basis
-
-          * Minimum credit scores of 660 are eligible on some jumbo products.
-      - question: What is a jumbo mortgage?
+          * 300k FHA, 3.5% down payment is $10,500 with current rate of 6%.
+          ($10,500 grant payment will be 8% or $127/month over 10 years.
+      - question: 'What if I have poor credit? '
         answer: >
-          A jumbo mortgage is a home loan for an amount that exceeds conforming
-          loan limits established by the federal housing finance agency. The
-          conventional loan limit is $726,200 in Texas.
-      - question: Are jumbo cash out refinances available?
+          You may be eligible with credit scores down to 580! Don’t worry if you
+          are below that number. Our licensed loan officers can work with you on
+          your score. Our loan officers are well versed in working with many
+          homeowners regarding their credit scores.
+      - question: 'Do I have to be a first time home buyer? '
         answer: >
-          Yes! We also have no documentation investment jumbo cash out options
-          up 75% LTV. This means the underwriting approval is based on the
-          property and not your income. No tax returns are needed.
-      - question: What credit score is required?
-        answer: >
-          We now have jumbo mortgage options for buyers with credit scores down
-          to 620! The lower your credit score the more you will need to put
-          down. Purchase, refinance and cash out options are also available for
-          scores down to 620.
-      - question: Can you get a jumbo mortgage with no tax returns?
-        answer: >
-          Yes! We do have programs that don't require any tax returns.  If you
-          take the max write offs we have a solution for you.  If you have not
-          filed in a year or two, we also have options for you.
-      - question: Where are these programs available?
+          You do NOT have to be a first-time homebuyer in order to be approved
+          for down payment assistance. It is only required that the home you are
+          purchasing will be your primary residence.
+      - question: 'How do I know if I make too much? '
+        answer: "Your income must be less than 160% of your area median income. Our licensed loan officers can check the limits for the are you are purchasing in extremely fast.\_ We can give exceptions if you make over the 160% of the area median income.\_\n"
+      - question: 'What mortgage program can I use with this program? '
         answer: |
-          These programs are available in all of Texas.
-      - question: Why use our services?
+          You can use this grant with the FHA & USDA programs.
+      - question: 'Is the grant forgivable? '
         answer: >
-          We specialize in jumbo mortgages in Texas (meaning loan amounts over
-          $726,200). Most conventional lenders require a 20% – 25% down payment
-          on these loans. We will work with your situation so you can keep more
-          money in your pocket (for example, with smaller down payments as low
-          as 5%).
+          Second mortgage is due and payable upon sale, refinance or payoff of
+          First mortgage if balance is not paid off.
     disclaimer: |
       CORP NMLS# 237341. American Financial Network, Inc. is licensed by the
       California Department of Business Oversight under the California Financing
@@ -457,6 +284,115 @@ clients:
           A jumbo mortgage is a home loan for an amount that exceeds conforming
           loan limits established by the federal housing finance agency. The
           conventional loan limit is $726,200 in Texas.
+    disclaimer: |
+      CORP NMLS# 237341. American Financial Network, Inc. is licensed by the
+      California Department of Business Oversight under the California Financing
+      Law License (6038771) and holds a CA Bureau of Real Estate, Real Estate
+      Broker’s License (01317581) under Nationwide Mortgage Licensing System
+      (NMLS), unique identifier of 237341. Broker is performing acts for which a
+      license is required. Loans made or arranged pursuant to California
+      Financing Law. Refer to www.nmlsconsumeraccess.org and input NMLS #237341
+      to see where American Financial Network, Inc. is a licensed lender. In all
+      states, the principal licensed office of American Financial Network, Inc.
+      is 10 Pointe Drive, Suite 330, Brea, CA 92821; Phone: (714) 831-4000 (NMLS
+      ID#237341). This is not an offer for extension of credit or commitment to
+      lend. All loans must satisfy company underwriting guidelines. Not all
+      applicants qualify. Information and pricing are subject to change at any
+      time and without notice. The content in this advertisement is for
+      informational purposes only. Products not available in all areas. As
+      prohibited by federal law, we do not engage in business practices that
+      discriminate on the basis of race, color, religion, national origin, sex,
+      marital status, age (provided you have the capacity to enter into a
+      binding contract), because all or part of your income may be derived from
+      any public assistance program, or because you have, in good faith,
+      exercised any right under the Consumer Credit Protection Act. The federal
+      agency that administers our compliance with these federal laws is the
+      Federal Trade Commission, Equal Credit Opportunity, Washington, DC, 20580.
+      American Financial Network, Inc. is an Equal Housing Lender.
+    privacy_policy_url: 'https://www.afncorp.com/web/afncorp/privacy-policy'
+    licensing_url: 'https://www.afncorp.com/web/afncorp/license'
+    managers: |
+      Todd McDougall - Producing Branch Manager - NMLS# 302005
+
+      Samuel Dude - Producing Branch Manager - NMLS # 299345
+  - client_key: texasjumbomortgageguru_mortgagegurugroup
+    url: 'https://texasjumbomortgageguru.com/mortgagegurugroup/'
+    google_analytics_id: G-HSLG8L5V3M
+    google_conversion_label: DpOtCI24kLUYEPKQ35kp
+    google_conversion_id: '11059841138'
+    head_title: Texas Jumbo Mortgages - 5% Down Jumbo Mortgages
+    head_description: >-
+      5% Down Texas Jumbo Mortgages. Mortgage Guru Group.  No Taxes Needed. 
+      Bank Statement Mortgage. 10% Down Jumbo Mortgage To $2,200,000. 
+    logo: /uploads/mortgageguruca.jpg
+    header_text: |
+      We're here to answer all of your questions about Jumbo loans!
+    video_header_text: |
+      ### Do You Have Credit Issues?
+
+      #### Don't Be Discouraged.
+
+      ##### Press Play To Learn More Below!
+    video_embed_url: 'https://youtube.com/embed/SzY0AcPxymg?si=DqZTUNtOFSdwl9yQ'
+    phone: '+18886206681'
+    consent: |
+      By submitting your contact information you agree to our Licensing
+      Disclaimer, Terms of Use and Privacy Policy. You also expressly consent to
+      having American Financial Network dba Mortgage Guru (“Guru”) contact you
+      about your inquiry by text message or phone (including automatic telephone
+      dialing system or an artificial or prerecorded voice) to the residential
+      or cellular telephone number you have provided, even if that telephone
+      number is on a corporate, state, or national Do Not Call Registry. You do
+      not have to agree to receive such calls or messages as a condition of
+      getting any services from Guru or its affiliates. By communicating with us
+      by phone, you consent to calls being recorded and monitored.
+    faqs_header: |
+      Texas Jumbo Mortgage Guru - 5% Down Jumbo Mortgages.  Mortgage Guru Group.
+    faqs:
+      - question: How much do I need to put down?
+        answer: >
+          * Borrowers can now put as little as 5% down up to a $1,027,000
+          purchase price.
+
+          * Borrowers can now put as little as 10% down up to a $2,200,000
+          purchase price
+
+          * Borrowers can now put 20% down up to a $3,750,000 purchase price.
+
+          * Other products available on a case by case basis
+
+          * Minimum credit scores of 660 are eligible on some jumbo products.
+      - question: What is a jumbo mortgage?
+        answer: >
+          A jumbo mortgage is a home loan for an amount that exceeds conforming
+          loan limits established by the federal housing finance agency. The
+          conventional loan limit is $726,200 in Texas.
+      - question: Are jumbo cash out refinances available?
+        answer: >
+          Yes! We also have no documentation investment jumbo cash out options
+          up 75% LTV. This means the underwriting approval is based on the
+          property and not your income. No tax returns are needed.
+      - question: What credit score is required?
+        answer: >
+          We now have jumbo mortgage options for buyers with credit scores down
+          to 620! The lower your credit score the more you will need to put
+          down. Purchase, refinance and cash out options are also available for
+          scores down to 620.
+      - question: Can you get a jumbo mortgage with no tax returns?
+        answer: >
+          Yes! We do have programs that don't require any tax returns.  If you
+          take the max write offs we have a solution for you.  If you have not
+          filed in a year or two, we also have options for you.
+      - question: Where are these programs available?
+        answer: |
+          These programs are available in all of Texas.
+      - question: Why use our services?
+        answer: >
+          We specialize in jumbo mortgages in Texas (meaning loan amounts over
+          $726,200). Most conventional lenders require a 20% – 25% down payment
+          on these loans. We will work with your situation so you can keep more
+          money in your pocket (for example, with smaller down payments as low
+          as 5%).
     disclaimer: |
       CORP NMLS# 237341. American Financial Network, Inc. is licensed by the
       California Department of Business Oversight under the California Financing
@@ -702,8 +638,73 @@ clients:
       Todd McDougall - Producing Branch Manager - NMLS# 302005
 
       Samuel Dude - Producing Branch Manager - NMLS # 299345
+  - client_key: hypersmartgrants
+    url: 'https://hypersmartgrants.com/'
+    google_analytics_id: G-NJ7L49XV5W
+    google_conversion_label: Hen5CIra6NcYEOi225kp
+    google_conversion_id: '11059780456'
+    head_title: 3.5%-5% Down Payment Assistance To Purchase A Home in 48+ States
+    head_description: >-
+      3.5%-5% Down Payment Assistance To Purchase A Home in 48+ States. No Money
+      Down Mortgage
+    logo: /uploads/Hypersmart-Logo-500x500-1-e1687536276429.jpeg
+    header_text: >
+      Are you Looking for down payment assistance to purchase your home? Get
+      first time homeowners grant funds with exclusive payment assistance.
+    video_header_text: |
+      ### Do You Have Credit Issues?
+
+      #### Don't Be Discouraged.
+
+      ##### Press Play To Learn More Below!
+    video_embed_url: 'https://youtube.com/embed/S6i2M4_EVVA?si=DqZTUNtOFSdwl9yQ'
+    consent: "NMLS #46375 3838 Camino del Rio N Suite 305, San Diego, CA 92108.\_CalCon Mutual Mortgage LLC, dba HyperSmart Home Loans is an Equal Housing Lender NMLS #46375; 3838 Camino del Rio N Suite 305, San Diego, CA 92108. Corporate phone (888) 488-3807. For more licensing information visit:\_[https://onetrusthomeloans.com/licensing-information/](https://onetrusthomeloans.com/licensing-information/). All products are not available in all states. All options are not available on all programs. All programs are subject to borrower and property qualifications. Rates, terms and conditions are subject to change without notice. This is an Advertisement.\n"
+    faqs_header: >
+      ###### WE'RE HERE TO ANSWER ALL OF YOUR QUESTIONS ABOUT DOWN PAYMENT
+      ASSISTANCE!
+
+
+      ###### Frequently Asked Questions
+    faqs:
+      - question: 'Is the grant forgivable? '
+        answer: >
+          Second mortgage is due and payable upon sale, refinance or payoff of
+          First mortgage if balance is not paid off.
+      - question: What are the monthly payments for grants?
+        answer: >
+          * 10 year term.
+
+          * Note rate of the grant is 2% above the first lien rate amortized
+          over 10 years!
+
+          * 10 year amortizing loan with monthly payments.
+
+          * 300k FHA, 3.5% down payment is $10,500 with current rate of 6%.
+          ($10,500 grant payment will be 8% or $127/month over 10 years.
+      - question: 'What if I have poor credit? '
+        answer: >
+          You may be eligible with credit scores down to 580! Don’t worry if you
+          are below that number. Our licensed loan officers can work with you on
+          your score. Our loan officers are well versed in working with many
+          homeowners regarding their credit scores.
+      - question: 'Do I have to be a first time home buyer? '
+        answer: >
+          You do NOT have to be a first-time homebuyer in order to be approved
+          for down payment assistance. It is only required that the home you are
+          purchasing will be your primary residence.
+      - question: 'How do I know if I make too much? '
+        answer: "Your income must be less than 160% of your area median income. Our licensed loan officers can check the limits for the are you are purchasing in extremely fast.\_ We can give exceptions if you make over the 160% of the area median income.\_\n"
+      - question: 'What mortgage program can I use with this program? '
+        answer: |
+          You can use this grant with the FHA & USDA programs.
+    disclaimer: "NMLS #46375 3838 Camino del Rio N Suite 305, San Diego, CA 92108.\_CalCon Mutual Mortgage LLC, dba HyperSmart Home Loans is an Equal Housing Lender NMLS #46375; 3838 Camino del Rio N Suite 305, San Diego, CA 92108. Corporate phone (888) 488-3807. For more licensing information visit:\_[https://onetrusthomeloans.com/licensing-information/](https://onetrusthomeloans.com/licensing-information/). All products are not available in all states. All options are not available on all programs. All programs are subject to borrower and property qualifications. Rates, terms and conditions are subject to change without notice. This is an Advertisement.\n"
+    privacy_policy_url: 'https://www.hypersmarthomeloans.com/privacy-policy/'
+    licensing_url: 'https://onetrusthomeloans.com/licensing-information/'
+    managers: |
+      Ali Hedayatifar Divisional MANAGER/SENIOR LOAN OFFICER, NMLS# 1817352
 _template: settings
 ---
+
 
 
 
