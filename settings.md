@@ -444,7 +444,7 @@ clients:
       #### Don't Be Discouraged.
 
       ##### Press Play To Learn More Below!
-    video_embed_url: 'https://player.vimeo.com/video/364301417?h=aee7cf54b1&dnt=1&app_id=122963'
+    video_embed_url: 'https://player.vimeo.com/video/364301417'
     phone: (888) 620-6681
     consent: |
       By submitting your contact information you agree to our Licensing
@@ -704,6 +704,7 @@ clients:
       Ali Hedayatifar Divisional MANAGER/SENIOR LOAN OFFICER, NMLS# 1817352
 _template: settings
 ---
+
 
 
 
