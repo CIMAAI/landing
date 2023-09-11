@@ -122,9 +122,7 @@ clients:
       Are you Looking for down payment assistance to purchase your home? Get
       first time homeowners grant funds with exclusive payment assistance.
     video_header_text: |
-      ### Do You Have Credit Issues?
-
-      #### Don't Be Discouraged.
+      #### Learn More About Our Grant For Down Payment & Closing Cost!
 
       ##### Press Play To Learn More Below!
     video_embed_url: 'https://www.youtube.com/embed/3Y_kxsiLWJw'
@@ -704,6 +702,7 @@ clients:
       Ali Hedayatifar Divisional MANAGER/SENIOR LOAN OFFICER, NMLS# 1817352
 _template: settings
 ---
+
 
 
 
