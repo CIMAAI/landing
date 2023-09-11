@@ -756,7 +756,9 @@ clients:
         answer: >
           Yes! We do have programs that don't require any tax returns.  If you
           take the max write offs we have a solution for you.  If you have not
-          filed in a year or two, we also have options for you.
+          filed your taxes in a year or two, we also have options for you. We
+          also have options with limited to no bank statements using a CPA
+          prepared profit and loss statement lieu of traditional documents. 
       - question: Where are these programs available?
         answer: |
           These programs are available in all of Texas.
@@ -811,6 +813,7 @@ clients:
       Ali Hedayatifar - RMLO - NMLS# 1817352
 _template: settings
 ---
+
 
 
 
