@@ -702,7 +702,7 @@ clients:
       Ali Hedayatifar Divisional MANAGER/SENIOR LOAN OFFICER, NMLS# 1817352
   - client_key: hypersmarthomeloans
     url: 'https://hypersmarthomeloans.com'
-    head_title: 'HyperSmart Home Loans - Fast Closing & Low Rates '
+    head_title: 'HyperSmart Home Loans & Xpert Home Lending - Fast Closing & Low Rates '
     head_description: >-
       Private Client Lending with 5% down Jumbo, Bank Statement Loans, DSCR
       Loans, Conventional, and Government Loans. 
@@ -817,13 +817,15 @@ clients:
       because you have, in good faith, exercised any right under the Consumer
       Credit Protection Act. The federal agency that administers our compliance
       with these federal laws is the Federal Trade Commission, Equal Credit
-      Opportunity, Washington, DC, 20580.Equal Housing Lender.
+      Opportunity, Washington, DC, 20580.Equal Housing Lender. HyperSmart Group
+      is a team of Xpert Home Lending, Inc. 
     privacy_policy_url: 'https://www.xperthomelending.com/privacy-policy/'
     licensing_url: 'https://www.xperthomelending.com/legal/'
     managers: |
       Ali Hedayatifar - RMLO - NMLS# 1817352
 _template: settings
 ---
+
 
 
 
