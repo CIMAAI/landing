@@ -766,11 +766,17 @@ clients:
           California. Contact us for details.
       - question: Why use our services?
         answer: >
-          We specialize in jumbo mortgages in Texas (meaning loan amounts over
-          $726,200). Most conventional lenders require a 20% – 25% down payment
-          on these loans. We will work with your situation so you can keep more
-          money in your pocket (for example, with smaller down payments as low
-          as 5%).
+          We are tenured mortgage advisors with expertise in specialized loan
+          products and also offer exceptional rate conventional and government
+          loans. 
+
+
+          We also specialize in jumbo mortgages (meaning loan amounts over
+          $726,200 in places like Austin, DFW and Houston). Most traditional
+          lenders require a 20% – 25% down payment on these loans. We will work
+          with your situation so you can keep more money in your pocket (for
+          example, with smaller down payments as low as 5%). We even have
+          super-jumbos on loans over 3M. 
       - question: How much do I need to put down?
         answer: >
           * Borrowers can now put as little as 5% down up to a $1,027,000
@@ -815,6 +821,7 @@ clients:
       Ali Hedayatifar - RMLO - NMLS# 1817352
 _template: settings
 ---
+
 
 
 
