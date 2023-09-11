@@ -739,7 +739,7 @@ clients:
 
       by phone, you consent to calls being recorded and monitored.
     faqs_header: |
-      HyperSmart Texas Jumbo - 5% Down Jumbo Mortgages
+      HyperSmart Common Questions 
     faqs:
       - question: Are jumbo cash out refinances available?
         answer: >
@@ -781,14 +781,18 @@ clients:
           * Borrowers can now put as little as 5% down up to a $1,027,000
           purchase price.
 
-          * Borrowers can now put as little as 10% down up to a $2,200,000
-          purchase price
+          * We can finance homes with zero down payment for certain qualified
+          buyers 
 
-          * Borrowers can now put 20% down up to a $3,750,000 purchase price.
+          * We have a number of jumbo options with less than 20% down
 
-          * Other products available on a case by case basis
+          * We have super jumbo loans for loans over $4,000,000 (which may
+          require larger down payments of 30%)
 
-          * Minimum credit scores of 660 are eligible on some jumbo products.
+          * We have loans for first time home buyers with as little as 3% down 
+
+
+          Let's discuss your options today! 
       - question: What is a jumbo mortgage?
         answer: >
           A jumbo mortgage is a home loan for an amount that exceeds conforming
@@ -820,6 +824,7 @@ clients:
       Ali Hedayatifar - RMLO - NMLS# 1817352
 _template: settings
 ---
+
 
 
 
