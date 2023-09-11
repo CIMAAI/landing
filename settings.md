@@ -702,11 +702,11 @@ clients:
       Ali Hedayatifar Divisional MANAGER/SENIOR LOAN OFFICER, NMLS# 1817352
   - client_key: hypersmarthomeloans
     url: 'https://hypersmarthomeloans.com'
-    head_title: Texas Jumbo Mortgages - 5% Down Jumbo Mortgages
+    head_title: 'HyperSmart Home Loans - Fast Closing & Low Rates '
     head_description: >-
-      5% Down Texas Jumbo Mortgages.  No Taxes Needed.  Bank Statement Mortgage.
-      10% Down Jumbo Mortgage To $2,200,000. 
-    logo: /uploads/mgg-prmg-landscape.jpg
+      Private Client Lending with 5% down Jumbo, Bank Statement Loans, DSCR
+      Loans, Conventional, and Government Loans. 
+    logo: /uploads/Hypersmart-Logo-500x500-1-e1687536276429.jpeg
     header_text: |
       We're here to answer all of your questions about Jumbo loans!
     video_header_text: |
@@ -716,20 +716,30 @@ clients:
 
       ##### Press Play To Learn More Below!
     video_embed_url: 'https://player.vimeo.com/video/466242774'
-    phone: (888) 620-6681
-    consent: |
+    phone: (512) 736-2362
+    consent: >
       By submitting your contact information you agree to our Licensing
+
       Disclaimer, Terms of Use and Privacy Policy. You also expressly consent to
-      having American Financial Network dba Mortgage Guru (“Guru”) contact you
+
+      having Xpert Home Lending Inc. (“Company”) contact you
+
       about your inquiry by text message or phone (including automatic telephone
+
       dialing system or an artificial or prerecorded voice) to the residential
+
       or cellular telephone number you have provided, even if that telephone
+
       number is on a corporate, state, or national Do Not Call Registry. You do
+
       not have to agree to receive such calls or messages as a condition of
-      getting any services from Guru or its affiliates. By communicating with us
+
+      getting any services from Company or its affiliates. By communicating with
+      us
+
       by phone, you consent to calls being recorded and monitored.
     faqs_header: |
-      Texas Jumbo Mortgage Guru - 5% Down Jumbo Mortgages
+      HyperSmart Texas Jumbo - 5% Down Jumbo Mortgages
     faqs:
       - question: Are jumbo cash out refinances available?
         answer: >
@@ -738,10 +748,10 @@ clients:
           property and not your income. No tax returns are needed.
       - question: What credit score is required?
         answer: >
-          We now have jumbo mortgage options for buyers with credit scores down
-          to 620! The lower your credit score the more you will need to put
-          down. Purchase, refinance and cash out options are also available for
-          scores down to 620.
+          We now have mortgage options for buyers with credit scores down to
+          500! The lower your credit score the more you may need to put down.
+          Purchase, refinance and cash out options are also available. We will
+          review it during your mortgage consultation. 
       - question: Can you get a jumbo mortgage with no tax returns?
         answer: >
           Yes! We do have programs that don't require any tax returns.  If you
@@ -808,6 +818,7 @@ clients:
       Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
+
 
 
 
