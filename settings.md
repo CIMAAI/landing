@@ -700,6 +700,112 @@ clients:
     licensing_url: 'https://onetrusthomeloans.com/licensing-information/'
     managers: |
       Ali Hedayatifar Divisional MANAGER/SENIOR LOAN OFFICER, NMLS# 1817352
+  - client_key: hypersmarthomeloans
+    url: 'https://hypersmarthomeloans.com'
+    head_title: Texas Jumbo Mortgages - 5% Down Jumbo Mortgages
+    head_description: >-
+      5% Down Texas Jumbo Mortgages.  No Taxes Needed.  Bank Statement Mortgage.
+      10% Down Jumbo Mortgage To $2,200,000. 
+    logo: /uploads/mgg-prmg-landscape.jpg
+    header_text: |
+      We're here to answer all of your questions about Jumbo loans!
+    video_header_text: |
+      ### Do You Have Credit Issues?
+
+      #### Don't Be Discouraged.
+
+      ##### Press Play To Learn More Below!
+    video_embed_url: 'https://player.vimeo.com/video/466242774'
+    phone: (888) 620-6681
+    consent: |
+      By submitting your contact information you agree to our Licensing
+      Disclaimer, Terms of Use and Privacy Policy. You also expressly consent to
+      having American Financial Network dba Mortgage Guru (“Guru”) contact you
+      about your inquiry by text message or phone (including automatic telephone
+      dialing system or an artificial or prerecorded voice) to the residential
+      or cellular telephone number you have provided, even if that telephone
+      number is on a corporate, state, or national Do Not Call Registry. You do
+      not have to agree to receive such calls or messages as a condition of
+      getting any services from Guru or its affiliates. By communicating with us
+      by phone, you consent to calls being recorded and monitored.
+    faqs_header: |
+      Texas Jumbo Mortgage Guru - 5% Down Jumbo Mortgages
+    faqs:
+      - question: Are jumbo cash out refinances available?
+        answer: >
+          Yes! We also have no documentation investment jumbo cash out options
+          up 75% LTV. This means the underwriting approval is based on the
+          property and not your income. No tax returns are needed.
+      - question: What credit score is required?
+        answer: >
+          We now have jumbo mortgage options for buyers with credit scores down
+          to 620! The lower your credit score the more you will need to put
+          down. Purchase, refinance and cash out options are also available for
+          scores down to 620.
+      - question: Can you get a jumbo mortgage with no tax returns?
+        answer: >
+          Yes! We do have programs that don't require any tax returns.  If you
+          take the max write offs we have a solution for you.  If you have not
+          filed in a year or two, we also have options for you.
+      - question: Where are these programs available?
+        answer: |
+          These programs are available in all of Texas.
+      - question: Why use our services?
+        answer: >
+          We specialize in jumbo mortgages in Texas (meaning loan amounts over
+          $726,200). Most conventional lenders require a 20% – 25% down payment
+          on these loans. We will work with your situation so you can keep more
+          money in your pocket (for example, with smaller down payments as low
+          as 5%).
+      - question: How much do I need to put down?
+        answer: >
+          * Borrowers can now put as little as 5% down up to a $1,027,000
+          purchase price.
+
+          * Borrowers can now put as little as 10% down up to a $2,200,000
+          purchase price
+
+          * Borrowers can now put 20% down up to a $3,750,000 purchase price.
+
+          * Other products available on a case by case basis
+
+          * Minimum credit scores of 660 are eligible on some jumbo products.
+      - question: What is a jumbo mortgage?
+        answer: >
+          A jumbo mortgage is a home loan for an amount that exceeds conforming
+          loan limits established by the federal housing finance agency. The
+          conventional loan limit is $726,200 in Texas.
+    disclaimer: |
+      CORP NMLS# 237341. American Financial Network, Inc. is licensed by the
+      California Department of Business Oversight under the California Financing
+      Law License (6038771) and holds a CA Bureau of Real Estate, Real Estate
+      Broker’s License (01317581) under Nationwide Mortgage Licensing System
+      (NMLS), unique identifier of 237341. Broker is performing acts for which a
+      license is required. Loans made or arranged pursuant to California
+      Financing Law. Refer to www.nmlsconsumeraccess.org and input NMLS #237341
+      to see where American Financial Network, Inc. is a licensed lender. In all
+      states, the principal licensed office of American Financial Network, Inc.
+      is 10 Pointe Drive, Suite 330, Brea, CA 92821; Phone: (714) 831-4000 (NMLS
+      ID#237341). This is not an offer for extension of credit or commitment to
+      lend. All loans must satisfy company underwriting guidelines. Not all
+      applicants qualify. Information and pricing are subject to change at any
+      time and without notice. The content in this advertisement is for
+      informational purposes only. Products not available in all areas. As
+      prohibited by federal law, we do not engage in business practices that
+      discriminate on the basis of race, color, religion, national origin, sex,
+      marital status, age (provided you have the capacity to enter into a
+      binding contract), because all or part of your income may be derived from
+      any public assistance program, or because you have, in good faith,
+      exercised any right under the Consumer Credit Protection Act. The federal
+      agency that administers our compliance with these federal laws is the
+      Federal Trade Commission, Equal Credit Opportunity, Washington, DC, 20580.
+      American Financial Network, Inc. is an Equal Housing Lender.
+    privacy_policy_url: 'https://www.afncorp.com/web/afncorp/privacy-policy'
+    licensing_url: 'https://www.afncorp.com/web/afncorp/license'
+    managers: |
+      Todd McDougall - Producing Branch Manager - NMLS# 302005
+
+      Samuel Dude - Producing Branch Manager - NMLS # 299345
 _template: settings
 ---
 
