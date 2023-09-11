@@ -775,8 +775,7 @@ clients:
           $726,200 in places like Austin, DFW and Houston). Most traditional
           lenders require a 20% – 25% down payment on these loans. We will work
           with your situation so you can keep more money in your pocket (for
-          example, with smaller down payments as low as 5%). We even have
-          super-jumbos on loans over 3M. 
+          example, with smaller down payments as low as 5%). 
       - question: How much do I need to put down?
         answer: >
           * Borrowers can now put as little as 5% down up to a $1,027,000
@@ -821,6 +820,7 @@ clients:
       Ali Hedayatifar - RMLO - NMLS# 1817352
 _template: settings
 ---
+
 
 
 
