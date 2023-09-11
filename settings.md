@@ -760,8 +760,10 @@ clients:
           also have options with limited to no bank statements using a CPA
           prepared profit and loss statement lieu of traditional documents. 
       - question: Where are these programs available?
-        answer: |
-          These programs are available in all of Texas.
+        answer: >
+          These programs are available in all of Texas. We also have loan
+          programs (and loan originators) licensed in many other states such as
+          California. Contact us for details.
       - question: Why use our services?
         answer: >
           We specialize in jumbo mortgages in Texas (meaning loan amounts over
@@ -813,6 +815,7 @@ clients:
       Ali Hedayatifar - RMLO - NMLS# 1817352
 _template: settings
 ---
+
 
 
 
