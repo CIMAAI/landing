@@ -52,7 +52,7 @@ permalink: "/"
           </div>
           <div class="col-lg-8">
             <h6 class="fst-italic text-muted">
-              {{ client.header_text  | markdownify }}
+              {{ client.header_text | markdownify }}
             </h6>
           </div>
         </div>
@@ -74,7 +74,7 @@ permalink: "/"
                   <div
                     data-tf-widget="gjTPeHMU"
                     data-tf-hubspot
-                    data-tf-hidden="cima_client_key={{ client.client_key }},hubspot_utk=xxxxx,hubspot_page_name=xxxxx,hubspot_page_url=xxxxx,utm_source=xxxxx,utm_medium=xxxxx,utm_campaign=xxxxx,utm_term=xxxxx,utm_content=xxxxx"
+                    data-tf-hidden="cima_client_key={{ client.client_key | url_encode }},cima_landing_url={{ client.url | url_encode }},hubspot_utk=xxxxx,hubspot_page_name=xxxxx,hubspot_page_url=xxxxx,utm_source=xxxxx,utm_medium=xxxxx,utm_campaign=xxxxx,utm_term=xxxxx,utm_content=xxxxx"
                     data-tf-on-submit="submit"
                     data-tf-hide-headers
                     data-tf-hide-footer
@@ -86,6 +86,7 @@ permalink: "/"
                   <script src="https://embed.typeform.com/next/embed.js"></script>
                   <script>
                     function submit({ formId, responseId }) {
+                      window.dataLayer && dataLayer.push({'event': 'typeform-submission'});
                       setTimeout(() => {
                         fetch(`https://hbip.austindevs.workers.dev/?pageName=${encodeURIComponent(document.title)}&pageUri=${encodeURIComponent(window.location.href)}&hutk=${encodeURIComponent(window.__hsUserToken || '')}&formId=${encodeURIComponent(formId)}&responseId=${encodeURIComponent(responseId)}`);
                       }, 2000);

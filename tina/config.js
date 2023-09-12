@@ -58,13 +58,13 @@ export default defineConfig({
                   },
                   {
                     type: "string",
-                    name: "google_conversion_label",
-                    label: "Google Conversion Label",
+                    name: "google_ads_conversion_id",
+                    label: "Google Ads Conversion ID",
                   },
                   {
                     type: "string",
-                    name: "google_conversion_id",
-                    label: "Google Conversion ID",
+                    name: "google_ads_conversion_label",
+                    label: "Google Ads Conversion Label",
                   },
                   {
                     type: "string",

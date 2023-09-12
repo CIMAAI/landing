@@ -3,8 +3,8 @@ clients:
   - client_key: dpaguru
     url: 'https://dpaguru.com/'
     google_analytics_id: null
-    google_conversion_label: null
-    google_conversion_id: null
+    google_ads_conversion_id: null
+    google_ads_conversion_label: null
     head_title: >-
       Programs For Down Payment Assistance Texas | Florida | California |
       Colorado | DpaGuru.com
@@ -111,8 +111,8 @@ clients:
   - client_key: dpaguru_mortgagegurugroup
     url: 'https://dpaguru.com/mortgagegurugroup/'
     google_analytics_id: G-95L080JBSE
-    google_conversion_label: K9vtCJLBkbUYEPKQ35kp
-    google_conversion_id: '11059841138'
+    google_ads_conversion_id: '11059841138'
+    google_ads_conversion_label: K9vtCJLBkbUYEPKQ35kp
     head_title: 3.5%-5% Down Payment Assistance To Purchase A Home in 48+ States
     head_description: >-
       3.5%-5% Down Payment Assistance To Purchase A Home in 48+ States. No Money
@@ -316,8 +316,8 @@ clients:
   - client_key: texasjumbomortgageguru_mortgagegurugroup
     url: 'https://texasjumbomortgageguru.com/mortgagegurugroup/'
     google_analytics_id: G-HSLG8L5V3M
-    google_conversion_label: DpOtCI24kLUYEPKQ35kp
-    google_conversion_id: '11059841138'
+    google_ads_conversion_id: '11059841138'
+    google_ads_conversion_label: DpOtCI24kLUYEPKQ35kp
     head_title: Texas Jumbo Mortgages - 5% Down Jumbo Mortgages
     head_description: >-
       5% Down Texas Jumbo Mortgages. Mortgage Guru Group.  No Taxes Needed. 
@@ -639,8 +639,8 @@ clients:
   - client_key: hypersmartgrants
     url: 'https://hypersmartgrants.com/'
     google_analytics_id: G-NJ7L49XV5W
-    google_conversion_label: Hen5CIra6NcYEOi225kp
-    google_conversion_id: '11059780456'
+    google_ads_conversion_id: '11059780456'
+    google_ads_conversion_label: Hen5CIra6NcYEOi225kp
     head_title: 3.5%-5% Down Payment Assistance To Purchase A Home in 48+ States
     head_description: >-
       3.5%-5% Down Payment Assistance To Purchase A Home in 48+ States. No Money
@@ -710,7 +710,7 @@ clients:
     header_text: |
       We're here to answer all of your home mortgage questions.
     video_header_text: |
-      ### We have creative lending options with great rates. 
+      ### We have creative lending options with great rates.
 
       #### One example is our 5% down Jumbo option with no mortgage insurance.
 
@@ -739,7 +739,7 @@ clients:
 
       by phone, you consent to calls being recorded and monitored.
     faqs_header: |
-      HyperSmart Common Questions 
+      HyperSmart Common Questions
     faqs:
       - question: Are jumbo cash out refinances available?
         answer: >
@@ -751,14 +751,14 @@ clients:
           We now have mortgage options for buyers with credit scores down to
           500! The lower your credit score the more you may need to put down.
           Purchase, refinance and cash out options are also available. We will
-          review this during your mortgage consultation. 
+          review this during your mortgage consultation.
       - question: Can you get a jumbo mortgage with no tax returns?
         answer: >
           Yes! We do have programs that don't require any tax returns.  If you
           take the max write offs we have a solution for you.  If you have not
           filed your taxes in a year or two, we also have options for you. We
           also have options with limited to no bank statements using a CPA
-          prepared profit and loss statement lieu of traditional documents. 
+          prepared profit and loss statement lieu of traditional documents.
       - question: Where are these programs available?
         answer: >
           These programs are available in all of Texas. We also have loan
@@ -768,31 +768,31 @@ clients:
         answer: >
           We are tenured mortgage advisors with expertise in specialized loan
           products and also offer exceptional rate conventional and government
-          loans. 
+          loans.
 
 
           We also specialize in jumbo mortgages (meaning loan amounts over
           $726,200 in places like Austin, DFW and Houston). Most traditional
           lenders require a 20% – 25% down payment on these loans. We will work
           with your situation so you can keep more money in your pocket (for
-          example, with smaller down payments as low as 5%). 
+          example, with smaller down payments as low as 5%).
       - question: How much do I need to put down?
         answer: >
           * Borrowers can now put as little as 5% down up to a $1,027,000
           purchase price.
 
           * We can finance homes with zero down payment for certain qualified
-          buyers 
+          buyers
 
           * We have a number of jumbo options with less than 20% down
 
           * We have super jumbo loans for loans over $4,000,000 (which may
           require larger down payments of 30%)
 
-          * We have loans for first time home buyers with as little as 3% down 
+          * We have loans for first time home buyers with as little as 3% down
 
 
-          Let's discuss your options today! 
+          Let's discuss your options today!
       - question: What is a jumbo mortgage?
         answer: >
           A jumbo mortgage is a home loan for an amount that exceeds conforming
@@ -818,13 +818,14 @@ clients:
       Credit Protection Act. The federal agency that administers our compliance
       with these federal laws is the Federal Trade Commission, Equal Credit
       Opportunity, Washington, DC, 20580.Equal Housing Lender. HyperSmart Group
-      is a team of Xpert Home Lending, Inc. 
+      is a team of Xpert Home Lending, Inc.
     privacy_policy_url: 'https://www.xperthomelending.com/privacy-policy/'
     licensing_url: 'https://www.xperthomelending.com/legal/'
     managers: |
       Ali Hedayatifar - RMLO - NMLS# 1817352
 _template: settings
 ---
+
 
 
 
