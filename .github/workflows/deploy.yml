@@ -24,6 +24,6 @@ jobs:
       run: npm install
 
     - name: Deploy
-      run: node _scripts/deploy.js
+      run: npm run deploy
       env:
         GH_API_KEY: ${{ secrets.GH_API_KEY }}
