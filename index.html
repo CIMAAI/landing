@@ -15,7 +15,7 @@ permalink: "/"
 <!doctype html>
 <html lang="en">
   <head>
-    <meta id="google-analytics" content="{{ client.google_analytics }}">
+    <meta id="google-analytics" content="{{ client.google_analytics_id }}">
     <meta id="google-ads-conversion-id" content="{{ client.google_ads_conversion_id }}">
     <meta id="google-ads-conversion-label" content="{{ client.google_ads_conversion_label }}">
     <!-- Google Tag Manager -->
@@ -80,7 +80,7 @@ permalink: "/"
                     data-tf-hide-footer
                     data-tf-opacity="0"
                     data-tf-auto-resize="450, 800"
-                    shareGaInstance="{{ client.google_analytics }}"
+                    shareGaInstance="{{ client.google_analytics_id }}"
                     inlineOnMobile="true"
                   ></div>
                   <script src="https://embed.typeform.com/next/embed.js"></script>
