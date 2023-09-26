@@ -1,7 +1,7 @@
 ---
 clients:
   - client_key: dpaguru
-    url: 'https://dpaguru.com/'
+    url: 'https://dpaguru.com'
     google_analytics_id: null
     google_ads_conversion_id: null
     google_ads_conversion_label: null
@@ -637,7 +637,7 @@ clients:
 
       Samuel Dude - Producing Branch Manager - NMLS # 299345
   - client_key: hypersmartgrants
-    url: 'https://hypersmartgrants.com/'
+    url: 'https://hypersmartgrants.com'
     google_analytics_id: G-NJ7L49XV5W
     google_ads_conversion_id: '11059780456'
     google_ads_conversion_label: Hen5CIra6NcYEOi225kp
@@ -825,6 +825,8 @@ clients:
       Ali Hedayatifar - RMLO - NMLS# 1817352
 _template: settings
 ---
+
+
 
 
 
