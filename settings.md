@@ -697,8 +697,8 @@ clients:
     licensing_url: 'https://onetrusthomeloans.com/licensing-information/'
     managers: |
       Ali Hedayatifar Divisional MANAGER/SENIOR LOAN OFFICER, NMLS# 1817352
-  - client_key: hypersmarthomeloans
-    url: 'https://hypersmarthomeloans.com'
+  - client_key: hypersmartjumbomortgages
+    url: 'https://hypersmartjumbomortgages.com'
     head_title: 'HyperSmart Home Loans & Xpert Home Lending - Fast Closing & Low Rates '
     head_description: >-
       Private Client Lending with 5% down Jumbo, Bank Statement Loans, DSCR
