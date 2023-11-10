@@ -774,28 +774,7 @@ clients:
 
       ##### Press Play To Learn More Below!
     video_embed_url: 'https://youtube.com/embed/S6i2M4_EVVA'
-    consent: >
-      CORP NMLS# 2179191. Xpert Home Lending, Inc. is licensed by the CA Bureau
-      of Real Estate, Real Estate Broker’s License ( DRE # 021667858). Broker is
-      performing acts for which a license is required. Loans made or arranged
-      pursuant to California Financing Law. Refer to
-      www\.nmlsconsumeraccess.org. In all states, the principal licensed office
-      of Xpert Home Lending, Inc. is 1100 Satellite Blvd NW, Suwanee, GA 30024;
-      Phone: (916) 474-9051. This is not an offer for extension of credit or
-      commitment to lend. All loans must satisfy company underwriting
-      guidelines. Not all applicants qualify. Information and pricing are
-      subject to change at any time and without notice. The content in this
-      advertisement is for informational purposes only. Products not available
-      in all areas. As prohibited by federal law, we do not engage in business
-      practices that discriminate on the basis of race, color, religion,
-      national origin, sex, marital status, age (provided you have the capacity
-      to enter into a binding contract), because all or part of your income may
-      be derived from any public assistance program, or because you have, in
-      good faith, exercised any right under the Consumer Credit Protection Act.
-      The federal agency that administers our compliance with these federal laws
-      is the Federal Trade Commission, Equal Credit Opportunity, Washington, DC,
-      20580.Equal Housing Lender. HyperSmart Group is a team of Xpert Home
-      Lending, Inc.
+    consent: "By submitting your contact information, you agree to our Privacy Policy and Legal Policy. You also expressly consent to having Xpert Home Lending Inc. DBA HyperSmart Home Loans\_ (“Company”) contact you about your inquiry by text message or phone (including automatic\_telephone\_dialing system or an artificial or prerecorded voice) to the residential or cellular\_telephone\_number you have provided, even if that\_telephone\_number is on a corporate, state, or national Do Not Call Registry. You do not have to agree to receive such calls or messages as a condition of getting any services from Company or its affiliates. By communicating with us by phone, you consent to calls being recorded and monitored.\n"
     faqs_header: >
       ###### WE'RE HERE TO ANSWER ALL OF YOUR QUESTIONS ABOUT DOWN PAYMENT
       ASSISTANCE!
@@ -834,32 +813,11 @@ clients:
       - question: 'What mortgage program can I use with this program? '
         answer: |
           You can use this grant with the FHA & USDA programs.
-    disclaimer: >
-      CORP NMLS# 2179191. Xpert Home Lending, Inc. is licensed by the CA Bureau
-      of Real Estate, Real Estate Broker’s License ( DRE # 021667858). Broker is
-      performing acts for which a license is required. Loans made or arranged
-      pursuant to California Financing Law. Refer to
-      www\.nmlsconsumeraccess.org. In all states, the principal licensed office
-      of Xpert Home Lending, Inc. is 1100 Satellite Blvd NW, Suwanee, GA 30024;
-      Phone: (916) 474-9051. This is not an offer for extension of credit or
-      commitment to lend. All loans must satisfy company underwriting
-      guidelines. Not all applicants qualify. Information and pricing are
-      subject to change at any time and without notice. The content in this
-      advertisement is for informational purposes only. Products not available
-      in all areas. As prohibited by federal law, we do not engage in business
-      practices that discriminate on the basis of race, color, religion,
-      national origin, sex, marital status, age (provided you have the capacity
-      to enter into a binding contract), because all or part of your income may
-      be derived from any public assistance program, or because you have, in
-      good faith, exercised any right under the Consumer Credit Protection Act.
-      The federal agency that administers our compliance with these federal laws
-      is the Federal Trade Commission, Equal Credit Opportunity, Washington, DC,
-      20580.Equal Housing Lender. HyperSmart Group is a team of Xpert Home
-      Lending, Inc.
-    privacy_policy_url: 'https://www.hypersmarthomeloans.com/privacy-policy/'
-    licensing_url: 'https://onetrusthomeloans.com/licensing-information/'
+    disclaimer: "Xpert Home Lending, Inc. (NMLS# 2179191)\_DBA HyperSmart Home Loans. Ali Hedayatifar RMLO (NMLS #1817352). Refer to\_[www.nmlsconsumeraccess.org](http://www.nmlsconsumeraccess.org/). In all states, the principal licensed office of Xpert Home Lending, Inc. is 1100 Satellite Blvd NW, Suwanee, GA 30024;\_ This is not an offer for extension of credit or commitment to lend. All loans must satisfy company underwriting guidelines. Not all applicants qualify. Information and pricing are subject to change at any time and without notice. The content in this advertisement is for informational purposes only. Products not available in all areas. CA Bureau of Real Estate, Real Estate Broker’s License ( DRE # 021667858). Broker is performing acts for which a license is required. Loans made or arranged pursuant to California Financing Law.\_Equal Housing Lender.\_\n"
+    privacy_policy_url: 'https://www.xperthomelending.com/privacy-policy/'
+    licensing_url: 'https://www.xperthomelending.com/legal/'
     managers: |
-      Ali Hedayatifar Divisional MANAGER/SENIOR LOAN OFFICER, NMLS# 1817352
+      Ali Hedayatifar | Founder |NMLS# 1817352
   - client_key: hypersmartjumbomortgages
     url: 'https://hypersmartjumbomortgages.com'
     head_title: 'HyperSmart Home Loans & Xpert Home Lending - Fast Closing & Low Rates '
