@@ -177,7 +177,12 @@ clients:
         answer: >
           Second mortgage is due and payable upon sale, refinance or payoff of
           First mortgage if balance is not paid off.
-    logo_cards: []
+    logo_cards:
+      - name: Todd McDougall
+        title: Branch Manager
+        company: 'Mortgage Guru Group dba American Financial Network NMLS #237341'
+        license: 'NMLS #302005'
+        logo: /uploads/MGG New.jpeg
     disclaimer: >
       CORP NMLS# 237341. American Financial Network, Inc. is licensed by the
 
@@ -926,5 +931,4 @@ clients:
       Ali Hedayatifar - RMLO - NMLS# 1817352
 _template: settings
 ---
-
 
