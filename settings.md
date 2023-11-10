@@ -773,7 +773,7 @@ clients:
       #### Don't Be Discouraged.
 
       ##### Press Play To Learn More Below!
-    video_embed_url: 'https://youtube.com/embed/S6i2M4_EVVA'
+    video_embed_url: 'https://www.youtube.com/embed/3Y_kxsiLWJw'
     consent: "By submitting your contact information, you agree to our Privacy Policy and Legal Policy. You also expressly consent to having Xpert Home Lending Inc. DBA HyperSmart Home Loans\_ (“Company”) contact you about your inquiry by text message or phone (including automatic\_telephone\_dialing system or an artificial or prerecorded voice) to the residential or cellular\_telephone\_number you have provided, even if that\_telephone\_number is on a corporate, state, or national Do Not Call Registry. You do not have to agree to receive such calls or messages as a condition of getting any services from Company or its affiliates. By communicating with us by phone, you consent to calls being recorded and monitored.\n"
     faqs_header: >
       ###### WE'RE HERE TO ANSWER ALL OF YOUR QUESTIONS ABOUT DOWN PAYMENT
