@@ -44,7 +44,7 @@ clients:
           are below that number. Our licensed loan officers can work with you on
           your score. Our loan officers are well versed in working with many
           homeowners regarding their credit scores.
-      - question: What if I have poor credit?
+      - question: Do I have to be a first time home buyer?
         answer: >
           You do NOT have to be a first-time homebuyer in order to be approved
           for down payment assistance. It is only required that the home you are
@@ -84,24 +84,25 @@ clients:
       Broker’s License (01317581) under Nationwide Mortgage Licensing System
       (NMLS), unique identifier of 237341. Broker is performing acts for which a
       license is required. Loans made or arranged pursuant to California
-      Financing Law. Refer to www.nmlsconsumeraccess.org and input NMLS #237341
-      to see where American Financial Network, Inc. is a licensed lender. In all
-      states, the principal licensed office of American Financial Network, Inc.
-      is 10 Pointe Drive, Suite 330, Brea, CA 92821; Phone: (714) 831-4000 (NMLS
-      ID#237341). This is not an offer for extension of credit or commitment to
-      lend. All loans must satisfy company underwriting guidelines. Not all
-      applicants qualify. Information and pricing are subject to change at any
-      time and without notice. The content in this advertisement is for
-      informational purposes only. Products not available in all areas. As
-      prohibited by federal law, we do not engage in business practices that
-      discriminate on the basis of race, color, religion, national origin, sex,
-      marital status, age (provided you have the capacity to enter into a
-      binding contract), because all or part of your income may be derived from
-      any public assistance program, or because you have, in good faith,
-      exercised any right under the Consumer Credit Protection Act. The federal
-      agency that administers our compliance with these federal laws is the
-      Federal Trade Commission, Equal Credit Opportunity, Washington, DC, 20580.
-      American Financial Network, Inc. is an Equal Housing Lender.
+      Financing Law. Refer to
+      [www.nmlsconsumeraccess.org](http://www.nmlsconsumeraccess.org) and input
+      NMLS #237341 to see where American Financial Network, Inc. is a licensed
+      lender. In all states, the principal licensed office of American Financial
+      Network, Inc. is 10 Pointe Drive, Suite 330, Brea, CA 92821; Phone: (714)
+      831-4000 (NMLS ID#237341). This is not an offer for extension of credit or
+      commitment to lend. All loans must satisfy company underwriting
+      guidelines. Not all applicants qualify. Information and pricing are
+      subject to change at any time and without notice. The content in this
+      advertisement is for informational purposes only. Products not available
+      in all areas. As prohibited by federal law, we do not engage in business
+      practices that discriminate on the basis of race, color, religion,
+      national origin, sex, marital status, age (provided you have the capacity
+      to enter into a binding contract), because all or part of your income may
+      be derived from any public assistance program, or because you have, in
+      good faith, exercised any right under the Consumer Credit Protection Act.
+      The federal agency that administers our compliance with these federal laws
+      is the Federal Trade Commission, Equal Credit Opportunity, Washington, DC,
+      20580. American Financial Network, Inc. is an Equal Housing Lender.
     privacy_policy_url: 'https://www.afncorp.com/web/afncorp/privacy-policy'
     licensing_url: 'https://www.afncorp.com/web/afncorp/license'
     managers: |
@@ -176,30 +177,55 @@ clients:
         answer: >
           Second mortgage is due and payable upon sale, refinance or payoff of
           First mortgage if balance is not paid off.
-    disclaimer: |
+    disclaimer: >
       CORP NMLS# 237341. American Financial Network, Inc. is licensed by the
+
       California Department of Business Oversight under the California Financing
+
       Law License (6038771) and holds a CA Bureau of Real Estate, Real Estate
+
       Broker’s License (01317581) under Nationwide Mortgage Licensing System
+
       (NMLS), unique identifier of 237341. Broker is performing acts for which a
+
       license is required. Loans made or arranged pursuant to California
-      Financing Law. Refer to www.nmlsconsumeraccess.org and input NMLS #237341
+
+      Financing Law. Refer to
+      [www.nmlsconsumeraccess.org](http://www.nmlsconsumeraccess.org) and input
+      NMLS #237341
+
       to see where American Financial Network, Inc. is a licensed lender. In all
+
       states, the principal licensed office of American Financial Network, Inc.
+
       is 10 Pointe Drive, Suite 330, Brea, CA 92821; Phone: (714) 831-4000 (NMLS
+
       ID#237341). This is not an offer for extension of credit or commitment to
+
       lend. All loans must satisfy company underwriting guidelines. Not all
+
       applicants qualify. Information and pricing are subject to change at any
+
       time and without notice. The content in this advertisement is for
+
       informational purposes only. Products not available in all areas. As
+
       prohibited by federal law, we do not engage in business practices that
+
       discriminate on the basis of race, color, religion, national origin, sex,
+
       marital status, age (provided you have the capacity to enter into a
+
       binding contract), because all or part of your income may be derived from
+
       any public assistance program, or because you have, in good faith,
+
       exercised any right under the Consumer Credit Protection Act. The federal
+
       agency that administers our compliance with these federal laws is the
+
       Federal Trade Commission, Equal Credit Opportunity, Washington, DC, 20580.
+
       American Financial Network, Inc. is an Equal Housing Lender.
     privacy_policy_url: 'https://www.afncorp.com/web/afncorp/privacy-policy'
     licensing_url: 'https://www.afncorp.com/web/afncorp/license'
@@ -282,30 +308,55 @@ clients:
           A jumbo mortgage is a home loan for an amount that exceeds conforming
           loan limits established by the federal housing finance agency. The
           conventional loan limit is $726,200 in Texas.
-    disclaimer: |
+    disclaimer: >
       CORP NMLS# 237341. American Financial Network, Inc. is licensed by the
+
       California Department of Business Oversight under the California Financing
+
       Law License (6038771) and holds a CA Bureau of Real Estate, Real Estate
+
       Broker’s License (01317581) under Nationwide Mortgage Licensing System
+
       (NMLS), unique identifier of 237341. Broker is performing acts for which a
+
       license is required. Loans made or arranged pursuant to California
-      Financing Law. Refer to www.nmlsconsumeraccess.org and input NMLS #237341
+
+      Financing Law. Refer to
+      [www.nmlsconsumeraccess.org](http://www.nmlsconsumeraccess.org) and input
+      NMLS #237341
+
       to see where American Financial Network, Inc. is a licensed lender. In all
+
       states, the principal licensed office of American Financial Network, Inc.
+
       is 10 Pointe Drive, Suite 330, Brea, CA 92821; Phone: (714) 831-4000 (NMLS
+
       ID#237341). This is not an offer for extension of credit or commitment to
+
       lend. All loans must satisfy company underwriting guidelines. Not all
+
       applicants qualify. Information and pricing are subject to change at any
+
       time and without notice. The content in this advertisement is for
+
       informational purposes only. Products not available in all areas. As
+
       prohibited by federal law, we do not engage in business practices that
+
       discriminate on the basis of race, color, religion, national origin, sex,
+
       marital status, age (provided you have the capacity to enter into a
+
       binding contract), because all or part of your income may be derived from
+
       any public assistance program, or because you have, in good faith,
+
       exercised any right under the Consumer Credit Protection Act. The federal
+
       agency that administers our compliance with these federal laws is the
+
       Federal Trade Commission, Equal Credit Opportunity, Washington, DC, 20580.
+
       American Financial Network, Inc. is an Equal Housing Lender.
     privacy_policy_url: 'https://www.afncorp.com/web/afncorp/privacy-policy'
     licensing_url: 'https://www.afncorp.com/web/afncorp/license'
@@ -388,30 +439,55 @@ clients:
           on these loans. We will work with your situation so you can keep more
           money in your pocket (for example, with smaller down payments as low
           as 5%).
-    disclaimer: |
+    disclaimer: >
       CORP NMLS# 237341. American Financial Network, Inc. is licensed by the
+
       California Department of Business Oversight under the California Financing
+
       Law License (6038771) and holds a CA Bureau of Real Estate, Real Estate
+
       Broker’s License (01317581) under Nationwide Mortgage Licensing System
+
       (NMLS), unique identifier of 237341. Broker is performing acts for which a
+
       license is required. Loans made or arranged pursuant to California
-      Financing Law. Refer to www.nmlsconsumeraccess.org and input NMLS #237341
+
+      Financing Law. Refer to
+      [www.nmlsconsumeraccess.org](http://www.nmlsconsumeraccess.org) and input
+      NMLS #237341
+
       to see where American Financial Network, Inc. is a licensed lender. In all
+
       states, the principal licensed office of American Financial Network, Inc.
+
       is 10 Pointe Drive, Suite 330, Brea, CA 92821; Phone: (714) 831-4000 (NMLS
+
       ID#237341). This is not an offer for extension of credit or commitment to
+
       lend. All loans must satisfy company underwriting guidelines. Not all
+
       applicants qualify. Information and pricing are subject to change at any
+
       time and without notice. The content in this advertisement is for
+
       informational purposes only. Products not available in all areas. As
+
       prohibited by federal law, we do not engage in business practices that
+
       discriminate on the basis of race, color, religion, national origin, sex,
+
       marital status, age (provided you have the capacity to enter into a
+
       binding contract), because all or part of your income may be derived from
+
       any public assistance program, or because you have, in good faith,
+
       exercised any right under the Consumer Credit Protection Act. The federal
+
       agency that administers our compliance with these federal laws is the
+
       Federal Trade Commission, Equal Credit Opportunity, Washington, DC, 20580.
+
       American Financial Network, Inc. is an Equal Housing Lender.
     privacy_policy_url: 'https://www.afncorp.com/web/afncorp/privacy-policy'
     licensing_url: 'https://www.afncorp.com/web/afncorp/license'
@@ -495,30 +571,55 @@ clients:
           This program is available in Texas, California, Florida, Colorado and
           most other states! And the good news is we have a team of people
           available to help in most states!
-    disclaimer: |
+    disclaimer: >
       CORP NMLS# 237341. American Financial Network, Inc. is licensed by the
+
       California Department of Business Oversight under the California Financing
+
       Law License (6038771) and holds a CA Bureau of Real Estate, Real Estate
+
       Broker’s License (01317581) under Nationwide Mortgage Licensing System
+
       (NMLS), unique identifier of 237341. Broker is performing acts for which a
+
       license is required. Loans made or arranged pursuant to California
-      Financing Law. Refer to www.nmlsconsumeraccess.org and input NMLS #237341
+
+      Financing Law. Refer to
+      [www.nmlsconsumeraccess.org](http://www.nmlsconsumeraccess.org) and input
+      NMLS #237341
+
       to see where American Financial Network, Inc. is a licensed lender. In all
+
       states, the principal licensed office of American Financial Network, Inc.
+
       is 10 Pointe Drive, Suite 330, Brea, CA 92821; Phone: (714) 831-4000 (NMLS
+
       ID#237341). This is not an offer for extension of credit or commitment to
+
       lend. All loans must satisfy company underwriting guidelines. Not all
+
       applicants qualify. Information and pricing are subject to change at any
+
       time and without notice. The content in this advertisement is for
+
       informational purposes only. Products not available in all areas. As
+
       prohibited by federal law, we do not engage in business practices that
+
       discriminate on the basis of race, color, religion, national origin, sex,
+
       marital status, age (provided you have the capacity to enter into a
+
       binding contract), because all or part of your income may be derived from
+
       any public assistance program, or because you have, in good faith,
+
       exercised any right under the Consumer Credit Protection Act. The federal
+
       agency that administers our compliance with these federal laws is the
+
       Federal Trade Commission, Equal Credit Opportunity, Washington, DC, 20580.
+
       American Financial Network, Inc. is an Equal Housing Lender.
     privacy_policy_url: 'https://www.afncorp.com/web/afncorp/privacy-policy'
     licensing_url: 'https://www.afncorp.com/web/afncorp/license'
@@ -609,24 +710,25 @@ clients:
       Broker's License (01317581) under Nationwide Mortgage Licensing System
       (NMLS), unique identifier of 237341. Broker is performing acts for which a
       license is required. Loans made or arranged pursuant to California
-      Financing Law. Refer to www.nmlsconsumeraccess.org and input NMLS #237341
-      to see where American Financial Network, Inc. is a licensed lender. In all
-      states, the principal licensed office of American Financial Network, Inc.
-      is 10 Pointe Drive, Suite 330, Brea, CA 92821; Phone: (714) 831-4000 (NMLS
-      ID#237341). This is not an offer for extension of credit or commitment to
-      lend. All loans must satisfy company underwriting guidelines. Not all
-      applicants qualify. Information and pricing are subject to change at any
-      time and without notice. The content in this advertisement is for
-      informational purposes only. Products not available in all areas. As
-      prohibited by federal law, we do not engage in business practices that
-      discriminate on the basis of race, color, religion, national origin, sex,
-      marital status, age (provided you have the capacity to enter into a
-      binding contract), because all or part of your income may be derived from
-      any public assistance program, or because you have, in good faith,
-      exercised any right under the Consumer Credit Protection Act. The federal
-      agency that administers our compliance with these federal laws is the
-      Federal Trade Commission, Equal Credit Opportunity, Washington, DC, 20580.
-      American Financial Network, Inc. is an Equal Housing Lender.
+      Financing Law. Refer to
+      [www.nmlsconsumeraccess.org](http://www.nmlsconsumeraccess.org) and input
+      NMLS #237341 to see where American Financial Network, Inc. is a licensed
+      lender. In all states, the principal licensed office of American Financial
+      Network, Inc. is 10 Pointe Drive, Suite 330, Brea, CA 92821; Phone: (714)
+      831-4000 (NMLS ID#237341). This is not an offer for extension of credit or
+      commitment to lend. All loans must satisfy company underwriting
+      guidelines. Not all applicants qualify. Information and pricing are
+      subject to change at any time and without notice. The content in this
+      advertisement is for informational purposes only. Products not available
+      in all areas. As prohibited by federal law, we do not engage in business
+      practices that discriminate on the basis of race, color, religion,
+      national origin, sex, marital status, age (provided you have the capacity
+      to enter into a binding contract), because all or part of your income may
+      be derived from any public assistance program, or because you have, in
+      good faith, exercised any right under the Consumer Credit Protection Act.
+      The federal agency that administers our compliance with these federal laws
+      is the Federal Trade Commission, Equal Credit Opportunity, Washington, DC,
+      20580. American Financial Network, Inc. is an Equal Housing Lender.
     privacy_policy_url: 'https://www.afncorp.com/web/afncorp/privacy-policy'
     licensing_url: 'https://www.afncorp.com/web/afncorp/license'
     managers: |
@@ -799,11 +901,12 @@ clients:
       CORP NMLS# 2179191. Xpert Home Lending, Inc. is licensed by the CA Bureau
       of Real Estate, Real Estate Broker’s License ( DRE # 021667858). Broker is
       performing acts for which a license is required. Loans made or arranged
-      pursuant to California Financing Law. Refer to www.nmlsconsumeraccess.org.
-      In all states, the principal licensed office of Xpert Home Lending, Inc.
-      is 1100 Satellite Blvd NW, Suwanee, GA 30024; Phone: (916) 474-9051. This
-      is not an offer for extension of credit or commitment to lend. All loans
-      must satisfy company underwriting guidelines. Not all applicants qualify.
+      pursuant to California Financing Law. Refer to
+      [www.nmlsconsumeraccess.org](http://www.nmlsconsumeraccess.org). In all
+      states, the principal licensed office of Xpert Home Lending, Inc. is 1100
+      Satellite Blvd NW, Suwanee, GA 30024; Phone: (916) 474-9051. This is not
+      an offer for extension of credit or commitment to lend. All loans must
+      satisfy company underwriting guidelines. Not all applicants qualify.
       Information and pricing are subject to change at any time and without
       notice. The content in this advertisement is for informational purposes
       only. Products not available in all areas. As prohibited by federal law,
@@ -822,3 +925,4 @@ clients:
       Ali Hedayatifar - RMLO - NMLS# 1817352
 _template: settings
 ---
+
