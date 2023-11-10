@@ -146,6 +146,8 @@ clients:
 
       ###### Frequently Asked Questions
     faqs:
+      - question: Who is Patrick Winn?
+        answer: "My drive and passion for real estate comes from the freedom and security that real estate has brought my family for generations to come. I am always ready to share what I have learned over the past 10 years of buying, selling and investing with anyone has has even just a small interest. We believe that home ownership is crucial to setting a solid financial foundation and have helped dozens of friends and family realize that dream.\_\n"
       - question: What are the monthly payments for grants?
         answer: >
           * 10 year term.
