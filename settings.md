@@ -178,16 +178,16 @@ clients:
           Second mortgage is due and payable upon sale, refinance or payoff of
           First mortgage if balance is not paid off.
     logo_cards:
-      - name: Patrick Winn
-        title: Realtor
-        company: Brooks & Morgan Real Estate
-        license: '9005001'
-        logo: /uploads/Brooks Morgan Logo.jpeg
       - name: Todd McDougall
         title: Branch Manager
         company: 'Mortgage Guru Group dba American Financial Network NMLS #237341'
         license: 'NMLS #302005'
         logo: /uploads/MGG New.jpeg
+      - name: Patrick Winn
+        title: Realtor
+        company: Brooks & Morgan Real Estate
+        license: '9005001'
+        logo: /uploads/Brooks Morgan Logo.jpeg
     disclaimer: >
       CORP NMLS# 237341. American Financial Network, Inc. is licensed by the
 
