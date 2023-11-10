@@ -140,6 +140,23 @@ permalink: "/"
         </div>
       </section>
       <section class="container-lg text-center py-5">
+        <div class="row justify-content-center">
+          {% for logo_card in client.logo_cards %}
+          <div class="col-sm-6 col-md-4">
+            <div class="card shadow-lg mb-4 d-flex align-items-center justify-content-center flex-column">
+              <img src="{{ logo_card.logo }}" class="card-img-top px-5 h-auto" alt="card-logo-{{ forloop.index }}" style="max-width: 400px;">
+              <div class="card-body">
+                <p class="card-text">
+                  <span class="fs-2 fw-bold">{{logo_card.name}}</span><br/>
+                  <span class="fs-3">{{logo_card.title}}</span><br/>
+                  <span class="fs-4">{{logo_card.company}}</span><br/>
+                  <span class="fs-5">{{logo_card.license}}</span>
+                </p>
+              </div>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
         <p>
           <small>
             {{ client.disclaimer }}

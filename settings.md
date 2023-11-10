@@ -177,6 +177,7 @@ clients:
         answer: >
           Second mortgage is due and payable upon sale, refinance or payoff of
           First mortgage if balance is not paid off.
+    logo_cards: []
     disclaimer: >
       CORP NMLS# 237341. American Financial Network, Inc. is licensed by the
 
@@ -925,4 +926,5 @@ clients:
       Ali Hedayatifar - RMLO - NMLS# 1817352
 _template: settings
 ---
+
 

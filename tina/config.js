@@ -135,6 +135,44 @@ export default defineConfig({
                     ],
                   },
                   {
+                    type: "object",
+                    name: "logo_cards",
+                    label: "Logo Cards",
+                    ui: {
+                      itemProps: (item) => {
+                        return { label: item?.name }
+                      }
+                    },
+                    list: true,
+                    fields: [
+                      {
+                        type: "string",
+                        name: "name",
+                        label: "Name",
+                      },
+                      {
+                        type: "string",
+                        name: "title",
+                        label: "Title",
+                      },
+                      {
+                        type: "string",
+                        name: "company",
+                        label: "Company",
+                      },
+                      {
+                        type: "string",
+                        name: "license",
+                        label: "License Information",
+                      },
+                      {
+                        type: "image",
+                        name: "logo",
+                        label: "Logo",
+                      },
+                    ],
+                  },
+                  {
                     type: "rich-text",
                     name: "disclaimer",
                     label: "Disclaimer",
