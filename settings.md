@@ -151,7 +151,7 @@ clients:
           Todd McDougall has over 25 years of mortgage experience.  Todd lives
           in Austin, Texas & specializes in Down Payment Assistance Programs,
           Non QM mortgages, Jumbo, and Self Employed borrowers.  Todd is
-          currently licensed in Texas, California, & Illinois. 
+          currently licensed in Texas, California, & Illinois.
       - question: Who is Patrick Winn?
         answer: "My drive and passion for real estate comes from the freedom and security that real estate has brought my family for generations to come. I am always ready to share what I have learned over the past 10 years of buying, selling and investing with anyone has has even just a small interest. We believe that home ownership is crucial to setting a solid financial foundation and have helped dozens of friends and family realize that dream.\_\n"
       - question: What are the monthly payments for grants?
@@ -774,7 +774,28 @@ clients:
 
       ##### Press Play To Learn More Below!
     video_embed_url: 'https://youtube.com/embed/S6i2M4_EVVA'
-    consent: "NMLS #46375 3838 Camino del Rio N Suite 305, San Diego, CA 92108.\_CalCon Mutual Mortgage LLC, dba HyperSmart Home Loans is an Equal Housing Lender NMLS #46375; 3838 Camino del Rio N Suite 305, San Diego, CA 92108. Corporate phone (888) 488-3807. For more licensing information visit:\_[https://onetrusthomeloans.com/licensing-information/](https://onetrusthomeloans.com/licensing-information/). All products are not available in all states. All options are not available on all programs. All programs are subject to borrower and property qualifications. Rates, terms and conditions are subject to change without notice. This is an Advertisement.\n"
+    consent: >
+      CORP NMLS# 2179191. Xpert Home Lending, Inc. is licensed by the CA Bureau
+      of Real Estate, Real Estate Broker’s License ( DRE # 021667858). Broker is
+      performing acts for which a license is required. Loans made or arranged
+      pursuant to California Financing Law. Refer to
+      www\.nmlsconsumeraccess.org. In all states, the principal licensed office
+      of Xpert Home Lending, Inc. is 1100 Satellite Blvd NW, Suwanee, GA 30024;
+      Phone: (916) 474-9051. This is not an offer for extension of credit or
+      commitment to lend. All loans must satisfy company underwriting
+      guidelines. Not all applicants qualify. Information and pricing are
+      subject to change at any time and without notice. The content in this
+      advertisement is for informational purposes only. Products not available
+      in all areas. As prohibited by federal law, we do not engage in business
+      practices that discriminate on the basis of race, color, religion,
+      national origin, sex, marital status, age (provided you have the capacity
+      to enter into a binding contract), because all or part of your income may
+      be derived from any public assistance program, or because you have, in
+      good faith, exercised any right under the Consumer Credit Protection Act.
+      The federal agency that administers our compliance with these federal laws
+      is the Federal Trade Commission, Equal Credit Opportunity, Washington, DC,
+      20580.Equal Housing Lender. HyperSmart Group is a team of Xpert Home
+      Lending, Inc.
     faqs_header: >
       ###### WE'RE HERE TO ANSWER ALL OF YOUR QUESTIONS ABOUT DOWN PAYMENT
       ASSISTANCE!
@@ -813,7 +834,28 @@ clients:
       - question: 'What mortgage program can I use with this program? '
         answer: |
           You can use this grant with the FHA & USDA programs.
-    disclaimer: "NMLS #46375 3838 Camino del Rio N Suite 305, San Diego, CA 92108.\_CalCon Mutual Mortgage LLC, dba HyperSmart Home Loans is an Equal Housing Lender NMLS #46375; 3838 Camino del Rio N Suite 305, San Diego, CA 92108. Corporate phone (888) 488-3807. For more licensing information visit:\_[https://onetrusthomeloans.com/licensing-information/](https://onetrusthomeloans.com/licensing-information/). All products are not available in all states. All options are not available on all programs. All programs are subject to borrower and property qualifications. Rates, terms and conditions are subject to change without notice. This is an Advertisement.\n"
+    disclaimer: >
+      CORP NMLS# 2179191. Xpert Home Lending, Inc. is licensed by the CA Bureau
+      of Real Estate, Real Estate Broker’s License ( DRE # 021667858). Broker is
+      performing acts for which a license is required. Loans made or arranged
+      pursuant to California Financing Law. Refer to
+      www\.nmlsconsumeraccess.org. In all states, the principal licensed office
+      of Xpert Home Lending, Inc. is 1100 Satellite Blvd NW, Suwanee, GA 30024;
+      Phone: (916) 474-9051. This is not an offer for extension of credit or
+      commitment to lend. All loans must satisfy company underwriting
+      guidelines. Not all applicants qualify. Information and pricing are
+      subject to change at any time and without notice. The content in this
+      advertisement is for informational purposes only. Products not available
+      in all areas. As prohibited by federal law, we do not engage in business
+      practices that discriminate on the basis of race, color, religion,
+      national origin, sex, marital status, age (provided you have the capacity
+      to enter into a binding contract), because all or part of your income may
+      be derived from any public assistance program, or because you have, in
+      good faith, exercised any right under the Consumer Credit Protection Act.
+      The federal agency that administers our compliance with these federal laws
+      is the Federal Trade Commission, Equal Credit Opportunity, Washington, DC,
+      20580.Equal Housing Lender. HyperSmart Group is a team of Xpert Home
+      Lending, Inc.
     privacy_policy_url: 'https://www.hypersmarthomeloans.com/privacy-policy/'
     licensing_url: 'https://onetrusthomeloans.com/licensing-information/'
     managers: |
