@@ -820,6 +820,8 @@ clients:
       Ali Hedayatifar | Founder |NMLS# 1817352
   - client_key: hypersmartjumbomortgages
     url: 'https://hypersmartjumbomortgages.com'
+    google_ads_conversion_id: '11059780456'
+    google_ads_conversion_label: aIE1COPK6NcYEOi225kp
     head_title: 'HyperSmart Home Loans & Xpert Home Lending - Fast Closing & Low Rates '
     head_description: >-
       Private Client Lending with 5% down Jumbo, Bank Statement Loans, DSCR
