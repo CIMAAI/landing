@@ -835,7 +835,7 @@ clients:
       #### One example is our 5% down Jumbo option with no mortgage insurance.
 
       ##### Press Play To Learn More Below!
-    video_embed_url: 'https://vimeo.com/735885856'
+    video_embed_url: 'https://vimeo.com/735885856?share=copy'
     phone: (737) 260-7797
     consent: "By submitting your contact information, you agree to our Privacy Policy and Legal Policy. You also expressly consent to having Xpert Home Lending Inc. DBA HyperSmart Home Loans\_ (“Company”) contact you about your inquiry by text message or phone (including automatic\_telephone\_dialing system or an artificial or prerecorded voice) to the residential or cellular\_telephone\_number you have provided, even if that\_telephone\_number is on a corporate, state, or national Do Not Call Registry. You do not have to agree to receive such calls or messages as a condition of getting any services from Company or its affiliates. By communicating with us by phone, you consent to calls being recorded and monitored.\n"
     faqs_header: |
