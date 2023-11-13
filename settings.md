@@ -774,11 +774,11 @@ clients:
 
       ##### Press Play To Learn More Below!
     video_embed_url: >-
-      <div style="padding:56.25% 0 0 0;position:relative;"><iframe
-      src="https://player.vimeo.com/video/884004575?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479"
+      <div style="padding:75% 0 0 0;position:relative;"><iframe
+      src="https://player.vimeo.com/video/884006689?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479"
       frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
       style="position:absolute;top:0;left:0;width:100%;height:100%;"
-      title="HyperNewGrants"></iframe></div><script
+      title="Hyper Grant Final"></iframe></div><script
       src="https://player.vimeo.com/api/player.js"></script>
     consent: "By submitting your contact information, you agree to our Privacy Policy and Legal Policy. You also expressly consent to having Xpert Home Lending Inc. DBA HyperSmart Home Loans\_ (“Company”) contact you about your inquiry by text message or phone (including automatic\_telephone\_dialing system or an artificial or prerecorded voice) to the residential or cellular\_telephone\_number you have provided, even if that\_telephone\_number is on a corporate, state, or national Do Not Call Registry. You do not have to agree to receive such calls or messages as a condition of getting any services from Company or its affiliates. By communicating with us by phone, you consent to calls being recorded and monitored.\n"
     faqs_header: >
