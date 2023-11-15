@@ -782,12 +782,6 @@ clients:
 
       ###### Frequently Asked Questions
     faqs:
-      - question: Can I have a non-occupant co-borrower?
-        answer: >+
-          Yes, absolutely. We have programs that allow for a non-occupant
-          co-borrower.
-
-
       - question: 'Is the grant forgivable? '
         answer: "The grant can be repayable or forgivable.\_\n\nRepayable DPA grant has a 10-year term with an interest rate of 2% higher than the interest rate on the FHA first mortgage. This loan requires a monthly payment on the second mortgage.\n\nForgivable DPA grant has a 30-year term with an interest rate of 0% (0% APR). This loan does not require a monthly payment on the second mortgage. Forgiveness is based on DPA Percentage. 3.5%: Forgiven after 36 consecutive, on-time payments on the first mortgage. 5%: Forgiven after the initial 120 on-time payments on the first.\n\n\n"
       - question: What are the monthly payments for grants?
@@ -809,6 +803,12 @@ clients:
         answer: >
           You can buy single family homes, condos, modular/manufactured homes,
           and even properties with up to 2 units (such as a duplex). 
+      - question: Can I have a non-occupant co-borrower?
+        answer: >+
+          Yes, absolutely. We have programs that allow for a non-occupant
+          co-borrower.
+
+
     disclaimer: "Xpert Home Lending, Inc. (NMLS# 2179191)\_DBA HyperSmart Home Loans. Ali Hedayatifar RMLO (NMLS #1817352). Refer to\_[www.nmlsconsumeraccess.org](http://www.nmlsconsumeraccess.org/). In all states, the principal licensed office of Xpert Home Lending, Inc. is 1100 Satellite Blvd NW, Suwanee, GA 30024;\_ This is not an offer for extension of credit or commitment to lend. All loans must satisfy company underwriting guidelines. Not all applicants qualify. Information and pricing are subject to change at any time and without notice. The content in this advertisement is for informational purposes only. Products not available in all areas. CA Bureau of Real Estate, Real Estate Broker’s License ( DRE # 021667858). Broker is performing acts for which a license is required. Loans made or arranged pursuant to California Financing Law.\_Equal Housing Lender.\_\n"
     privacy_policy_url: 'https://www.xperthomelending.com/privacy-policy/'
     licensing_url: 'https://www.xperthomelending.com/legal/'
