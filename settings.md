@@ -788,10 +788,10 @@ clients:
         answer: "* The monthly payment will depend on whether it is a repayable or forgivable grant.\_\n* Repayable DPA grant has a 10-year term with an interest rate of 2% higher than the interest rate on the FHA first mortgage.\_\n* For example, if the FHA first lien is 7.75%, then the grant rate is 9.75%. On a 350,000-purchase price, the down payment grant of 3.5% would be $12,250. On a 10-year term, the monthly payment for the $12,250 grant would be $160 a month for 10 years.\_\n* Forgivable DPA grant does not have a monthly payment. \n"
       - question: 'What if I have poor credit? '
         answer: >
-          You may be eligible with credit scores down to 580! Don’t worry if you
-          are below that number. Our licensed loan officers can work with you on
-          your score. Our loan officers are well versed in working with many
-          homeowners regarding their credit scores.
+          You may be eligible with credit scores down to 600! Don’t worry if you
+          are below that number. Our licensed loan officers can work with you to
+          understand your score. Our loan officers are well versed in working
+          with many homeowners regarding their credit scores.
       - question: 'Do I have to be a first time home buyer? '
         answer: >
           You do NOT have to be a first-time homebuyer in order to be approved
