@@ -785,16 +785,7 @@ clients:
       - question: 'Is the grant forgivable? '
         answer: "The grant can be repayable or forgivable.\_\n\nRepayable DPA grant has a 10-year term with an interest rate of 2% higher than the interest rate on the FHA first mortgage. This loan requires a monthly payment on the second mortgage.\n\nForgivable DPA grant has a 30-year term with an interest rate of 0% (0% APR). This loan does not require a monthly payment on the second mortgage. Forgiveness is based on DPA Percentage. 3.5%: Forgiven after 36 consecutive, on-time payments on the first mortgage. 5%: Forgiven after the initial 120 on-time payments on the first.\n\n\n"
       - question: What are the monthly payments for grants?
-        answer: >
-          * 10 year term.
-
-          * Note rate of the grant is 2% above the first lien rate amortized
-          over 10 years!
-
-          * 10 year amortizing loan with monthly payments.
-
-          * 300k FHA, 3.5% down payment is $10,500 with current rate of 6%.
-          ($10,500 grant payment will be 8% or $127/month over 10 years.
+        answer: "* The monthly payment will depend on whether it is a repayable or forgivable grant.\_\n* Repayable DPA grant has a 10-year term with an interest rate of 2% higher than the interest rate on the FHA first mortgage.\_\n* For example, if the FHA first lien is 7.75%, then the grant rate is 9.75%. On a 350,000-purchase price, the down payment grant of 3.5% would be $12,250. On a 10-year term, the monthly payment for the $12,250 grant would be $160 a month for 10 years.\_\n* Forgivable DPA grant does not have a monthly payment. \n"
       - question: 'What if I have poor credit? '
         answer: >
           You may be eligible with credit scores down to 580! Don’t worry if you
