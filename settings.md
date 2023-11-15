@@ -794,8 +794,8 @@ clients:
           with many homeowners regarding their credit scores.
       - question: 'Do I have to be a first time home buyer? '
         answer: >
-          You do NOT have to be a first-time homebuyer in order to be approved
-          for down payment assistance. It is only required that the home you are
+          You do NOT have to be a first-time homebuyer to be approved for down
+          payment assistance. It is only required that the home you are
           purchasing will be your primary residence.
       - question: 'How do I know if I make too much? '
         answer: "Your income must be less than 160% of your area median income. Our licensed loan officers can check the limits for the are you are purchasing in extremely fast.\_ We can give exceptions if you make over the 160% of the area median income.\_\n"
