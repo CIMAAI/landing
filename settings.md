@@ -872,7 +872,7 @@ clients:
           example, with smaller down payments as low as 5%).
       - question: How much do I need to put down?
         answer: >
-          * Borrowers can now put as little as 5% down up to a $1,027,000
+          * Borrowers can now put as little as 5% down up to a $1,050,000
           purchase price.
 
           * We can finance homes with zero down payment for certain qualified
