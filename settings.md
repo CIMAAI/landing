@@ -822,7 +822,7 @@ clients:
       Private Client Lending with 5% down Jumbo, Bank Statement Loans, DSCR
       Loans, Conventional, and Government Loans. 
     logo: /uploads/Hypersmart-Logo-500x500-1-e1687536276429.jpeg
-    header_text: "The maximum 2023 conforming mortgage loan limit in Texas is $726,200, for a single-family home. This applies to every county in Texas. We lend on mortgages above the conforming loan limit with as little as 5% down up to a sales price\_ of $1,050,000. 10% down up to a sales price of $2,225,000.\n"
+    header_text: "The maximum 2023 conforming mortgage loan limit in Texas is $726,200, for a single-family home. This applies to every county in Texas. We lend on mortgages above the conforming loan limit with as little as 5% down up to a sales price\_ of $1,050,000. 10% down up to a sales price of $2,222,200\_.\n"
     video_header_text: |
       ### We have creative lending options with great rates.
 
