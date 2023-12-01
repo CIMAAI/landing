@@ -3,7 +3,7 @@ const { readFileSync, writeFileSync } = require('fs');
 const { execSync } = require('child_process');
 
 (() => {
-  const clientKeys = fm(readFileSync('./settings.md', 'utf-8')).attributes.clients
+  const clientKeys = fm(readFileSync('./clients.md', 'utf-8')).attributes.clients
     .map(client => client.client_key).sort();
   console.log(clientKeys)
   clientKeys.forEach(clientKey => {

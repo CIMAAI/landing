@@ -21,14 +21,14 @@ export default defineConfig({
   schema: {
     collections: [
       {
-        name: 'settings',
-        label: 'Settings',
+        name: 'clients',
+        label: 'Clients',
         path: '',
         format: 'md',
         templates: [
           {
-            name: 'settings',
-            label: 'Settings',
+            name: 'clients',
+            label: 'Clients',
             fields: [
               {
                 type: "object",

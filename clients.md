@@ -898,6 +898,6 @@ clients:
     licensing_url: 'https://www.xperthomelending.com/legal/'
     managers: |
       Ali Hedayatifar | Founder |NMLS# 1817352
-_template: settings
+_template: clients
 ---
 

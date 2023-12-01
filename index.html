@@ -2,9 +2,9 @@
 permalink: "/"
 ---
 {% for _page in site.pages %}
-  {% if _page._template == 'settings' %}
-    {% assign settings = _page %}
-    {% for _client in settings.clients %}
+  {% if _page._template == 'clients' %}
+    {% assign clients = _page %}
+    {% for _client in clients.clients %}
       {% if _client.client_key == site.client_key %}
         {% assign client = _client %}
       {% endif %}
