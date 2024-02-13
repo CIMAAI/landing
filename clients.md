@@ -20,6 +20,9 @@ clients:
     faqs_header: |
       We're here to answer all of your questions about down payment assistance!
     faqs:
+      - question: Where is this program available?
+        answer: |
+          Washington!
       - question: What mortgage program can you use with this grant?
         answer: |
           You can use this grant with the FHA & USDA programs.
