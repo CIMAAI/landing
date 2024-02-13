@@ -20,6 +20,12 @@ clients:
     faqs_header: |
       We're here to answer all of your questions about down payment assistance!
     faqs:
+      - question: What if I have poor credit?
+        answer: >
+          You may be eligible with credit scores down to 600! Don’t worry if you
+          are below that number. Our licensed loan officers can work with you on
+          your score. Our loan officers are well versed in working with many
+          homeowners regarding their credit scores.
       - question: Do I have to be a first time home buyer?
         answer: >
           You do NOT have to be a first-time homebuyer in order to be approved
