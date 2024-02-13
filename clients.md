@@ -20,6 +20,11 @@ clients:
     faqs_header: |
       We're here to answer all of your questions about down payment assistance!
     faqs:
+      - question: Do I have to be a first time home buyer?
+        answer: >
+          You do NOT have to be a first-time homebuyer in order to be approved
+          for down payment assistance. It is only required that the home you are
+          purchasing will be your primary residence.
       - question: How do I know if I make too much?
         answer: >
           Your income must be less than 160% of your area median income. Our
