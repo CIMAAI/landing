@@ -36,7 +36,7 @@ export default defineConfig({
                 label: "Clients",
                 ui: {
                   itemProps: (item) => {
-                    return { label: item?.url }
+                    return { label: item?.client_key }
                   }
                 },
                 list: true,
