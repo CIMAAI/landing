@@ -1,5 +1,49 @@
 ---
 clients:
+  - client_key: washingtonjumbomortgageguru
+    url: https//washingtonjumbomortgageguru.com
+    head_title: Washington Jumbo Mortgages - 5% Down Jumbo Mortgages
+    head_description: >-
+      5% Down Washington Jumbo Mortgages.  No Taxes Needed.  Bank Statement
+      Mortgage. 10% Down Jumbo Mortgage To $2,200,000. 
+    logo: /uploads/renown morgage logo.png
+    header_text: |
+      We're here to answer all of your questions about Jumbo loans!
+    video_header_text: |
+      ### Do You Have Credit Issues?
+
+      #### Don't Be Discouraged.
+
+      ##### Press Play To Learn More Below!
+    consent: >
+      By submitting your contact information you agree to our Licensing
+
+      Disclaimer, Terms of Use and Privacy Policy. You also expressly consent to
+
+      having Renown Mortgage contact you
+
+      about your inquiry by text message or phone (including automatic telephone
+
+      dialing system or an artificial or prerecorded voice) to the residential
+
+      or cellular telephone number you have provided, even if that telephone
+
+      number is on a corporate, state, or national Do Not Call Registry. You do
+
+      not have to agree to receive such calls or messages as a condition of
+
+      getting any services from Renown Mortgage or its affiliates. By
+      communicating with us
+
+      by phone, you consent to calls being recorded and monitored.
+    faqs_header: |
+      Washington Jumbo Mortgage Guru - 5% Down Jumbo Mortgages
+    faqs:
+      - question: Are jumbo cash out refinances available?
+        answer: >
+          Yes! We also have no documentation investment jumbo cash out options
+          up 75% LTV. This means the underwriting approval is based on the
+          property and not your income. No tax returns are needed.
   - client_key: dpaguru
     url: 'https://dpaguru.com'
     google_analytics_id: null
