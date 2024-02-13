@@ -83,6 +83,9 @@ clients:
           Yes! We also have no documentation investment jumbo cash out options
           up 75% LTV. This means the underwriting approval is based on the
           property and not your income. No tax returns are needed.
+    privacy_policy_url: 'https://mortgageteamjustice.com/privacy/'
+    licensing_url: www.nmlsconsumeraccess.org
+    managers: "Justice Roberts. Founder, Mortgage Advisor with Renown Mortgage, NMLS\_#1269831\n"
   - client_key: dpaguru
     url: 'https://dpaguru.com'
     google_analytics_id: null
