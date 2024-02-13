@@ -58,6 +58,10 @@ clients:
 
           * 300k FHA, 3.5% down payment is $10,500 with current rate of 6%.
           ($10,500 grant payment will be 8% or $127/month over 10 years.
+    disclaimer: "Personal identification\_information\n\nWe may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related\_activities.\n\nNon-personal identification\_information\n\nWe may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar\_information.\n"
+    privacy_policy_url: 'https://mortgageteamjustice.com/privacy/'
+    licensing_url: www.nmlsconsumeraccess.org
+    managers: "Justice Roberts. Founder, Mortgage Advisor with Renown Mortgage, NMLS\_#1269831\n"
   - client_key: washingtonjumbomortgageguru
     url: https//washingtonjumbomortgageguru.com
     head_title: Washington Jumbo Mortgages - 5% Down Jumbo Mortgages
