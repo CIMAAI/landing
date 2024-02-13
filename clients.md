@@ -20,6 +20,12 @@ clients:
     faqs_header: |
       We're here to answer all of your questions about down payment assistance!
     faqs:
+      - question: How do I know if I make too much?
+        answer: >
+          Your income must be less than 160% of your area median income. Our
+          licensed loan officers can check the limits for the are you are
+          purchasing in extremely fast.  We can give exceptions if you make over
+          the 160% of the area median income.
       - question: Where is this program available?
         answer: |
           Washington!
