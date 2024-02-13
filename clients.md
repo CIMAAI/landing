@@ -39,6 +39,12 @@ clients:
     faqs_header: |
       Washington Jumbo Mortgage Guru - 5% Down Jumbo Mortgages
     faqs:
+      - question: What credit score is required?
+        answer: >
+          We now have jumbo mortgage options for buyers with credit scores down
+          to 620! The lower your credit score the more you will need to put
+          down. Purchase, refinance and cash out options are also available for
+          scores down to 620.
       - question: Are jumbo cash out refinances available?
         answer: >
           Yes! We also have no documentation investment jumbo cash out options
