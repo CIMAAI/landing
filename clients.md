@@ -64,7 +64,7 @@ clients:
     licensing_url: www.nmlsconsumeraccess.org
     managers: "Justice Roberts. Founder, Mortgage Advisor with Renown Mortgage, NMLS\_#1269831\n"
   - client_key: washingtonjumbomortgageguru
-    url: https//washingtonjumbomortgageguru.com
+    url: 'https://washingtonjumbomortgageguru.com'
     head_title: Washington Jumbo Mortgages - 5% Down Jumbo Mortgages
     head_description: >-
       5% Down Washington Jumbo Mortgages.  No Taxes Needed.  Bank Statement
