@@ -20,6 +20,10 @@ clients:
     faqs_header: |
       We're here to answer all of your questions about down payment assistance!
     faqs:
+      - question: 'Is the grant forgivable? '
+        answer: >
+          Second mortgage is due and payable upon sale, refinance or payoff of
+          first mortgage if balance is not paid off.
       - question: What are the monthly payment on the grant?
         answer: >
           * 10 year term.
