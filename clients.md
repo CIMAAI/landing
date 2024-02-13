@@ -39,6 +39,11 @@ clients:
     faqs_header: |
       Washington Jumbo Mortgage Guru - 5% Down Jumbo Mortgages
     faqs:
+      - question: Can you get a jumbo mortgage with no tax returns?
+        answer: >
+          Yes! We do have programs that don't require any tax returns.  If you
+          take the max write offs we have a solution for you.  If you have not
+          filed in a year or two, we also have options for you.
       - question: What credit score is required?
         answer: >
           We now have jumbo mortgage options for buyers with credit scores down
