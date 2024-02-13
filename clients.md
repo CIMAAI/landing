@@ -39,6 +39,19 @@ clients:
     faqs_header: |
       Washington Jumbo Mortgage Guru - 5% Down Jumbo Mortgages
     faqs:
+      - question: How much do I need to put down?
+        answer: >
+          * Borrowers can now put as little as 5% down up to a $1,200,000
+          purchase price.
+
+          * Borrowers can now put as little as 10% down up to a $2,200,000
+          purchase price
+
+          * Borrowers can now put 20% down up to a $3,750,000 purchase price.
+
+          * Other products available on a case by case basis
+
+          * Minimum credit scores of 620 are eligible on some jumbo products.
       - question: Why use our services?
         answer: >
           We specialize in jumbo mortgages in Washington (meaning loan amounts
