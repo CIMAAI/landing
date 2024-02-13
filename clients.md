@@ -39,6 +39,11 @@ clients:
     faqs_header: |
       Washington Jumbo Mortgage Guru - 5% Down Jumbo Mortgages
     faqs:
+      - question: What is a jumbo mortgage?
+        answer: >
+          A jumbo mortgage is a home loan for an amount that exceeds conforming
+          loan limits established by the federal housing finance agency. The
+          conventional loan limit is $766,550 in Washington.
       - question: How much do I need to put down?
         answer: >
           * Borrowers can now put as little as 5% down up to a $1,200,000
