@@ -1,5 +1,36 @@
 ---
 clients:
+  - client_key: dpaguru.com/wa
+    url: 'https://dpaguru.com/wa'
+    head_title: Programs For Down Payment Assistance Washington | DpaGuru.com
+    head_description: >-
+      Are you Looking for down payment assistance to purchase your home? Get
+      first time homeowners grant money with exclusive payment assistance & home
+      owner buyer’s details.
+    logo: /uploads/renown morgage logo.png
+    header_text: >
+      3.5% grant available for your down payment & closing cost.  Purchase your
+      new home with nothing down!
+    video_header_text: |
+      ### Do You Have Credit Issues?
+
+      #### Don't Be Discouraged.
+
+      ##### Press Play To Learn More Below!
+    faqs_header: |
+      We're here to answer all of your questions about down payment assistance!
+    faqs:
+      - question: What are the monthly payment on the grant?
+        answer: >
+          * 10 year term.
+
+          * Note rate of the grant is 2% above the first lien rate amortized
+          over 10 years!
+
+          * 10 year amortizing loan with monthly payments.
+
+          * 300k FHA, 3.5% down payment is $10,500 with current rate of 6%.
+          ($10,500 grant payment will be 8% or $127/month over 10 years.
   - client_key: washingtonjumbomortgageguru
     url: https//washingtonjumbomortgageguru.com
     head_title: Washington Jumbo Mortgages - 5% Down Jumbo Mortgages
