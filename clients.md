@@ -39,6 +39,9 @@ clients:
     faqs_header: |
       Washington Jumbo Mortgage Guru - 5% Down Jumbo Mortgages
     faqs:
+      - question: Where are these programs available?
+        answer: |
+          These programs are available in all of Texas.
       - question: Can you get a jumbo mortgage with no tax returns?
         answer: >
           Yes! We do have programs that don't require any tax returns.  If you
