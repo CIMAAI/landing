@@ -21,6 +21,7 @@ clients:
 
       ##### Press Play To Learn More Below!
     video_embed_url: 'https://player.vimeo.com/video/913385616'
+    phone: (206) 326-1802
     consent: ''
     faqs_header: |
       We're here to answer all of your questions about down payment assistance!
