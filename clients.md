@@ -1,6 +1,6 @@
 ---
 clients:
-  - client_key: dpaguru_wa
+  - client_key: dpaguru.com/wa
     url: 'https://dpaguru.com/wa'
     head_title: Programs For Down Payment Assistance Washington | DpaGuru.com
     head_description: >-
@@ -17,7 +17,6 @@ clients:
       #### Don't Be Discouraged.
 
       ##### Press Play To Learn More Below!
-    consent: ''
     faqs_header: |
       We're here to answer all of your questions about down payment assistance!
     faqs:
@@ -64,7 +63,10 @@ clients:
     licensing_url: www.nmlsconsumeraccess.org
     managers: "Justice Roberts. Founder, Mortgage Advisor with Renown Mortgage, NMLS\_#1269831\n"
   - client_key: washingtonjumbomortgageguru
-    url: 'https://washingtonjumbomortgageguru.com'
+    url: https//washingtonjumbomortgageguru.com
+    google_analytics_id: '7538141263'
+    google_ads_conversion_id: '11059792690'
+    google_ads_conversion_label: FhdFCI7R0JIZELKW3Jkp
     head_title: Washington Jumbo Mortgages - 5% Down Jumbo Mortgages
     head_description: >-
       5% Down Washington Jumbo Mortgages.  No Taxes Needed.  Bank Statement
