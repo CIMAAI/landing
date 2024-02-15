@@ -85,6 +85,8 @@ clients:
       #### Don't Be Discouraged.
 
       ##### Press Play To Learn More Below!
+    video_embed_url: 'https://player.vimeo.com/video/913398536'
+    phone: (206) 326-1802
     consent: >
       By submitting your contact information you agree to our Licensing
 
