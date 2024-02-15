@@ -1,7 +1,7 @@
 ---
 clients:
   - client_key: dpaguru.com/wa
-    url: 'https://dpaguru.com/washington'
+    url: 'https://dpaguru.com/wa/'
     google_analytics_id: '7538130389'
     google_ads_conversion_id: '11059792690'
     google_ads_conversion_label: 9Co6CMzr0JIZELKW3Jkp
