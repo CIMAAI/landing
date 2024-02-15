@@ -20,7 +20,7 @@ clients:
       #### Don't Be Discouraged.
 
       ##### Press Play To Learn More Below!
-    video_embed_url: 'https://vimeo.com/913385616'
+    video_embed_url: 'https://player.vimeo.com/video/913385616'
     consent: ''
     faqs_header: |
       We're here to answer all of your questions about down payment assistance!
