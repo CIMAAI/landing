@@ -20,6 +20,7 @@ clients:
       #### Don't Be Discouraged.
 
       ##### Press Play To Learn More Below!
+    video_embed_url: 'https://vimeo.com/913385616?share=copy'
     consent: ''
     faqs_header: |
       We're here to answer all of your questions about down payment assistance!
@@ -67,7 +68,7 @@ clients:
     licensing_url: www.nmlsconsumeraccess.org
     managers: "Justice Roberts. Founder, Mortgage Advisor with Renown Mortgage, NMLS\_#1269831\n"
   - client_key: washingtonjumbomortgageguru
-    url: 'https://washingtonjumbomortgageguru.com'
+    url: https//washingtonjumbomortgageguru.com
     google_analytics_id: '7538141263'
     google_ads_conversion_id: '11059792690'
     google_ads_conversion_label: FhdFCI7R0JIZELKW3Jkp
