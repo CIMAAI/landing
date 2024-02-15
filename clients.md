@@ -1,7 +1,10 @@
 ---
 clients:
   - client_key: dpaguru.com/wa
-    url: 'https://dpaguru.com/wa'
+    url: 'https://dpaguru.com/washington'
+    google_analytics_id: '7538130389'
+    google_ads_conversion_id: '11059792690'
+    google_ads_conversion_label: 9Co6CMzr0JIZELKW3Jkp
     head_title: Programs For Down Payment Assistance Washington | DpaGuru.com
     head_description: >-
       Are you Looking for down payment assistance to purchase your home? Get
@@ -17,6 +20,7 @@ clients:
       #### Don't Be Discouraged.
 
       ##### Press Play To Learn More Below!
+    consent: ''
     faqs_header: |
       We're here to answer all of your questions about down payment assistance!
     faqs:
