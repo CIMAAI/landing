@@ -1,6 +1,6 @@
 ---
 clients:
-  - client_key: dpaguru.com/wa
+  - client_key: dpaguru_wa
     url: 'https://dpaguru.com/wa/'
     google_analytics_id: '7538130389'
     google_ads_conversion_id: '11059792690'
